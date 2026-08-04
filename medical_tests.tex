@@ -1,0 +1,410 @@
+% Common Medical Tests: A Comprehensive Reference
+% Compile with: pdflatex medical_tests.tex
+
+\documentclass[12pt,oneside]{book}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\setlistdepth{9}
+\usepackage{caption}
+\usepackage{makeidx}
+\usepackage{tocloft}
+
+\renewcommand{\cftchapnumwidth}{3em}
+
+\geometry{margin=1in}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=cyan,
+    citecolor=red,
+    pdftitle={Common Medical Tests: A Comprehensive Reference},
+    pdfauthor={Medical Reference Team}
+}
+
+\makeindex
+
+% ============================================================
+% CUSTOM COMMANDS
+% ============================================================
+\newenvironment{testbox}[1][]{\noindent\textbf{#1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newenvironment{refbox}[1][]{\noindent\textbf{#1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newenvironment{notebox}[1][]{\noindent\textbf{#1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newenvironment{pearlbox}[1][]{\noindent\textbf{Clinical Pearl: #1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newenvironment{warnbox}[1][]{\noindent\textbf{#1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newenvironment{quickref}[1][]{\noindent\textbf{#1}\par\noindent\ignorespaces}{\par\vspace{0.5em}}
+\newcommand{\chapterquote}[1]{\vspace{-0.5em}\textit{\hfill``#1''}\vspace{1em}}
+
+\newcommand{\testcode}[1]{\texttt{#1}}
+\newcommand{\specimen}[1]{\textit{Specimen:} #1}
+\newcommand{\method}[1]{\textit{Method:} #1}
+\newcommand{\tat}[1]{\textit{TAT:} #1}
+\newcommand{\refrange}[1]{\textit{Ref Range:} #1}
+\newcommand{\testname}[1]{\textbf{#1}}
+
+\title{Common Medical Tests:\\ A Comprehensive Reference}
+\author{Medical Reference Team}
+\date{\today}
+
+\begin{document}
+
+\frontmatter
+
+% Title Page
+\begin{titlepage}
+    \centering
+    \vspace*{2cm}
+    {\Huge \bfseries Common Medical Tests}\\[0.5cm]
+    {\Large A Comprehensive Reference}\\[1.5cm]
+    {\large \textit{Laboratory Medicine, Diagnostic Imaging, and Clinical Procedures}}\\[2cm]
+    {\large Medical Reference Team}\\[0.5cm]
+    {\normalsize MedTests Publishing}\\[1cm]
+    {\today}\\[2cm]
+    {\small \textit{First Edition}}\\
+    \vfill
+    {\footnotesize This book is intended as a reference for healthcare professionals and students.}
+\end{titlepage}
+
+% Copyright Page
+\newpage
+\thispagestyle{empty}
+\vspace*{\fill}
+\noindent \copyright\ 2025 Medical Reference Team. All rights reserved.\\[0.5cm]
+\textbf{Disclaimer:} This book is for educational and reference purposes only.\\[0.5cm]
+ISBN: 978-0-000000-00-0\\[0.5cm]
+First Edition: 2025
+
+% Dedication
+\newpage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+    \textit{To the clinicians, laboratorians, and pathologists\\
+    who turn numbers into knowledge and data into diagnoses.}
+\end{center}
+\vspace*{\fill}
+
+% Preface
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+\markboth{Preface}{Preface}
+
+Modern clinical practice relies heavily on diagnostic testing. This book aims to bridge the gap between test ordering and result interpretation.
+
+\textbf{Organization:} This book covers medical laboratory tests organized alphabetically by test name. Individual tests are presented in a standardized format with 10 sections: What Is This Test?, Alternative Names, Principle, History, Why This Test Is Ordered, Primary vs Secondary Test, How This Test Is Performed, What Preparation Is Needed, Contraindications and Precautions, Risks, What Happens After the Test, Understanding Results (Below Normal / Above Normal), Normal Results, and Follow-up Tests.
+
+\vspace{1cm}
+\noindent \textit{Medical Reference Team}\\\\\\\textit{2025}
+
+% Table of Contents
+\setcounter{tocdepth}{0}
+\tableofcontents
+
+% List of Abbreviations
+\chapter*{List of Abbreviations}
+\addcontentsline{toc}{chapter}{List of Abbreviations}
+\markboth{Abbreviations}{Abbreviations}
+
+\begin{footnotesize}
+\begin{longtable}{@{}ll@{}}
+\toprule
+\textbf{Abbreviation} & \textbf{Meaning} \\
+\midrule
+\endhead
+CBC & Complete blood count \\
+BMP & Basic metabolic panel \\
+CMP & Comprehensive metabolic panel \\
+PT/INR & Prothrombin time / International normalized ratio \\
+aPTT & Activated partial thromboplastin time \\
+ABG & Arterial blood gas \\
+TSH & Thyroid-stimulating hormone \\
+BNP & B-type natriuretic peptide \\
+eGFR & Estimated glomerular filtration rate \\
+HbA1c & Glycated hemoglobin \\
+PSA & Prostate-specific antigen \\
+ANA & Antinuclear antibody \\
+CRP & C-reactive protein \\
+ESR & Erythrocyte sedimentation rate \\
+LDH & Lactate dehydrogenase \\
+CK & Creatine kinase \\
+BUN & Blood urea nitrogen \\
+UA & Urinalysis \\
+CT & Computed tomography \\
+MRI & Magnetic resonance imaging \\
+POCT & Point-of-care testing \\
+\bottomrule
+\end{longtable}
+\end{footnotesize}
+
+\mainmatter
+
+% ============================================================
+% PART I: MEDICAL TESTS
+% ============================================================
+\part{Medical Tests}
+
+% Introduction Chapter
+\include{tests_chapters/chapter01_introduction}
+
+% Test chapters (alphabetically sorted)
+\include{tests_chapters/test_17_hydroxyprogesterone}
+\include{tests_chapters/test_acetaminophen_level}
+\include{tests_chapters/test_acetylcholine_receptor_antibody}
+\include{tests_chapters/test_acid_fast_bacillus}
+\include{tests_chapters/test_adamts13}
+\include{tests_chapters/test_adrenocorticotropic_hormone}
+\include{tests_chapters/test_albumin_blood}
+\include{tests_chapters/test_alcohol_use_screening}
+\include{tests_chapters/test_aldosterone}
+\include{tests_chapters/test_alkaline_phosphatase}
+\include{tests_chapters/test_allergy_blood}
+\include{tests_chapters/test_alpha_1_antitrypsin}
+\include{tests_chapters/test_alpha_fetoprotein}
+\include{tests_chapters/test_alpha_fetoprotein_tumor_marker}
+\include{tests_chapters/test_alt_blood}
+\include{tests_chapters/test_ammonia_levels}
+\include{tests_chapters/test_amylase}
+\include{tests_chapters/test_ana}
+\include{tests_chapters/test_anion_gap_blood}
+\include{tests_chapters/test_anti_m_llerian_hormone}
+\include{tests_chapters/test_antibody_serology}
+\include{tests_chapters/test_antineutrophil_cytoplasmic_antibodies}
+\include{tests_chapters/test_ast}
+\include{tests_chapters/test_bacteria_culture}
+\include{tests_chapters/test_bacterial_vaginosis}
+\include{tests_chapters/test_basic_metabolic_panel}
+\include{tests_chapters/test_bcr_abl1_genetic}
+\include{tests_chapters/test_beta_2_microglobulin_tumor_marker}
+\include{tests_chapters/test_bilirubin_blood}
+\include{tests_chapters/test_bilirubin_in_urine}
+\include{tests_chapters/test_blood_alcohol_level}
+\include{tests_chapters/test_blood_differential}
+\include{tests_chapters/test_blood_glucose}
+\include{tests_chapters/test_blood_smear}
+\include{tests_chapters/test_braf_genetic}
+\include{tests_chapters/test_brca_genetic}
+\include{tests_chapters/test_bun}
+\include{tests_chapters/test_c_diff}
+\include{tests_chapters/test_c_peptide}
+\include{tests_chapters/test_c_reactive_protein}
+\include{tests_chapters/test_ca_125_blood}
+\include{tests_chapters/test_ca_19_9_blood}
+\include{tests_chapters/test_calcitonin}
+\include{tests_chapters/test_calcium_blood}
+\include{tests_chapters/test_calcium_in_urine}
+\include{tests_chapters/test_calprotectin_stool}
+\include{tests_chapters/test_carbamazepine}
+\include{tests_chapters/test_carbon_dioxide_in_blood}
+\include{tests_chapters/test_catecholamine}
+\include{tests_chapters/test_ccp_antibody}
+\include{tests_chapters/test_cd4_lymphocyte_count}
+\include{tests_chapters/test_cea}
+\include{tests_chapters/test_celiac_disease_serology}
+\include{tests_chapters/test_cerebrospinal_fluid_analysis}
+\include{tests_chapters/test_ceruloplasmin}
+\include{tests_chapters/test_chickenpox_and_shingles}
+\include{tests_chapters/test_chlamydia}
+\include{tests_chapters/test_chloride_blood}
+\include{tests_chapters/test_cholesterol_levels}
+\include{tests_chapters/test_chymotrypsin_in_stool}
+\include{tests_chapters/test_coagulation_factor}
+\include{tests_chapters/test_complement_blood}
+\include{tests_chapters/test_complete_blood_count}
+\include{tests_chapters/test_comprehensive_metabolic_panel}
+\include{tests_chapters/test_copper_blood}
+\include{tests_chapters/test_cortisol}
+\include{tests_chapters/test_creatine_kinase}
+\include{tests_chapters/test_creatinine}
+\include{tests_chapters/test_cryoglobulins}
+\include{tests_chapters/test_crystals_in_urine}
+\include{tests_chapters/test_csf_immunoglobulin_g_index}
+\include{tests_chapters/test_cyclosporine}
+\include{tests_chapters/test_cytomegalovirus}
+\include{tests_chapters/test_d_dimer}
+\include{tests_chapters/test_dengue_fever_antibody}
+\include{tests_chapters/test_dhea_sulfate}
+\include{tests_chapters/test_digoxin}
+\include{tests_chapters/test_drug}
+\include{tests_chapters/test_electrolyte_panel}
+\include{tests_chapters/test_epithelial_cells_in_urine}
+\include{tests_chapters/test_erythrocyte_sedimentation_rate}
+\include{tests_chapters/test_erythropoietin}
+\include{tests_chapters/test_estrogen_levels}
+\include{tests_chapters/test_ferritin_blood}
+\include{tests_chapters/test_fibrinogen}
+\include{tests_chapters/test_flu}
+\include{tests_chapters/test_folic_acid}
+\include{tests_chapters/test_follicle_stimulating_hormone_levels}
+\include{tests_chapters/test_free_light_chains}
+\include{tests_chapters/test_fungal_culture}
+\include{tests_chapters/test_g6pd}
+\include{tests_chapters/test_galactosemia}
+\include{tests_chapters/test_gamma_glutamyl_transferase}
+\include{tests_chapters/test_gentamicin}
+\include{tests_chapters/test_glucagon_blood}
+\include{tests_chapters/test_glucose_in_urine}
+\include{tests_chapters/test_gonorrhea}
+\include{tests_chapters/test_gram_stain}
+\include{tests_chapters/test_growth_hormone}
+\include{tests_chapters/test_haptoglobin}
+\include{tests_chapters/test_heavy_metal_blood}
+\include{tests_chapters/test_helicobacter_pylori}
+\include{tests_chapters/test_hematocrit}
+\include{tests_chapters/test_hemoglobin}
+\include{tests_chapters/test_hemoglobin_a1c}
+\include{tests_chapters/test_hemoglobin_electrophoresis}
+\include{tests_chapters/test_hepatitis}
+\include{tests_chapters/test_her2_tumor_marker}
+\include{tests_chapters/test_herpes}
+\include{tests_chapters/test_hiv_screening}
+\include{tests_chapters/test_hiv_viral_load}
+\include{tests_chapters/test_homocysteine}
+\include{tests_chapters/test_human_papillomavirus}
+\include{tests_chapters/test_igf_1}
+\include{tests_chapters/test_immunoglobulins_blood}
+\include{tests_chapters/test_insulin_in_blood}
+\include{tests_chapters/test_iron}
+\include{tests_chapters/test_karyotype_genetic}
+\include{tests_chapters/test_ketones_in_blood}
+\include{tests_chapters/test_ketones_in_urine}
+\include{tests_chapters/test_lactate}
+\include{tests_chapters/test_lactate_dehydrogenase}
+\include{tests_chapters/test_lactate_dehydrogenase_isoenzymes}
+\include{tests_chapters/test_lactose_tolerance}
+\include{tests_chapters/test_legionella}
+\include{tests_chapters/test_lipase}
+\include{tests_chapters/test_lipoprotein_blood}
+\include{tests_chapters/test_lithium}
+\include{tests_chapters/test_liver_function}
+\include{tests_chapters/test_lung_cancer_genetic}
+\include{tests_chapters/test_luteinizing_hormone_levels}
+\include{tests_chapters/test_lyme_disease_antibody}
+\include{tests_chapters/test_magnesium_blood}
+\include{tests_chapters/test_malaria}
+\include{tests_chapters/test_mcv}
+\include{tests_chapters/test_measles_and_mumps}
+\include{tests_chapters/test_meningococcal_disease}
+\include{tests_chapters/test_methotrexate}
+\include{tests_chapters/test_methylmalonic_acid}
+\include{tests_chapters/test_microalbumin_creatinine_ratio}
+\include{tests_chapters/test_mononucleosis}
+\include{tests_chapters/test_mpv_blood}
+\include{tests_chapters/test_mrsa}
+\include{tests_chapters/test_mthfr_gene}
+\include{tests_chapters/test_nasal_swab}
+\include{tests_chapters/test_natriuretic_peptide}
+\include{tests_chapters/test_nitrites_in_urine}
+\include{tests_chapters/test_opioid}
+\include{tests_chapters/test_osmolality}
+\include{tests_chapters/test_ova_and_parasite}
+\include{tests_chapters/test_parainfluenza}
+\include{tests_chapters/test_parathyroid_hormone}
+\include{tests_chapters/test_partial_thromboplastin_time}
+\include{tests_chapters/test_pcr}
+\include{tests_chapters/test_pharmacogenetic}
+\include{tests_chapters/test_phenylketonuria}
+\include{tests_chapters/test_phenytoin}
+\include{tests_chapters/test_phosphate_in_blood}
+\include{tests_chapters/test_phosphate_in_urine}
+\include{tests_chapters/test_platelet}
+\include{tests_chapters/test_pleural_fluid_analysis}
+\include{tests_chapters/test_pneumococcal_disease}
+\include{tests_chapters/test_porphyrin}
+\include{tests_chapters/test_potassium_blood}
+\include{tests_chapters/test_prealbumin_blood}
+\include{tests_chapters/test_pregnancy}
+\include{tests_chapters/test_prenatal_cell_free_dna}
+\include{tests_chapters/test_prenatal_panel}
+\include{tests_chapters/test_procalcitonin_sepsis_and_antibiotic_stewardship}
+\include{tests_chapters/test_progesterone}
+\include{tests_chapters/test_prolactin_levels}
+\include{tests_chapters/test_prostate_specific_antigen}
+\include{tests_chapters/test_protein_c_and_protein_s}
+\include{tests_chapters/test_protein_electrophoresis_by_immunofixation_blood}
+\include{tests_chapters/test_protein_in_urine}
+\include{tests_chapters/test_prothrombin_time_test_and_inr}
+\include{tests_chapters/test_pten_genetic}
+\include{tests_chapters/test_rdw}
+\include{tests_chapters/test_red_blood_cell_antibody}
+\include{tests_chapters/test_red_blood_cell_count}
+\include{tests_chapters/test_red_blood_cell_indices}
+\include{tests_chapters/test_renin}
+\include{tests_chapters/test_respiratory_pathogens_panel}
+\include{tests_chapters/test_respiratory_syncytial_virus}
+\include{tests_chapters/test_reticulocyte_count}
+\include{tests_chapters/test_rheumatoid_factor}
+\include{tests_chapters/test_salicylates_level}
+\include{tests_chapters/test_selenium}
+\include{tests_chapters/test_semen_analysis}
+\include{tests_chapters/test_sexually_transmitted_infection}
+\include{tests_chapters/test_shbg_blood}
+\include{tests_chapters/test_sirolimus}
+\include{tests_chapters/test_smooth_muscle_antibody}
+\include{tests_chapters/test_sodium_blood}
+\include{tests_chapters/test_sputum_culture}
+\include{tests_chapters/test_stool_elastase}
+\include{tests_chapters/test_strep_a}
+\include{tests_chapters/test_strep_b}
+\include{tests_chapters/test_sweat_test_for_cystic_fibrosis}
+\include{tests_chapters/test_synovial_fluid_analysis}
+\include{tests_chapters/test_syphilis}
+\include{tests_chapters/test_tacrolimus}
+\include{tests_chapters/test_testosterone_levels}
+\include{tests_chapters/test_theophylline}
+\include{tests_chapters/test_thyroglobulin}
+\include{tests_chapters/test_thyroid_antibodies}
+\include{tests_chapters/test_thyroxine}
+\include{tests_chapters/test_tobramycin}
+\include{tests_chapters/test_torch_panel}
+\include{tests_chapters/test_total_protein_and_albumin_globulin_ratio}
+\include{tests_chapters/test_tp53_genetic}
+\include{tests_chapters/test_trichomoniasis}
+\include{tests_chapters/test_triglycerides}
+\include{tests_chapters/test_triiodothyronine}
+\include{tests_chapters/test_troponin}
+\include{tests_chapters/test_tsh}
+\include{tests_chapters/test_tuberculosis}
+\include{tests_chapters/test_uric_acid}
+\include{tests_chapters/test_urobilinogen_in_urine}
+\include{tests_chapters/test_valproic_acid}
+\include{tests_chapters/test_vancomycin}
+\include{tests_chapters/test_vitamin_a}
+\include{tests_chapters/test_vitamin_b}
+\include{tests_chapters/test_vitamin_b12}
+\include{tests_chapters/test_vitamin_d}
+\include{tests_chapters/test_vitamin_e}
+\include{tests_chapters/test_vitamin_k}
+\include{tests_chapters/test_white_blood_cell_in_stool}
+\include{tests_chapters/test_white_blood_count}
+\include{tests_chapters/test_whooping_cough}
+\include{tests_chapters/test_xylose}
+\include{tests_chapters/test_yeast_infection}
+\include{tests_chapters/test_zika_virus}
+\include{tests_chapters/test_zinc}
+\appendix
+
+\include{tests_chapters/appendix_a_reference_ranges}
+\include{tests_chapters/appendix_b_critical_values}
+\include{tests_chapters/appendix_c_interference}
+\include{tests_chapters/appendix_d_test_codes}
+\include{tests_chapters/appendix_e_algorithms}
+\include{tests_chapters/appendix_f_quality_control}
+
+\backmatter
+
+\printindex
+
+\end{document}

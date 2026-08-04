@@ -1,0 +1,385 @@
+\chapter{Diagnostic Decision Trees --- What Happens Next}
+\label{app:algorithms}
+
+\clearpage
+\section{Introduction}
+
+When your doctor orders a test and the result is abnormal, there is usually a step-by-step process for figuring out what is going on. These decision trees --- called ``diagnostic algorithms'' --- are the same logic your doctor follows, explained in plain language.
+
+This appendix walks you through the most common situations: you have an abnormal result, and now what?
+
+\clearpage
+\section{Anemia --- You Are Tired, Your Hemoglobin Is Low}
+
+Anemia means your blood is not carrying enough oxygen. It is the most common blood disorder worldwide. The workup follows a clear path.
+
+\subsection{Step 1: Confirm the Anemia}
+
+Your CBC shows a low hemoglobin or hematocrit. The first question: \emph{is this real?}
+
+\begin{itemize}
+    \item If you were dehydrated when the blood was drawn, your hemoglobin may look falsely low. If you were overhydrated, it may look falsely normal.
+    \item Repeat the CBC to confirm.
+\end{itemize}
+
+\subsection{Step 2: Reticulocyte Count --- Is Your Bone Marrow Responding?}
+
+The reticulocyte count tells your doctor whether your bone marrow is trying to fix the problem.
+
+\begin{itemize}
+    \item \textbf{High reticulocyte count:} Your bone marrow is working hard. The problem is either blood loss (you are bleeding somewhere) or hemolysis (your red blood cells are being destroyed). Go to Step 3a.
+    \item \textbf{Low or normal reticulocyte count:} Your bone marrow is not responding. The problem is that it does not have the raw materials it needs, or it is suppressed. Go to Step 3b.
+\end{itemize}
+
+\subsection{Step 3a: If the Bone Marrow Is Responding (High Reticulocyte Count)}
+
+If you are making lots of new red blood cells, the problem is that something is destroying or losing them:
+
+\begin{itemize}
+    \item \textbf{Check for bleeding:} Stool occult blood test (are you bleeding from your gut?), urine analysis (blood in urine?), menstrual history (heavy periods?), and in older adults, colonoscopy to rule out colon cancer.
+    \item \textbf{Check for hemolysis:} LDH (elevated when red blood cells break), haptoglobin (low when hemolysis is happening), indirect bilirubin (elevated from red blood cell breakdown), reticulocyte count (high).
+    \item \textbf{Peripheral blood smear:} A pathologist looks at your blood under a microscope. Abnormal red blood cell shapes can point to specific causes (sickle cells, schistocytes from DIC, spherocytes from autoimmune hemolysis).
+    \item \textbf{Direct Coombs test:} Tests whether your immune system is attacking your own red blood cells (autoimmune hemolytic anemia).
+\end{itemize}
+
+\subsection{Step 3b: If the Bone Marrow Is Not Responding (Low Reticulocyte Count)}
+
+If your bone marrow is not making enough new red blood cells, you need to figure out why. The MCV (size of your red blood cells) is the key starting point.
+
+\subsubsection{Small Red Blood Cells (MCV $<$80 fL)}
+
+\begin{itemize}
+    \item \textbf{Iron studies:} Serum iron (low in iron deficiency), TIBC (high in iron deficiency), ferritin (the most reliable test for iron stores --- low in iron deficiency).
+    \item \textbf{If iron is low and ferritin is low:} Iron deficiency anemia. Find the cause --- most commonly slow chronic blood loss (heavy periods, GI bleeding from ulcers, colon cancer).
+    \item \textbf{If iron is low but ferritin is normal or high:} Anemia of chronic disease. The iron is locked away in storage because of inflammation. Treat the underlying disease.
+    \item \textbf{Hemoglobin electrophoresis:} If iron studies are normal but the MCV is still low, check for thalassemia trait. This is a genetic condition common in Mediterranean, African, and Asian populations.
+\end{itemize}
+
+\subsubsection{Normal-Sized Red Blood Cells (MCV 80--100 fL)}
+
+\begin{itemize}
+    \item \textbf{Check kidney function:} Creatinine and eGFR. Kidney disease is a common cause of normocytic anemia because your kidneys produce erythropoietin (EPO), the hormone that stimulates red blood cell production.
+    \item \textbf{Check for chronic disease:} CRP, ESR, and clinical history. Chronic infections, autoimmune diseases, and cancer can all suppress bone marrow.
+    \item \textbf{Check for hemolysis:} LDH, haptoglobin, bilirubin.
+    \item \textbf{Consider bone marrow biopsy:} If no cause is found, a bone marrow biopsy may be needed to evaluate for aplastic anemia, myelodysplastic syndrome, or marrow infiltration.
+\end{itemize}
+
+\subsubsection{Large Red Blood Cells (MCV $>$100 fL)}
+
+\begin{itemize}
+    \item \textbf{Vitamin B12 level:} Low in pernicious anemia, malabsorption, strict veganism, or ileal disease.
+    \item \textbf{Folate level:} Low from poor diet, alcohol abuse, pregnancy, or certain medications (methotrexate, phenytoin).
+    \item \textbf{TSH:} Hypothyroidism can cause macrocytic anemia.
+    \item \textbf{Liver function tests:} Liver disease can cause macrocytosis.
+    \item \textbf{Consider myelodysplastic syndrome:} If B12, folate, and thyroid function are all normal, a bone marrow biopsy may be warranted, especially in older adults.
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+Anemia is a symptom, not a diagnosis. Your doctor must find the underlying cause. Do not accept ``you are a little anemic'' without a workup. Ask:
+\begin{itemize}
+    \item ``What type of anemia is this?''
+    \item ``What is causing it?''
+    \item ``Do I need iron supplements, or is something else going on?''
+    \item ``Should I see a gastroenterologist to look for bleeding?''
+    \item ``Do I need a hematologist?''
+\end{itemize}
+
+\clearpage
+\section{Chest Pain --- Is It a Heart Attack?}
+
+Chest pain is one of the most common reasons people go to the emergency room. The workup is designed to rule in or rule out acute coronary syndrome (ACS) --- the medical term for a heart attack or its precursors.
+
+\subsection{Step 1: ECG Within 10 Minutes}
+
+The moment you arrive with chest pain, an ECG (electrocardiogram) is performed. This takes 5 minutes and can immediately show if you are having a STEMI --- a type of heart attack where a coronary artery is completely blocked. STEMI requires emergency cardiac catheterization.
+
+\subsection{Step 2: Troponin at 0 Hours}
+
+Troponin is the gold standard blood test for detecting heart muscle damage. It is drawn immediately and repeated at 1--3 hours depending on the protocol.
+
+\begin{itemize}
+    \item \textbf{Troponin negative, ECG normal:} ACS is unlikely but not completely ruled out. Continue observation and repeat troponin.
+    \item \textbf{Troponin positive:} Heart muscle damage is occurring. The cardiologist is called. You are going to the catheterization lab.
+\end{itemize}
+
+\subsection{Step 3: Risk Stratification}
+
+If the initial evaluation is not definitive, your doctor uses scoring systems to estimate your risk:
+
+\begin{itemize}
+    \item \textbf{HEART score:} History, ECG, Age, Risk factors, Troponin. A high score means high risk and you are admitted. A low score means you may be safe to go home with outpatient follow-up.
+    \item \textbf{TIMI score:} Used for unstable angina and NSTEMI to guide treatment decisions.
+    \item \textbf{GRACE score:} Predicts in-hospital and 6-month mortality in ACS.
+\end{itemize}
+
+\subsection{Step 4: If ACS Is Confirmed}
+
+\begin{itemize}
+    \item Antiplatelet therapy (aspirin + clopidogrel/ticagrelor)
+    \item Anticoagulation (heparin)
+    \item Cardiology consultation
+    \item Coronary angiography and possible stenting
+    \item If complete blockage: emergency PCI (percutaneous coronary intervention) within 90 minutes
+\end{itemize}
+
+\subsection{Step 5: If ACS Is Ruled Out}
+
+Chest pain has many other causes. Your doctor will evaluate for:
+\begin{itemize}
+    \item \textbf{Pulmonary embolism:} Blood clot in the lungs. D-dimer, CT pulmonary angiography.
+    \item \textbf{Aortic dissection:} Tearing of the aorta. CT angiography. D-dimer may be elevated.
+    \item \textbf{Pneumonia:} Chest X-ray, WBC, CRP.
+    \item \textbf{GERD (acid reflux):} The most common non-emergency cause of chest pain.
+    \item \textbf{Musculoskeletal:} Costochondritis (inflammation of the cartilage connecting ribs to the breastbone).
+    \item \textbf{Panic disorder:} A diagnosis of exclusion --- only after serious causes are ruled out.
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+If you have chest pain, \textbf{do not drive yourself to the hospital.} Call 911. Paramedics can start an ECG in the ambulance, and if you are having a STEMI, every minute of delay increases the amount of heart muscle that dies. If you are having a heart attack, you want to be in an ambulance with trained personnel, not stuck in traffic.
+
+\clearpage
+\section{Diabetes --- How Do You Know If You Have It?}
+
+Diabetes screening is one of the most important preventive health measures. Here is how the diagnosis works.
+
+\subsection{Understanding Your Results}
+
+\begin{longtable}{@{}lll@{}}
+\toprule
+\textbf{Test} & \textbf{Diabetes} & \textbf{Prediabetes} \\
+\midrule
+Fasting glucose & $\geq$126 mg/dL & 100--125 mg/dL \\
+2-hour oral glucose tolerance test (OGTT) & $\geq$200 mg/dL & 140--199 mg/dL \\
+HbA1c & $\geq$6.5\% & 5.7--6.4\% \\
+Random glucose & $\geq$200 mg/dL with symptoms & --- \\
+\bottomrule
+\end{longtable}
+
+\subsection{Understanding Your Results}
+
+\begin{enumerate}
+    \item \textbf{Fasting glucose 70--99:} Normal. Rescreen in 3 years if you have risk factors (family history, obesity, sedentary lifestyle, certain ethnicities).
+    \item \textbf{Fasting glucose 100--125 (prediabetes):} Lifestyle changes (weight loss, exercise) are the first-line treatment. Repeat HbA1c in 6--12 months.
+    \item \textbf{Fasting glucose $\geq$126:} Repeat on a separate day to confirm. If confirmed, you have diabetes.
+    \item \textbf{HbA1c 5.7--6.4\%:} Prediabetes. Same as above.
+    \item \textbf{HbA1c $\geq$6.5\%:} Diabetes. Confirm with a repeat test if you have no symptoms. If you have symptoms (excessive thirst, frequent urination, weight loss), one test is sufficient.
+    \item \textbf{Random glucose $\geq$200 with symptoms:} Diabetes. No repeat test needed.
+\end{enumerate}
+
+\subsection{Understanding Your Results}
+
+If you are diagnosed with prediabetes, \textbf{this is a wake-up call, not a death sentence.} The Diabetes Prevention Program study showed that lifestyle intervention (7\% weight loss + 150 minutes of exercise per week) reduced the progression to diabetes by 58\% --- more effective than metformin.
+
+If you are diagnosed with diabetes, ask your doctor:
+\begin{itemize}
+    \item ``What is my HbA1c and what is my target?''
+    \item ``Do I need medication, or can I manage this with lifestyle changes?''
+    \item ``Should I see an endocrinologist?''
+    \item ``How often should I have my eyes examined?'' (diabetic retinopathy screening)
+    \item ``How often should I have my feet checked?'' (diabetic neuropathy)
+    \item ``What is my kidney function?'' (diabetic nephropathy screening)
+\end{itemize}
+
+\clearpage
+\section{Thyroid Dysfunction --- Is Your Thyroid Working?}
+
+\subsection{Step 1: TSH Is the Screening Test}
+
+TSH is the single best test for thyroid function. If your doctor suspects thyroid disease, TSH is drawn first.
+
+\subsection{Step 2: Interpret the Pattern}
+
+\begin{longtable}{@{}p{3.5cm}p{3.0cm}p{2.0cm}p{5.5cm}@{}}
+\toprule
+\textbf{TSH} & \textbf{Free T4} & \textbf{Diagnosis} & \textbf{What Happens Next} \\
+\midrule
+High & Low & Overt hypothyroidism & Start levothyroxine replacement \\
+High & Normal & Subclinical hypothyroidism & Monitor or treat based on symptoms \\
+Normal & Normal & Euthyroid (normal) & No thyroid treatment needed \\
+Low & High & Overt hyperthyroidism & Endocrinology referral, treatment options \\
+Low & Normal & Subclinical hyperthyroidism & Monitor, check for atrial fibrillation, consider treatment if elderly \\
+\bottomrule
+\end{longtable}
+
+\subsection{Step 3: If the Pattern Is Unclear}
+
+\begin{itemize}
+    \item \textbf{Thyroid antibodies (TPO, TgAb):} If TSH is elevated, these antibodies suggest Hashimoto's thyroiditis (autoimmune hypothyroidism) --- the most common cause of hypothyroidism in iodine-sufficient regions.
+    \item \textbf{TRAb (TSH receptor antibodies):} If TSH is low and T4 is high, these antibodies suggest Graves' disease (autoimmune hyperthyroidism).
+    \item \textbf{Thyroid ultrasound:} If a nodule is felt on examination or if hyperthyroidism is confirmed.
+    \item \textbf{Radioactive iodine uptake:} Distinguishes between different causes of hyperthyroidism.
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+Hypothyroidism is extremely common, especially in women over 50. The treatment (levothyroxine) is simple, inexpensive, and well-tolerated. It must be taken on an empty stomach, 30--60 minutes before breakfast, and should not be taken with calcium, iron, or antacids. Your TSH is checked 6--8 weeks after starting or adjusting the dose.
+
+Hyperthyroidism is less common but potentially more dangerous. Untreated hyperthyroidism can cause heart rhythm disorders (atrial fibrillation), bone loss, and in rare cases, thyroid storm (a life-threatening escalation).
+
+\clearpage
+\section{Liver Function Abnormalities --- What Pattern Do You See?}
+
+\subsection{Step 1: Identify the Pattern}
+
+\begin{longtable}{@{}p{4.5cm}p{10.5cm}@{}}
+\toprule
+\textbf{Pattern} & \textbf{What It Means} \\
+\midrule
+AST and ALT very high ($>$5$\times$ upper limit) & Liver cells are being damaged \\
+ALP and GGT very high ($>$3$\times$ upper limit) & Bile flow is blocked \\
+AST and ALT mildly elevated (1--3$\times$ upper limit) & Many possible causes \\
+Isolated GGT elevation & Alcohol or drug enzyme induction \\
+Isolated bilirubin elevation & Gilbert syndrome (benign) or hemolysis \\
+\bottomrule
+\end{longtable}
+
+\subsection{Step 2: Follow the Pattern}
+
+\subsubsection{If AST and ALT Are Very High (Hepatocellular Pattern)}
+
+\begin{itemize}
+    \item \textbf{Viral hepatitis:} Hepatitis A, B, C serology. Hepatitis A is from contaminated food/water. Hepatitis B and C are bloodborne.
+    \item \textbf{Drug toxicity:} Acetaminophen overdose (check level), herbal supplements (kava, comfrey), prescription medications (statins, isoniazid, valproic acid).
+    \item \textbf{Alcoholic hepatitis:} History of heavy drinking, AST:ALT ratio typically $>$2:1.
+    \item \textbf{Ischemic hepatitis:} Low blood flow to the liver (heart failure, shock). AST and ALT can exceed 1000 U/L.
+    \item \textbf{Autoimmune hepatitis:} ANA, anti-smooth muscle antibodies.
+    \item \textbf{Wilson disease:} In young patients. Ceruloplasmin, copper studies.
+\end{itemize}
+
+\subsubsection{If ALP and GGT Are Very High (Cholestatic Pattern)}
+
+\begin{itemize}
+    \item \textbf{Gallstones:} Abdominal ultrasound is the first test.
+    \item \textbf{Bile duct obstruction:} MRCP (magnetic resonance cholangiopancreatography) to visualize the bile ducts.
+    \item \textbf{Primary biliary cholangitis:} Anti-mitochondrial antibodies (AMA). More common in middle-aged women.
+    \item \textbf{Primary sclerosing cholangitis:} Associated with inflammatory bowel disease. MRCP shows ``beading'' of bile ducts.
+    \item \textbf{Drug-induced cholestasis:} Check medication list.
+    \item \textbf{Infiltrative disease:} Sarcoidosis, lymphoma, amyloidosis.
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+Mildly elevated liver enzymes (1--3$\times$ normal) are extremely common and are often caused by fatty liver disease (non-alcoholic fatty liver disease, or NAFLD), obesity, alcohol, and medications. Your doctor should investigate, but do not panic. The most important thing you can do for your liver is maintain a healthy weight, limit alcohol, and avoid unnecessary medications and supplements.
+
+\clearpage
+\section{Thyroid Nodules --- You Have a Lump in Your Thyroid}
+
+\subsection{Step 1: Ultrasound}
+
+When a thyroid nodule is found (on physical exam or incidentally on imaging), thyroid ultrasound is performed to characterize it.
+
+\subsection{Step 2: TI-RADS Scoring}
+
+Thyroid nodules are scored using the ACR TI-RADS system based on their ultrasound appearance:
+\begin{itemize}
+    \item Composition (solid vs. cystic)
+    \item Echogenicity (how bright it is)
+    \item Shape (wider than tall or taller than wide)
+    \item Margins (smooth, irregular, or lobulated)
+    \item Echogenic foci (calcifications)
+\end{itemize}
+
+Higher TI-RADS scores require fine needle aspiration (FNA) biopsy.
+
+\subsection{Step 3: FNA Biopsy}
+
+If the nodule is large enough and suspicious enough, a thin needle is inserted into the nodule under ultrasound guidance to collect cells for examination. Results are reported using the Bethesda system:
+\begin{itemize}
+    \item \textbf{Benign:} No cancer. Follow with ultrasound.
+    \item \textbf{Malignant:} Cancer confirmed. Surgery.
+    \item \textbf{Indeterminate:} Cannot determine. May need molecular testing or diagnostic surgery.
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+Most thyroid nodules are benign (85--95\%). Thyroid cancer, when it occurs, is usually slow-growing and highly treatable. Papillary thyroid carcinoma, the most common type, has a 20-year survival rate exceeding 95\%. Do not let the word ``cancer'' send you into panic --- thyroid cancer is one of the most curable cancers.
+
+\clearpage
+\section{Sepsis --- Could This Be a Life-Threatening Infection?}
+
+Sepsis is your body's overwhelming, dysregulated response to infection. It is the leading cause of death in hospitals.
+
+\subsection{Step 1: Recognition (qSOFA Score)}
+
+The quick Sequential Organ Failure Assessment (qSOFA) is a bedside screening tool:
+\begin{itemize}
+    \item Respiratory rate $\geq$22 breaths per minute
+    \item Altered mental status (Glasgow Coma Scale $<$15)
+    \item Systolic blood pressure $\leq$100 mmHg
+\end{itemize}
+
+Two or more of these three criteria suggest sepsis and trigger further workup.
+
+\subsection{Step 2: Confirm and Evaluate}
+
+\begin{itemize}
+    \item \textbf{Lactate level:} Elevated lactate ($>$2 mmol/L) indicates tissue hypoperfusion --- your organs are not getting enough blood flow. Lactate $>$4 mmol/L is severe sepsis.
+    \item \textbf{Blood cultures (at least 2 sets):} Drawn from two separate sites before antibiotics are started. These identify the specific bacteria causing the infection.
+    \item \textbf{Complete blood count:} WBC may be very high, very low, or normal in sepsis. Bandemia (immature neutrophils) is a red flag.
+    \item \textbf{Procalcitonin:} A biomarker that rises in bacterial infections and helps distinguish bacterial from viral.
+    \item \textbf{Organ function tests:} Creatinine (kidney), bilirubin (liver), platelets (coagulation), troponin (heart).
+\end{itemize}
+
+\subsection{Step 3: Treatment (The Hour Matters)}
+
+The Surviving Sepsis Campaign mandates the following within the first hour:
+\begin{itemize}
+    \item Broad-spectrum antibiotics
+    \item 30 mL/kg IV crystalloid fluid (for hypotension or lactate $\geq$4)
+    \item Vasopressors if blood pressure does not respond to fluids
+    \item Source control (drain abscess, remove infected device)
+\end{itemize}
+
+\subsection{Understanding Your Results}
+
+Sepsis is a medical emergency. If you or a loved one has an infection and develops confusion, rapid breathing, low blood pressure, or is ``just not acting right,'' \textbf{go to the ER immediately}. Every hour of delay in antibiotic treatment increases mortality by approximately 7\%.
+
+\clearpage
+\section{Hypoglycemia --- Why Is Your Blood Sugar Dangerously Low?}
+
+\subsection{Step 1: Confirm True Hypoglycemia}
+
+True hypoglycemia requires Whipple's triad:
+\begin{enumerate}
+    \item Symptoms consistent with low blood sugar (shakiness, sweating, confusion, hunger)
+    \item Measured glucose $<$70 mg/dL at the time of symptoms
+    \item Relief of symptoms when glucose is raised
+\end{enumerate}
+
+If all three criteria are met, you have true hypoglycemia and it needs to be investigated.
+
+\subsection{Step 2: Check Insulin and C-Peptide During the Episode}
+
+The key to diagnosing the cause is checking insulin, C-peptide, and proinsulin during the hypoglycemic episode.
+
+\begin{longtable}{@{}p{2.0cm}p{2.5cm}p{9.0cm}@{}}
+\toprule
+\textbf{Insulin} & \textbf{C-Peptide} & \textbf{Diagnosis} \\
+\midrule
+High & High & Insulinoma (insulin-producing tumor) or sulfonylurea use \\
+High & Low & Exogenous insulin injection (someone is injecting insulin) \\
+High & High & Sulfonylurea ingestion (check drug levels) \\
+Low & Low & Non-islet cell tumor, adrenal insufficiency, severe illness \\
+\bottomrule
+\end{longtable}
+
+\subsection{Understanding Your Results}
+
+Recurrent hypoglycemia is not normal. If you are not diabetic and you keep having low blood sugar episodes, you need a thorough workup. The most concerning cause is insulinoma --- a small tumor of the pancreas that produces insulin autonomously. It is usually benign and surgically curable.
+
+If you are diabetic and having recurrent hypoglycemia, your medication dose likely needs adjustment. Tell your doctor --- do not just eat more sugar to compensate. Recurrent hypoglycemia, especially in older adults, is associated with increased risk of falls, fractures, and cognitive decline.
+
+\clearpage
+\section{How to Use These Decision Trees}
+
+These decision trees are simplified versions of what your doctor follows. They are not a substitute for professional medical judgment. But they help you understand:
+
+\begin{itemize}
+    \item \textbf{Why your doctor is ordering more tests.} A single test is rarely the end of the story.
+    \item \textbf{Why some results are repeated.} Confirmation is a standard part of good medicine.
+    \item \textbf{Why timing matters.} Some tests must be drawn at specific times or during specific symptoms to be meaningful.
+    \item \textbf{When to push for more answers.} If your doctor says ``your tests are fine'' but you still have symptoms, use this knowledge to ask informed follow-up questions.
+    \item \textbf{When to seek emergency care.} Some patterns require immediate intervention.
+\end{itemize}
