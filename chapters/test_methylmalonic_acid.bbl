@@ -1,0 +1,45 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Savage et~al.(1994)Savage, Lindenbaum, Stabler, and
+  Allen]{savage1994sensitivity}
+David~G. Savage, John Lindenbaum, Sally~P. Stabler, and Robert~H. Allen.
+\newblock Sensitivity of serum methylmalonic acid and total homocysteine
+  determinations for diagnosing cobalamin and folate deficiencies.
+\newblock \emph{The American Journal of Medicine}, 96\penalty0 (3):\penalty0
+  239--246, 1994.
+\newblock \doi{10.1016/0002-9343(94)90149-x}.
+
+\bibitem[Stabler(2013)]{stabler2013vitamin}
+Sally~P. Stabler.
+\newblock Vitamin b12 deficiency.
+\newblock \emph{New England Journal of Medicine}, 368\penalty0 (2):\penalty0
+  149--160, 2013.
+\newblock \doi{10.1056/nejmcp1113996}.
+
+\bibitem[Carmel(2000)]{carmel2000current}
+Ralph Carmel.
+\newblock Current concepts in cobalamin deficiency.
+\newblock \emph{Annual Review of Medicine}, 51:\penalty0 357--375, 2000.
+\newblock \doi{10.1146/annurev.med.51.1.357}.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Lindenbaum et~al.(1990)Lindenbaum, Savage, Stabler, and
+  Allen]{lindenbaum1990diagnosis}
+John Lindenbaum, David~G. Savage, Sally~P. Stabler, and Robert~H. Allen.
+\newblock Diagnosis of cobalamin deficiency: Ii. relative sensitivities of
+  serum cobalamin, methylmalonic acid, and total homocysteine concentrations.
+\newblock \emph{American Journal of Hematology}, 34\penalty0 (2):\penalty0
+  99--107, 1990.
+\newblock \doi{10.1002/ajh.2830340205}.
+
+\end{thebibliography}

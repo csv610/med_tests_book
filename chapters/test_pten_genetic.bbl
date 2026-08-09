@@ -1,0 +1,54 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Tan et~al.(2012)Tan, Mester, Ngeow, Rybicki, Orloff, and
+  Eng]{tan2012lifetime}
+Min-Han Tan, Jessica~L. Mester, Joanne Ngeow, Lisa~A. Rybicki, Mohammed~S.
+  Orloff, and Charis Eng.
+\newblock Lifetime cancer risks in individuals with germline pten mutations.
+\newblock \emph{Clinical Cancer Research}, 18\penalty0 (2):\penalty0 400--407,
+  2012.
+\newblock \doi{10.1158/1078-0432.CCR-11-2283}.
+
+\bibitem[Marsh et~al.(1997)Marsh, Dahia, Zheng, Liaw, Parsons, Gorlin, and
+  Eng]{marsh1997germline}
+Debbie~J. Marsh, Patricia L.~M. Dahia, Zimu Zheng, Danny Liaw, Ramon Parsons,
+  Robert~J. Gorlin, and Charis Eng.
+\newblock Germline mutations in pten are present in bannayan-zonana syndrome.
+\newblock \emph{Nature Genetics}, 16\penalty0 (4):\penalty0 333--334, 1997.
+\newblock \doi{10.1038/ng0897-333}.
+
+\bibitem[Pilarski et~al.(2013)Pilarski, Burt, Kohlman, Pho, Shannon, and
+  Swisher]{pilarski2013cowden}
+Robert Pilarski, Randall Burt, Wendy Kohlman, Lucia Pho, Kathleen~M. Shannon,
+  and Elizabeth Swisher.
+\newblock Cowden syndrome and the pten hamartoma tumor syndrome: systematic
+  review and revised diagnostic criteria.
+\newblock \emph{Journal of the National Cancer Institute}, 105\penalty0
+  (21):\penalty0 1607--1616, 2013.
+\newblock \doi{10.1093/jnci/djt277}.
+
+\bibitem[Li et~al.(1997)Li, Yen, Liaw, Podsypanina, Bose, Wang, Puc,
+  Miliaresis, Rodgers, McCombie, Bigner, Giovanella, Ittmann, Tycko, Hibshoosh,
+  Wigler, and Parsons]{li1997pten}
+Jing Li, Clifford Yen, Danny Liaw, Katrina Podsypanina, Shikha Bose, Steven~I.
+  Wang, Janusz Puc, Christa Miliaresis, Linda Rodgers, Richard McCombie,
+  Sandra~H. Bigner, Beppino~C. Giovanella, Michael Ittmann, Ben Tycko, Hanina
+  Hibshoosh, Michael~H. Wigler, and Ramon Parsons.
+\newblock Pten, a putative protein tyrosine phosphatase gene mutated in human
+  brain, breast, and prostate cancer.
+\newblock \emph{Science}, 275\penalty0 (5308):\penalty0 1943--1947, 1997.
+\newblock \doi{10.1126/science.275.5308.1943}.
+
+\bibitem[{National Comprehensive Cancer Network}(2024)]{nccn2024genetic}
+{National Comprehensive Cancer Network}.
+\newblock Nccn clinical practice guidelines in oncology: Genetic/familial
+  high-risk assessment -- breast, ovarian, and pancreatic.
+\newblock Version 3.2024, 2024.
+\newblock Accessed August 2026.
+
+\end{thebibliography}

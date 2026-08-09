@@ -1,0 +1,48 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Centers for Disease Control and
+  Prevention}(2012)]{cdc2012recommendations}
+{Centers for Disease Control and Prevention}.
+\newblock Recommendations for the identification of chronic hepatitis c virus
+  infection among persons born during 1945--1965.
+\newblock \emph{MMWR Recommendations and Reports}, 61\penalty0 (RR-4):\penalty0
+  1--32, 2012.
+
+\bibitem[Schillie et~al.(2018)Schillie, Vellozzi, Reingold,
+  et~al.]{schillie2018prevention}
+Sarah Schillie, Claudia Vellozzi, Arthur Reingold, et~al.
+\newblock Prevention of hepatitis b virus infection in the united states:
+  Recommendations of the advisory committee on immunization practices.
+\newblock \emph{MMWR Recommendations and Reports}, 67\penalty0 (1):\penalty0
+  1--31, 2018.
+\newblock \doi{10.15585/mmwr.rr6701a1}.
+
+\bibitem[Nelson et~al.(2019)Nelson, Link-Gelles, Hofmeister,
+  et~al.]{nelson2019update}
+Noele~P. Nelson, Ruth Link-Gelles, Megan~G. Hofmeister, et~al.
+\newblock Update: Recommendations of the advisory committee on immunization
+  practices for use of hepatitis a vaccine for postexposure prophylaxis and for
+  preexposure prophylaxis for international travel.
+\newblock \emph{MMWR Morbidity and Mortality Weekly Report}, 68\penalty0
+  (42):\penalty0 947--950, 2019.
+
+\bibitem[Terrault et~al.(2018)Terrault, Lok, McMahon,
+  et~al.]{terrault2018update}
+Norah~A. Terrault, Anna S.~F. Lok, Brian~J. McMahon, et~al.
+\newblock Update on prevention, diagnosis, and treatment of chronic hepatitis
+  b: Aasld 2018 hepatitis b guidance.
+\newblock \emph{Hepatology}, 67\penalty0 (4):\penalty0 1560--1599, 2018.
+\newblock \doi{10.1002/hep.29800}.
+
+\bibitem[{AASLD-IDSA Hepatitis C Guidance Panel}(2024)]{aasld2024hcv}
+{AASLD-IDSA Hepatitis C Guidance Panel}.
+\newblock Hcv guidance: Recommendations for testing, managing, and treating
+  hepatitis c.
+\newblock Updated periodically at https://www.hcvguidelines.org, 2024.
+
+\end{thebibliography}

@@ -1,0 +1,54 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Scriver and Kaufman(2001)]{scriver2001metabolic}
+Charles~R. Scriver and Seymour Kaufman.
+\newblock \emph{The Metabolic and Molecular Bases of Inherited Disease}.
+\newblock McGraw-Hill, 8th edition, 2001.
+
+\bibitem[of~Medical Genetics~(ACMG)(2012)]{acmg2012newborn}
+American~College of~Medical Genetics~(ACMG).
+\newblock Newborn screening act sheet [phenylketonuria].
+\newblock Bethesda (MD): ACMG, 2012.
+
+\bibitem[Guthrie and Susi(1963)]{guthrie1963simple}
+Robert Guthrie and Ada Susi.
+\newblock A simple phenylalanine method for detecting phenylketonuria in large
+  populations of newborn infants.
+\newblock \emph{Pediatrics}, 32\penalty0 (3):\penalty0 338--343, 1963.
+\newblock \doi{10.1542/peds.32.3.338}.
+
+\bibitem[Blau et~al.(2010)Blau, van Spronsen, and
+  Levy]{blau2010phenylketonuria}
+Nenad Blau, Francjan~J. van Spronsen, and Harvey~L. Levy.
+\newblock Phenylketonuria.
+\newblock \emph{The Lancet}, 376\penalty0 (9750):\penalty0 1417--1427, 2010.
+\newblock \doi{10.1016/S0140-6736(10)60961-0}.
+
+\bibitem[Vockley et~al.(2014)Vockley, Andersson, Antshel, Braverman, Burton,
+  Frazier, Mitchell, Smith, Thompson, and Berry]{vockley2014phenylalanine}
+Jerry Vockley, Hans~C. Andersson, Kevin~M. Antshel, Nancy~E. Braverman,
+  Barbara~K. Burton, Dianne~M. Frazier, John Mitchell, Wendy~E. Smith, Barry~H.
+  Thompson, and Susan~A. Berry.
+\newblock Phenylalanine hydroxylase deficiency: diagnosis and management
+  guideline.
+\newblock \emph{Genetics in Medicine}, 16\penalty0 (2):\penalty0 188--200,
+  2014.
+\newblock \doi{10.1038/gim.2013.157}.
+
+\bibitem[Platt et~al.(2000)Platt, Koch, Hanley, Levy, Matalon, Rouse, Trefz,
+  de~la Cruz, G{\"u}ttler, Azen, and Friedman]{platt2000maternal}
+Lawrence~D. Platt, Richard Koch, William~B. Hanley, Harvey~L. Levy, Reuben
+  Matalon, Bobbye Rouse, Fritz Trefz, Felix de~la Cruz, Flemming G{\"u}ttler,
+  Colleen Azen, and Eva~Gross Friedman.
+\newblock The international study of pregnancy outcome in women with maternal
+  phenylketonuria: Report of a 12-year study.
+\newblock \emph{American Journal of Obstetrics and Gynecology}, 182\penalty0
+  (2):\penalty0 326--333, 2000.
+\newblock \doi{10.1016/S0002-9378(00)70219-5}.
+
+\end{thebibliography}

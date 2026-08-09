@@ -1,0 +1,48 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hall(2001)]{hall2001respiratory}
+Caroline~Breese Hall.
+\newblock Respiratory syncytial virus and parainfluenza virus.
+\newblock \emph{New England Journal of Medicine}, 344\penalty0 (25):\penalty0
+  1917--1928, 2001.
+\newblock \doi{10.1056/NEJM200106213442507}.
+
+\bibitem[Chemaly et~al.(2012)Chemaly, Hanmod, Rathod, Ghantoji, Jiang, Doshi,
+  Vigil, Adachi, Khoury, Tarrand, Hosing, and
+  Champlin]{chemaly2012characteristics}
+Roy~F. Chemaly, Santosh~S. Hanmod, Dhanesh~B. Rathod, Shashank~S. Ghantoji,
+  Ying Jiang, Arpan Doshi, Karen Vigil, Javier~A. Adachi, Andrew~M. Khoury,
+  Jeffery Tarrand, Chitra Hosing, and Richard Champlin.
+\newblock The characteristics and outcomes of parainfluenza virus infections in
+  200 patients with leukemia or recipients of hematopoietic stem cell
+  transplantation.
+\newblock \emph{Blood}, 119\penalty0 (12):\penalty0 2738--2745, 2012.
+\newblock \doi{10.1182/blood-2011-08-371112}.
+
+\bibitem[Henrickson(2003)]{henrickson2003parainfluenza}
+Kelly~J. Henrickson.
+\newblock Parainfluenza viruses.
+\newblock \emph{Clinical Microbiology Reviews}, 16\penalty0 (2):\penalty0
+  242--264, 2003.
+\newblock \doi{10.1128/CMR.16.2.242-264.2003}.
+
+\bibitem[Falsey(2012)]{falsey2012current}
+Ann~R. Falsey.
+\newblock Current management of parainfluenza pneumonitis in immunocompromised
+  patients: a review.
+\newblock \emph{Infection and Drug Resistance}, 5:\penalty0 121--127, 2012.
+\newblock \doi{10.2147/IDR.S25874}.
+
+\bibitem[Russell and Ison(2017)]{russell2017parainfluenza}
+Elliott Russell and Michael~G. Ison.
+\newblock Parainfluenza virus in the hospitalized adult.
+\newblock \emph{Clinical Infectious Diseases}, 65\penalty0 (9):\penalty0
+  1570--1576, 2017.
+\newblock \doi{10.1093/cid/cix528}.
+
+\end{thebibliography}

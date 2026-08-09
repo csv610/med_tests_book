@@ -1,0 +1,90 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Savige et~al.(1999)Savige, Gillis, Benson, Davies, Esnault, Falk,
+  Hagen, Jayne, Jennette, Paspaliaris, Pollock, Pusey, Savage, Silvestrini,
+  van~der Woude, Wieslander, and Wiik]{savige1999international}
+Judy Savige, David Gillis, Elizabeth Benson, David Davies, Vincent Esnault,
+  Ronald~J. Falk, E.~Christian Hagen, David Jayne, J.~Charles Jennette, Basil
+  Paspaliaris, Wendy Pollock, Charles Pusey, Caroline O.~S. Savage, Roger
+  Silvestrini, Fokko van~der Woude, J{\"o}rgen Wieslander, and Allan Wiik.
+\newblock International consensus statement on testing and reporting of
+  antineutrophil cytoplasmic antibodies ({ANCA}).
+\newblock \emph{American Journal of Clinical Pathology}, 111\penalty0
+  (4):\penalty0 507--513, 1999.
+\newblock \doi{10.1093/ajcp/111.4.507}.
+
+\bibitem[Bossuyt et~al.(2017)Bossuyt, Cohen~Tervaert, Arimura, Blockmans,
+  Flores-Su{\'a}rez, Guillevin, Hellmich, Jayne, Jennette, Kallenberg, Moiseev,
+  Novikov, Radice, Savige, Sinico, Specks, van Paassen, Zhao, and
+  Rasmussen]{bossuyt2017revised}
+Xavier Bossuyt, Jan~Willem Cohen~Tervaert, Yoshihiro Arimura, Daniel Blockmans,
+  Luis~Felipe Flores-Su{\'a}rez, Lo{\"i}c Guillevin, Bernhard Hellmich, David
+  Jayne, J.~Charles Jennette, Cees G.~M. Kallenberg, Sergey Moiseev, Pavel
+  Novikov, Antonella Radice, Judy~A. Savige, Renato~A. Sinico, Ulrich Specks,
+  Pieter van Paassen, Ming-hui Zhao, and Niels Rasmussen.
+\newblock Position paper: revised 2017 international consensus on testing of
+  {ANCA}s in granulomatosis with polyangiitis and microscopic polyangiitis.
+\newblock \emph{Nature Reviews Rheumatology}, 13\penalty0 (11):\penalty0
+  683--692, 2017.
+\newblock \doi{10.1038/nrrheum.2017.140}.
+
+\bibitem[Davies et~al.(1982)Davies, Moran, Niall, and
+  Ryan]{davies1982segmental}
+David~J. Davies, John~E. Moran, John~F. Niall, and Graeme~B. Ryan.
+\newblock Segmental necrotising glomerulonephritis with antineutrophil
+  antibody: possible arbovirus aetiology?
+\newblock \emph{British Medical Journal}, 285\penalty0 (6342):\penalty0 606,
+  1982.
+\newblock \doi{10.1136/bmj.285.6342.606}.
+
+\bibitem[van~der Woude et~al.(1985)van~der Woude, Rasmussen, Lobatto, Wiik,
+  Permin, van Es, van~der Giessen, van~der Hem, and
+  The]{vanderwoude1985autoantibodies}
+Fokko~J. van~der Woude, Niels Rasmussen, Susan Lobatto, Allan Wiik, Henning
+  Permin, Leendert~A. van Es, Marja van~der Giessen, Gjalt~K. van~der Hem, and
+  T.~H. The.
+\newblock Autoantibodies against neutrophils and monocytes: tool for diagnosis
+  and marker of disease activity in {Wegener}'s granulomatosis.
+\newblock \emph{The Lancet}, 1\penalty0 (8426):\penalty0 425--429, 1985.
+\newblock \doi{10.1016/S0140-6736(85)91147-x}.
+
+\bibitem[Jennette et~al.(2013)Jennette, Falk, Bacon, Basu, Cid, Ferrario,
+  Flores-Suarez, Gross, Guillevin, Hagen, Hoffman, Jayne, Kallenberg,
+  Lamprecht, Langford, Luqmani, Mahr, Matteson, Merkel, Ozen, Pusey, Rasmussen,
+  Rees, Scott, Specks, Stone, Takahashi, and Watts]{jennette2013revised}
+J.~Charles Jennette, Ronald~J. Falk, Paul~A. Bacon, Neil Basu, Maria~C. Cid,
+  Franco Ferrario, Luis~Felipe Flores-Suarez, Wolfgang~L. Gross, Lo{\"i}c
+  Guillevin, E.~Christian Hagen, Gary~S. Hoffman, David~R. Jayne, Cees G.~M.
+  Kallenberg, Peter Lamprecht, Carol~A. Langford, Raashid~A. Luqmani, Alfred~D.
+  Mahr, Eric~L. Matteson, Peter~A. Merkel, Seza Ozen, Charles~D. Pusey, Niels
+  Rasmussen, Andrew~J. Rees, David G.~I. Scott, Ulrich Specks, John~H. Stone,
+  Kazunari Takahashi, and Richard~A. Watts.
+\newblock 2012 revised international chapel hill consensus conference
+  nomenclature of vasculitides.
+\newblock \emph{Arthritis \& Rheumatism}, 65\penalty0 (1):\penalty0 1--11,
+  2013.
+\newblock \doi{10.1002/art.37715}.
+
+\bibitem[Stone et~al.(2010)Stone, Merkel, Spiera, Seo, Langford, Hoffman,
+  Kallenberg, St.~Clair, Turkiewicz, Tchao, Webber, Ding, Sejismundo, Mieras,
+  Weitzenkamp, Ikle, Seyfert-Margolis, Mueller, Brunetta, Allen, Fervenza,
+  Geetha, Keogh, Kissin, Monach, Peikert, Stegeman, Ytterberg, and
+  Specks]{stone2010rituximab}
+John~H. Stone, Peter~A. Merkel, Robert Spiera, Philip Seo, Carol~A. Langford,
+  Gary~S. Hoffman, Cees G.~M. Kallenberg, E.~William St.~Clair, Anthony
+  Turkiewicz, Nadia~K. Tchao, Lisa Webber, Linna Ding, Lourdes~P. Sejismundo,
+  Kathy Mieras, David Weitzenkamp, David Ikle, Vicki Seyfert-Margolis, Mark
+  Mueller, Paul Brunetta, Nancy~B. Allen, Fernando~C. Fervenza, Duvuru Geetha,
+  Karina~A. Keogh, Eugene~Y. Kissin, Paul~A. Monach, Tobias Peikert, Coen
+  Stegeman, Steven~R. Ytterberg, and Ulrich Specks.
+\newblock Rituximab versus cyclophosphamide for {ANCA}-associated vasculitis.
+\newblock \emph{New England Journal of Medicine}, 363\penalty0 (3):\penalty0
+  221--232, 2010.
+\newblock \doi{10.1056/NEJMoa0909905}.
+
+\end{thebibliography}

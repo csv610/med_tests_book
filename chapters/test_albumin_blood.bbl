@@ -1,0 +1,41 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Levitt and Levitt(2016)]{levitt2016human}
+David~G. Levitt and Michael~D. Levitt.
+\newblock Human serum albumin homeostasis: a new look at the roles of
+  synthesis, catabolism, and renal and extrarenal excretion.
+\newblock \emph{Critical Reviews in Clinical Laboratory Sciences}, 53\penalty0
+  (5):\penalty0 290--305, 2016.
+
+\bibitem[Peters(1996)]{peters1996all}
+Theodore Peters.
+\newblock \emph{All About Albumin: Biochemistry, Genetics, and Medical
+  Applications}.
+\newblock Academic Press, San Diego, 1996.
+
+\bibitem[Doumas et~al.(1971)Doumas, Watson, and Biggs]{doumas1971albumin}
+Basil~T. Doumas, W.~Ard Watson, and Homer~G. Biggs.
+\newblock Albumin standards and the measurement of serum albumin with
+  bromcresol green.
+\newblock \emph{Clinica Chimica Acta}, 31\penalty0 (1):\penalty0 87--96, 1971.
+\newblock \doi{10.1016/0009-8981(71)90365-2}.
+
+\bibitem[Vincent et~al.(2003)Vincent, Dubois, Navickis, and
+  Wilkes]{vincent2003hypoalbuminemia}
+Jean-Louis Vincent, Marc-Jacques Dubois, Roberta~J. Navickis, and M.~Michael
+  Wilkes.
+\newblock Hypoalbuminemia in acute illness: is there a rationale for
+  intervention? {A} meta-analysis of cohort studies and controlled trials.
+\newblock \emph{Annals of Surgery}, 237\penalty0 (3):\penalty0 319--334, 2003.
+
+\bibitem[Franch-Arcas(2001)]{francharcas2001meaning}
+G.~Franch-Arcas.
+\newblock The meaning of hypoalbuminaemia in clinical practice.
+\newblock \emph{Clinical Nutrition}, 20\penalty0 (3):\penalty0 265--269, 2001.
+
+\end{thebibliography}

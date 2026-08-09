@@ -1,0 +1,63 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kronenberg et~al.(2022)Kronenberg, Mora, Stroes, Ference, Arsenault,
+  Berglund, Dweck, Koschinsky, Lambert, Mach, McNeal, Moriarty, Natarajan,
+  Nordestgaard, Parhofer, Virani, von Eckardstein, Watts, Stock, Ray, Catapano,
+  and Tokg{\"o}zo{\u{g}}lu]{kronenberg2022lipoprotein}
+Florian Kronenberg, Samia Mora, Erik S.~G. Stroes, Brian~A. Ference, Benoit~J.
+  Arsenault, Lars Berglund, Marc~R. Dweck, Marlys Koschinsky, Gilles Lambert,
+  Fran{\c{c}}ois Mach, Catherine~J. McNeal, Patrick~M. Moriarty, Pradeep
+  Natarajan, B{\o}rge~G. Nordestgaard, Klaus~G. Parhofer, Salim~S. Virani,
+  Arnold von Eckardstein, Gerald~F. Watts, Jane~K. Stock, Kausik~K. Ray,
+  Alberico~L. Catapano, and Lale Tokg{\"o}zo{\u{g}}lu.
+\newblock Lipoprotein(a) in atherosclerotic cardiovascular disease and aortic
+  stenosis: a european atherosclerosis society consensus statement.
+\newblock \emph{European Heart Journal}, 43\penalty0 (39):\penalty0 3925--3946,
+  2022.
+\newblock \doi{10.1093/eurheartj/ehac361}.
+
+\bibitem[Wilson et~al.(2019)Wilson, Jacobson, Jones, Koschinsky, McNeal,
+  Nordestgaard, and Orringer]{wilson2019use}
+Don~P. Wilson, Terry~A. Jacobson, Peter~H. Jones, Marlys~L. Koschinsky,
+  Catherine~J. McNeal, B{\o}rge~G. Nordestgaard, and Carl~E. Orringer.
+\newblock Use of lipoprotein(a) in clinical practice: a biomarker whose time
+  has come. a scientific statement from the national lipid association.
+\newblock \emph{Journal of Clinical Lipidology}, 13\penalty0 (3):\penalty0
+  374--392, 2019.
+\newblock \doi{10.1016/j.jacl.2019.04.010}.
+
+\bibitem[Viney et~al.(2016)Viney, van Capelleveen, Geary, Xia, Tami, Yu,
+  Marcovina, Hughes, Graham, Crooke, Crooke, Witztum, Stroes, and
+  Tsimikas]{viney2016antisense}
+Nicholas~J. Viney, Julian~C. van Capelleveen, Richard~S. Geary, Shuting Xia,
+  Joseph~A. Tami, Rosie~Z. Yu, Santica~M. Marcovina, Steven~G. Hughes, Mark~J.
+  Graham, Rosanne~M. Crooke, Stanley~T. Crooke, Joseph~L. Witztum, Erik~S.
+  Stroes, and Sotirios Tsimikas.
+\newblock Antisense oligonucleotides targeting apolipoprotein(a) in people with
+  raised lipoprotein(a): two randomised, double-blind, placebo-controlled,
+  dose-ranging trials.
+\newblock \emph{The Lancet}, 388\penalty0 (10057):\penalty0 2239--2253, 2016.
+\newblock \doi{10.1016/S0140-6736(16)31009-1}.
+
+\bibitem[Mach et~al.(2020)Mach, Baigent, Catapano, Koskinas, Casula, Badimon,
+  Chapman, De~Backer, Delgado, Ference, Graham, Halliday, Landmesser,
+  Mihaylova, Pedersen, Riccardi, Richter, Sabatine, Taskinen, Tokgozoglu, and
+  Wiklund]{mach2020esc}
+Fran{\c{c}}ois Mach, Colin Baigent, Alberico~L. Catapano, Konstantinos~C.
+  Koskinas, Manuela Casula, Lina Badimon, M.~John Chapman, Guy~G. De~Backer,
+  Victoria Delgado, Brian~A. Ference, Ian~M. Graham, Alison Halliday, Ulf
+  Landmesser, Borislava Mihaylova, Terje~R. Pedersen, Gabriele Riccardi,
+  Dimitrios~J. Richter, Marc~S. Sabatine, Marja-Riitta Taskinen, Lale
+  Tokgozoglu, and Olov Wiklund.
+\newblock 2019 {ESC/EAS} guidelines for the management of dyslipidaemias: lipid
+  modification to reduce cardiovascular risk.
+\newblock \emph{European Heart Journal}, 41\penalty0 (1):\penalty0 111--188,
+  2020.
+\newblock \doi{10.1093/eurheartj/ehz455}.
+
+\end{thebibliography}

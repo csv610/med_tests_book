@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_karyotype_genetic.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 11 entries,
+            2481 wiz_defined-function locations,
+            639 strings with 7924 characters,
+and the built_in function-call counts, 5766 in all, are:
+= -- 389
+> -- 525
+< -- 3
++ -- 186
+- -- 164
+* -- 584
+:= -- 1023
+add.period$ -- 41
+call.type$ -- 11
+change.case$ -- 21
+chr.to.int$ -- 11
+cite$ -- 11
+duplicate$ -- 213
+empty$ -- 407
+format.name$ -- 179
+if$ -- 1133
+int.to.chr$ -- 1
+int.to.str$ -- 12
+missing$ -- 11
+newline$ -- 71
+num.names$ -- 35
+pop$ -- 76
+preamble$ -- 1
+purify$ -- 11
+quote$ -- 0
+skip$ -- 114
+stack$ -- 0
+substring$ -- 234
+swap$ -- 22
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 71
+warning$ -- 0
+while$ -- 39
+width$ -- 0
+write$ -- 167

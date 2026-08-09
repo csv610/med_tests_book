@@ -1,0 +1,64 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Scheinberg and Gitlin(1952)]{scheinberg1952deficiency}
+I.~Herbert Scheinberg and David Gitlin.
+\newblock Deficiency of ceruloplasmin in patients with hepatolenticular
+  degeneration ({Wilson}'s disease).
+\newblock \emph{Science}, 116\penalty0 (3018):\penalty0 484--485, 1952.
+\newblock \doi{10.1126/science.116.3018.484}.
+
+\bibitem[Walshe(1956)]{walshe1956penicillamine}
+John~M. Walshe.
+\newblock Penicillamine, a new oral therapy for {Wilson}'s disease.
+\newblock \emph{American Journal of Medicine}, 21\penalty0 (4):\penalty0
+  487--495, 1956.
+
+\bibitem[Menkes et~al.(1962)Menkes, Alter, Steigleder, Weakley, and
+  Sung]{menkes1962sexlinked}
+John~H. Menkes, Milton Alter, Gerd~K. Steigleder, David~R. Weakley, and Joo~Ho
+  Sung.
+\newblock A sex-linked recessive disorder with retardation of growth, peculiar
+  hair, and focal cerebral and cerebellar degeneration.
+\newblock \emph{Pediatrics}, 29:\penalty0 764--779, 1962.
+
+\bibitem[Schilsky et~al.(2023)Schilsky, Roberts, Bronstein, Dhawan, Hamilton,
+  Rivard, Washington, Weiss, and Zimbrean]{schilsky2023multidisciplinary}
+Michael~L. Schilsky, Eve~A. Roberts, Jeff~M. Bronstein, Anil Dhawan, James~P.
+  Hamilton, Andrew~M. Rivard, M.~Katherine Washington, Karl~Heinz Weiss, and
+  Paula~C. Zimbrean.
+\newblock A multidisciplinary approach to the diagnosis and management of
+  {Wilson} disease: 2022 practice guidance on {Wilson} disease from the
+  american association for the study of liver diseases.
+\newblock \emph{Hepatology}, 77\penalty0 (4):\penalty0 1428--1455, 2023.
+\newblock \doi{10.1002/hep.32701}.
+
+\bibitem[Roberts and Schilsky(2008)]{roberts2008diagnosis}
+Eve~A. Roberts and Michael~L. Schilsky.
+\newblock Diagnosis and treatment of wilson disease: an update.
+\newblock \emph{Hepatology}, 47\penalty0 (6):\penalty0 2089--2111, 2008.
+\newblock \doi{10.1002/hep.22261}.
+
+\bibitem[Kumar(2006)]{kumar2006copper}
+Neeraj Kumar.
+\newblock Copper deficiency myelopathy (human swayback).
+\newblock \emph{Mayo Clinic Proceedings}, 81\penalty0 (10):\penalty0
+  1371--1384, 2006.
+\newblock \doi{10.4065/81.10.1371}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

@@ -1,0 +1,50 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Krebs and Henseleit(1932)]{krebs1932untersuchungen}
+Hans~Adolf Krebs and Kurt Henseleit.
+\newblock Untersuchungen {\"u}ber die harnstoffbildung im tierk{\"o}rper.
+\newblock \emph{Hoppe-Seyler's Zeitschrift f{\"u}r Physiologische Chemie},
+  210\penalty0 (1-2):\penalty0 33--66, 1932.
+
+\bibitem[Clemmesen et~al.(1999)Clemmesen, Larsen, Kondrup, Hansen, and
+  Ott]{clemmesen1999cerebral}
+Jens~Otto Clemmesen, Fin~Stolze Larsen, Jens Kondrup, Bent~Adel Hansen, and
+  Peter Ott.
+\newblock Cerebral herniation in patients with acute liver failure is
+  correlated with arterial ammonia concentration.
+\newblock \emph{Hepatology}, 29\penalty0 (3):\penalty0 648--653, 1999.
+
+\bibitem[H{\"a}berle et~al.(2012)H{\"a}berle, Boddaert, Burlina, Chakrapani,
+  Dixon, Huemer, Karall, Martinelli, Crespo, Santer, Servais, Valayannopoulos,
+  Lindner, Rubio, and Dionisi-Vici]{haeberle2012suggested}
+Johannes H{\"a}berle, Nathalie Boddaert, Alberto Burlina, Anupam Chakrapani,
+  Marjorie Dixon, Martina Huemer, Daniela Karall, Diego Martinelli,
+  Pablo~Sanjurjo Crespo, R{\'e}ne Santer, Aude Servais, Vassili
+  Valayannopoulos, Martin Lindner, Vicente Rubio, and Carlo Dionisi-Vici.
+\newblock Suggested guidelines for the diagnosis and management of urea cycle
+  disorders: first revision.
+\newblock \emph{Orphanet Journal of Rare Diseases}, 7:\penalty0 32, 2012.
+
+\bibitem[Wadzinski et~al.(2007)Wadzinski, Morse, Riesenman, Binder, Jaber, and
+  Hymowitz]{wadzinski2007valproate}
+Todd Wadzinski, Ronald Morse, Paul Riesenman, Lior Binder, Bertrand~L. Jaber,
+  and Miriam Hymowitz.
+\newblock Valproate-associated hyperammonemic encephalopathy.
+\newblock \emph{Journal of the American Board of Family Medicine}, 20\penalty0
+  (5):\penalty0 499--502, 2007.
+
+\bibitem[Vilstrup et~al.(2014)Vilstrup, Amodio, Bajaj, Cordoba, Ferenci,
+  Mullen, Weissenborn, and Wong]{vilstrup2014hepatic}
+Hendrik Vilstrup, Piero Amodio, Jasmohan Bajaj, Juan Cordoba, Peter Ferenci,
+  Kevin~D. Mullen, Karin Weissenborn, and Philip Wong.
+\newblock Hepatic encephalopathy in chronic liver disease: 2014 practice
+  guideline by the american association for the study of liver diseases and the
+  european association for the study of the liver.
+\newblock \emph{Hepatology}, 60\penalty0 (2):\penalty0 715--735, 2014.
+
+\end{thebibliography}

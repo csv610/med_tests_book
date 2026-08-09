@@ -1,0 +1,51 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Camaschella(2015)]{camaschella2015iron}
+Clara Camaschella.
+\newblock Iron-deficiency anemia.
+\newblock \emph{New England Journal of Medicine}, 372\penalty0 (19):\penalty0
+  1832--1843, 2015.
+\newblock \doi{10.1056/NEJMra1401038}.
+
+\bibitem[Ganz(2019)]{ganz2019anemia}
+Tomas Ganz.
+\newblock Anemia of inflammation.
+\newblock \emph{New England Journal of Medicine}, 381\penalty0 (12):\penalty0
+  1148--1157, 2019.
+\newblock \doi{10.1056/NEJMra1804281}.
+
+\bibitem[Addison et~al.(1972)Addison, Beamish, Hales,
+  et~al.]{addison1972immunoradiometric}
+G.~M. Addison, M.~R. Beamish, C.~N. Hales, et~al.
+\newblock An immunoradiometric assay for ferritin in the serum of normal
+  subjects and patients with iron deficiency and iron overload.
+\newblock \emph{Journal of Clinical Pathology}, 25\penalty0 (4):\penalty0
+  326--329, 1972.
+\newblock \doi{10.1136/jcp.25.4.326}.
+
+\bibitem[Bacon et~al.(2011)Bacon, Adams, Kowdley, et~al.]{bacon2011diagnosis}
+Bruce~R. Bacon, Paul~C. Adams, Kris~V. Kowdley, et~al.
+\newblock Diagnosis and management of hemochromatosis: 2011 practice guideline
+  by the {American Association for the Study of Liver Diseases}.
+\newblock \emph{Hepatology}, 54\penalty0 (1):\penalty0 328--343, 2011.
+\newblock \doi{10.1002/hep.24330}.
+
+\bibitem[Guyatt et~al.(1992)Guyatt, Oxman, Ali, et~al.]{guyatt1992laboratory}
+Gordon~H. Guyatt, Andrew~D. Oxman, Moin Ali, et~al.
+\newblock Laboratory diagnosis of iron-deficiency anemia: an overview.
+\newblock \emph{Journal of General Internal Medicine}, 7\penalty0 (2):\penalty0
+  145--153, 1992.
+\newblock \doi{10.1007/BF02598003}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\end{thebibliography}

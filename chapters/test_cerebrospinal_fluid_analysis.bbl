@@ -1,0 +1,48 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Freedman et~al.(2005)Freedman, Thompson, Deisenhammer,
+  et~al.]{freedman2005recommended}
+Mark~S. Freedman, Edward~J. Thompson, Florian Deisenhammer, et~al.
+\newblock Recommended standard of cerebrospinal fluid analysis in the diagnosis
+  of multiple sclerosis.
+\newblock \emph{Archives of Neurology}, 62\penalty0 (6):\penalty0 865--870,
+  2005.
+\newblock \doi{10.1001/archneur.62.6.865}.
+
+\bibitem[Seehusen et~al.(2003)Seehusen, Reeves, and
+  Fomin]{seehusen2003cerebrospinal}
+Dean~A. Seehusen, Matthew~M. Reeves, and Demian~A. Fomin.
+\newblock Cerebrospinal fluid analysis.
+\newblock \emph{American Family Physician}, 68\penalty0 (6):\penalty0
+  1103--1108, 2003.
+
+\bibitem[Tunkel et~al.(2004)Tunkel, Hartman, Kaplan,
+  et~al.]{tunkel2004practice}
+Allan~R. Tunkel, Barry~J. Hartman, Sheldon~L. Kaplan, et~al.
+\newblock Practice guidelines for the management of bacterial meningitis.
+\newblock \emph{Clinical Infectious Diseases}, 39\penalty0 (9):\penalty0
+  1267--1284, 2004.
+\newblock \doi{10.1086/425368}.
+
+\bibitem[Perry et~al.(2013)Perry, Stiell, Wells, et~al.]{perry2013clinical}
+Jeffrey~J. Perry, Ian~G. Stiell, George~A. Wells, et~al.
+\newblock Clinical decision rules for evaluating subarachnoid hemorrhage.
+\newblock \emph{JAMA}, 310\penalty0 (12):\penalty0 1248--1255, 2013.
+\newblock \doi{10.1001/jama.2013.278018}.
+
+\bibitem[van~de Beek et~al.(2004)van~de Beek, de~Gans, Spanjaard, Weisfelt,
+  Reitsma, and Vermeulen]{vandebeek2004clinical}
+Diederik van~de Beek, Jan de~Gans, Lodewijk Spanjaard, Martijn Weisfelt,
+  Johannes~B. Reitsma, and Marinus Vermeulen.
+\newblock Clinical features and prognostic factors in adults with bacterial
+  meningitis.
+\newblock \emph{New England Journal of Medicine}, 351\penalty0 (18):\penalty0
+  1849--1859, 2004.
+\newblock \doi{10.1056/NEJMoa040845}.
+
+\end{thebibliography}

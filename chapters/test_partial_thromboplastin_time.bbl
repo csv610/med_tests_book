@@ -1,0 +1,75 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Ponikowski et~al.(2016)Ponikowski, Voors, Anker, Bueno, Cleland,
+  Coats, Falk, Gonz{\'a}lez-Juanatey, Harjola, Jankowska, Jessup, Linde,
+  Nihoyannopoulos, Parissis, Pieske, Riley, Rosano, Ruilope, Ruschitzka,
+  Rutten, and van~der Meer]{ponikowski2016esc}
+Piotr Ponikowski, Adriaan~A. Voors, Stefan~D. Anker, H{\'e}ctor Bueno, John
+  G.~F. Cleland, Andrew J.~S. Coats, Volkmar Falk, Jos{\'e}~Ram{\'o}n
+  Gonz{\'a}lez-Juanatey, Veli-Pekka Harjola, Ewa~A. Jankowska, Mariell Jessup,
+  Cecilia Linde, Petros Nihoyannopoulos, John~T. Parissis, Burkert Pieske,
+  Jillian~P. Riley, Giuseppe M.~C. Rosano, Luis~M. Ruilope, Frank Ruschitzka,
+  Frans~H. Rutten, and Peter van~der Meer.
+\newblock 2016 esc guidelines for the diagnosis and treatment of acute and
+  chronic heart failure: the task force for the diagnosis and treatment of
+  acute and chronic heart failure of the european society of cardiology (esc).
+  developed with the special contribution of the heart failure association
+  (hfa) of the esc.
+\newblock \emph{European Heart Journal}, 37\penalty0 (27):\penalty0 2129--2200,
+  2016.
+\newblock \doi{10.1093/eurheartj/ehw128}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Devreese et~al.(2018)Devreese, Ortel, Pengo, and
+  de~Laat]{devreese2018laboratory}
+Katrien M.~J. Devreese, Thomas~L. Ortel, Vittorio Pengo, and Bas de~Laat.
+\newblock Laboratory criteria for antiphospholipid syndrome: communication from
+  the ssc of the isth.
+\newblock \emph{Journal of Thrombosis and Haemostasis}, 16\penalty0
+  (4):\penalty0 809--813, 2018.
+\newblock \doi{10.1111/jth.13976}.
+
+\bibitem[Keeling et~al.(2011)Keeling, Baglin, Tait, Watson, Perry, Baglin,
+  Kitchen, and Makris]{keeling2011guidelines}
+David Keeling, Trevor Baglin, Campbell Tait, Henry Watson, David Perry,
+  Caroline Baglin, Steve Kitchen, and Michael Makris.
+\newblock Guidelines on oral anticoagulation with warfarin -- fourth edition.
+\newblock \emph{British Journal of Haematology}, 154\penalty0 (3):\penalty0
+  311--324, 2011.
+\newblock \doi{10.1111/j.1365-2141.2011.08753.x}.
+
+\end{thebibliography}

@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Kamath and Kim(2007)]{kamath2007model}
+Patrick~S. Kamath and W.~Ray Kim.
+\newblock The model for end-stage liver disease ({MELD}).
+\newblock \emph{Hepatology}, 45\penalty0 (3):\penalty0 797--805, 2007.
+\newblock \doi{10.1002/hep.21563}.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Temple(2006)]{temple2006hys}
+Robert Temple.
+\newblock Hy's law: predicting serious hepatotoxicity.
+\newblock \emph{Pharmacoepidemiology and Drug Safety}, 15\penalty0
+  (4):\penalty0 241--243, 2006.
+\newblock \doi{10.1002/pds.1211}.
+
+\bibitem[Kwo et~al.(2017)Kwo, Cohen, and Lim]{kwo2017acg}
+Paul~Y. Kwo, Stanley~M. Cohen, and Joseph~K. Lim.
+\newblock {ACG} clinical guideline: evaluation of abnormal liver chemistries.
+\newblock \emph{American Journal of Gastroenterology}, 112\penalty0
+  (1):\penalty0 18--35, 2017.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Giannini et~al.(2005)Giannini, Testa, and Savarino]{giannini2005liver}
+Edoardo~G. Giannini, Roberto Testa, and Vincenzo Savarino.
+\newblock Liver enzyme alteration: a guide for clinicians.
+\newblock \emph{Canadian Medical Association Journal}, 172\penalty0
+  (3):\penalty0 367--379, 2005.
+\newblock \doi{10.1503/cmaj.1040752}.
+
+\bibitem[Pugh et~al.(1973)Pugh, Murray-Lyon, Dawson, Pietroni, and
+  Williams]{pugh1973transection}
+R.~N.~H. Pugh, I.~M. Murray-Lyon, J.~L. Dawson, M.~C. Pietroni, and Roger
+  Williams.
+\newblock Transection of the oesophagus for bleeding oesophageal varices.
+\newblock \emph{British Journal of Surgery}, 60\penalty0 (8):\penalty0
+  646--649, 1973.
+\newblock \doi{10.1002/bjs.1800600817}.
+
+\end{thebibliography}

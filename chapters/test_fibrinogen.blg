@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_fibrinogen.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 8 entries,
+            2481 wiz_defined-function locations,
+            610 strings with 5920 characters,
+and the built_in function-call counts, 3083 in all, are:
+= -- 257
+> -- 162
+< -- 3
++ -- 62
+- -- 46
+* -- 250
+:= -- 504
+add.period$ -- 27
+call.type$ -- 8
+change.case$ -- 16
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 156
+empty$ -- 285
+format.name$ -- 58
+if$ -- 647
+int.to.chr$ -- 1
+int.to.str$ -- 9
+missing$ -- 10
+newline$ -- 51
+num.names$ -- 26
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 82
+stack$ -- 0
+substring$ -- 128
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 44
+warning$ -- 0
+while$ -- 24
+width$ -- 0
+write$ -- 121

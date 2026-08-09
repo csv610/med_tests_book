@@ -1,0 +1,36 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Barbet et~al.(2005)Barbet, Campion, Kraeber-Bod{\'e}r{\'e}, Chatal,
+  and the {GTE Study Group}]{barbet2005}
+Jacques Barbet, Lo{\"i}c Campion, Fran{\c{c}}oise Kraeber-Bod{\'e}r{\'e},
+  Jean-Fran{\c{c}}ois Chatal, and the {GTE Study Group}.
+\newblock Prognostic impact of serum calcitonin and carcinoembryonic antigen
+  doubling-times in patients with medullary thyroid carcinoma.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 90\penalty0
+  (11):\penalty0 6077--6084, 2005.
+\newblock \doi{10.1210/jc.2005-0424}.
+
+\bibitem[Copp et~al.(1962)Copp, Cameron, Cheney, Davidson, and Henze]{copp1962}
+D.~Harold Copp, Elspeth~C. Cameron, Barbara~A. Cheney, Alexander G.~F.
+  Davidson, and Karl~G. Henze.
+\newblock Evidence for calcitonin---a new hormone from the parathyroid that
+  lowers blood calcium.
+\newblock \emph{Endocrinology}, 70\penalty0 (5):\penalty0 638--649, 1962.
+\newblock \doi{10.1210/endo-70-5-638}.
+
+\bibitem[Wells et~al.(2015)Wells, Asa, Dralle, Elisei, Evans, Gagel, Lee,
+  Machens, Moley, Pacini, et~al.]{wells2015}
+Samuel~A. Wells, Sylvia~L. Asa, Henning Dralle, Rossella Elisei, Douglas~B.
+  Evans, Robert~F. Gagel, Nancy Lee, Andreas Machens, Jeffrey~F. Moley, Furio
+  Pacini, et~al.
+\newblock Revised {American Thyroid Association} guidelines for the management
+  of medullary thyroid carcinoma.
+\newblock \emph{Thyroid}, 25\penalty0 (6):\penalty0 567--610, 2015.
+\newblock \doi{10.1089/thy.2014.0335}.
+
+\end{thebibliography}

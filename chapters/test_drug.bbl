@@ -1,0 +1,39 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Moeller et~al.(2008)Moeller, Lee, and Kissack]{moeller2008urine}
+Karen~E. Moeller, Kelly~C. Lee, and Julie~C. Kissack.
+\newblock Urine drug screening: practical guide for clinicians.
+\newblock \emph{Mayo Clinic Proceedings}, 83\penalty0 (1):\penalty0 66--76,
+  2008.
+\newblock \doi{10.4065/83.1.66}.
+
+\bibitem[{Substance Abuse and Mental Health Services
+  Administration}(2017)]{samhsa2017mandatory}
+{Substance Abuse and Mental Health Services Administration}.
+\newblock Mandatory guidelines for federal workplace drug testing programs.
+\newblock \emph{Federal Register}, 82\penalty0 (13):\penalty0 7920--7970, 2017.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[Standridge et~al.(2010)Standridge, Adams, and
+  Zotos]{standridge2010urine}
+John~B. Standridge, Sandra~M. Adams, and Alexander~P. Zotos.
+\newblock Urine drug screening: a valuable office procedure.
+\newblock \emph{American Family Physician}, 81\penalty0 (5):\penalty0 635--640,
+  2010.
+
+\bibitem[Baselt(2017)]{baselt2017disposition}
+Randall~C. Baselt.
+\newblock \emph{Disposition of Toxic Drugs and Chemicals in Man}.
+\newblock Biomedical Publications, Seal Beach, CA, 11th edition, 2017.
+
+\end{thebibliography}

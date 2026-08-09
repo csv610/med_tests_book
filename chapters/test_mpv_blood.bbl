@@ -1,0 +1,63 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Bain et~al.(2017)Bain, Bates, and Laffan]{bain2017dacie}
+Barbara~J. Bain, Imelda Bates, and Michael~A. Laffan.
+\newblock \emph{Dacie and Lewis Practical Haematology}.
+\newblock Elsevier, Edinburgh, 12th edition, 2017.
+
+\bibitem[Sansanayudh et~al.(2014)Sansanayudh, Anothaisintawee, Muntham, McEvoy,
+  Attia, and Thakkinstian]{sansanayudh2014mean}
+Nakarin Sansanayudh, Thunyarat Anothaisintawee, Dittaphol Muntham, Mark McEvoy,
+  John Attia, and Ammarin Thakkinstian.
+\newblock Mean platelet volume and coronary artery disease: a systematic review
+  and meta-analysis.
+\newblock \emph{International Journal of Cardiology}, 175\penalty0
+  (3):\penalty0 433--440, 2014.
+\newblock \doi{10.1016/j.ijcard.2014.06.028}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Chu et~al.(2010)Chu, Becker, Berger, Bhatt, Eikelboom, Konkle, Mohler,
+  Reilly, and Berger]{chu2010mean}
+S.~G. Chu, R.~C. Becker, P.~B. Berger, D.~L. Bhatt, J.~W. Eikelboom, B.~Konkle,
+  E.~R. Mohler, M.~P. Reilly, and J.~S. Berger.
+\newblock Mean platelet volume as a predictor of cardiovascular risk: a
+  systematic review and meta-analysis.
+\newblock \emph{Journal of Thrombosis and Haemostasis}, 8\penalty0
+  (1):\penalty0 148--156, 2010.
+\newblock \doi{10.1111/j.1538-7836.2009.03584.x}.
+
+\end{thebibliography}

@@ -1,0 +1,101 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schuetz et~al.(2017)Schuetz, Wirz, Sager, Christ-Crain, Stolz, Tamm,
+  Bouadma, Luyt, Wolff, Chastre, Tubach, Kristoffersen, Burkhardt, Welte,
+  Schroeder, Nobre, Wei, Bucher, Bhatnagar, Annane, Reinhart, Branche, Damas,
+  Nijsten, de~Lange, Deliberato, Lima, Maravi{\'c}-Stojkovi{\'c}, Verduri, Cao,
+  Shehabi, Beishuizen, Jensen, Corti, Van~Oers, Falsey, de~Jong, Oliveira,
+  Beghe, Briel, and Mueller]{schuetz2017procalcitonin}
+Philipp Schuetz, Yannick Wirz, Ramon Sager, Mirjam Christ-Crain, Daiana Stolz,
+  Michael Tamm, Lila Bouadma, Charles~E. Luyt, Michel Wolff, Jean Chastre,
+  Florence Tubach, Kristina~B. Kristoffersen, Olaf Burkhardt, Tobias Welte,
+  Stefan Schroeder, Vandack Nobre, Long Wei, Heiner~C. Bucher, Neera Bhatnagar,
+  Djillali Annane, Konrad Reinhart, Angela Branche, Pierre Damas, Maarten
+  Nijsten, Dylan~W. de~Lange, Rodrigo~O. Deliberato, Stella~S. Lima, Vera
+  Maravi{\'c}-Stojkovi{\'c}, Alessia Verduri, Bin Cao, Yahya Shehabi, Albertus
+  Beishuizen, Jens-Ulrik~S. Jensen, Caspar Corti, Jos~A. Van~Oers, Ann~R.
+  Falsey, Evelien de~Jong, Carolina~F. Oliveira, Bianca Beghe, Matthias Briel,
+  and Beat Mueller.
+\newblock Procalcitonin to initiate or discontinue antibiotics in acute
+  respiratory tract infections.
+\newblock \emph{Cochrane Database of Systematic Reviews}, 10\penalty0
+  (10):\penalty0 CD007498, 2017.
+\newblock \doi{10.1002/14651858.CD007498.pub3}.
+
+\bibitem[Assicot et~al.(1993)Assicot, Bohuon, Gendrel, Raymond, Carsin, and
+  Guilbaud]{assicot1993high}
+M.~Assicot, C.~Bohuon, D.~Gendrel, J.~Raymond, H.~Carsin, and J.~Guilbaud.
+\newblock High serum procalcitonin concentrations in patients with sepsis and
+  infection.
+\newblock \emph{The Lancet}, 341\penalty0 (8844):\penalty0 515--518, 1993.
+\newblock \doi{10.1016/0140-6736(93)90277-n}.
+
+\bibitem[Huang et~al.(2018)Huang, Yealy, Filbin, Brown, Chang, Doi, Donnino,
+  Fine, Fine, Fischer, Holst, Hou, Kellum, Khan, Kurz, Lotfipour, LoVecchio,
+  Peck-Palmer, Pike, Prunty, Sherwin, Southerland, Terndrup, Weissfeld, Yabes,
+  and Angus]{huang2018procalcitonin}
+David~T. Huang, Donald~M. Yealy, Michael~R. Filbin, Aaron~M. Brown,
+  Chung-Chou~H. Chang, Yohei Doi, Michael~W. Donnino, Jonathan Fine, Michael~J.
+  Fine, Michelle~A. Fischer, John~M. Holst, Peter~C. Hou, John~A. Kellum, Feras
+  Khan, Michael~C. Kurz, Shahram Lotfipour, Frank LoVecchio, Octavia~M.
+  Peck-Palmer, Francis Pike, Heather Prunty, Robert~L. Sherwin, Lauren
+  Southerland, Thomas Terndrup, Lisa~A. Weissfeld, Jonathan Yabes, and Derek~C.
+  Angus.
+\newblock Procalcitonin-guided use of antibiotics for lower respiratory tract
+  infection.
+\newblock \emph{New England Journal of Medicine}, 379\penalty0 (3):\penalty0
+  236--249, 2018.
+\newblock \doi{10.1056/NEJMoa1802670}.
+
+\bibitem[Rhodes et~al.(2017)Rhodes, Evans, Alhazzani, Levy, Antonelli, Ferrer,
+  Kumar, Sevransky, Sprung, Nunnally, Rochwerg, Rubenfeld, Angus, Annane,
+  Beale, Bellinghan, Bernard, Chiche, Coopersmith, De~Backer, French,
+  Fujishima, Gerlach, Hidalgo, Hollenberg, Jones, Karnad, Kleinpell, Koh,
+  Lisboa, Machado, Marini, Marshall, Mazuski, McIntyre, McLean, Mehta, Moreno,
+  Myburgh, Navalesi, Nishida, Osborn, Perner, Plunkett, Ranieri, Schorr,
+  Seckel, Seymour, Shieh, Shukri, Simpson, Singer, Thompson, Townsend, Van~der
+  Poll, Vincent, Wiersinga, Zimmerman, and Dellinger]{rhodes2017surviving}
+Andrew Rhodes, Laura~E. Evans, Waleed Alhazzani, Mitchell~M. Levy, Massimo
+  Antonelli, Ricard Ferrer, Anand Kumar, Jonathan~E. Sevransky, Charles~L.
+  Sprung, Mark~E. Nunnally, Bram Rochwerg, Gordon~D. Rubenfeld, Derek~C. Angus,
+  Djillali Annane, Richard~J. Beale, Geoffrey~J. Bellinghan, Gordon~R. Bernard,
+  Jean-Daniel Chiche, Craig Coopersmith, Daniel~P. De~Backer, Craig~J. French,
+  Seitaro Fujishima, Herwig Gerlach, Jorge~Luis Hidalgo, Steven~M. Hollenberg,
+  Alan~E. Jones, Dilip~R. Karnad, Ruth~M. Kleinpell, Younsuk Koh, Thiago~Costa
+  Lisboa, Flavia~R. Machado, John~J. Marini, John~C. Marshall, John~E. Mazuski,
+  Lauralyn~A. McIntyre, Anthony~S. McLean, Sangeeta Mehta, Rui~P. Moreno, John
+  Myburgh, Paolo Navalesi, Osamu Nishida, Tiffany~M. Osborn, Anders Perner,
+  Colleen~M. Plunkett, Marco Ranieri, Christa~A. Schorr, Maureen~A. Seckel,
+  Christopher~W. Seymour, Lisa Shieh, Khalid~A. Shukri, Steven~Q. Simpson,
+  Mervyn Singer, B.~Taylor Thompson, Sean~R. Townsend, Thomas Van~der Poll,
+  Jean-Louis Vincent, W.~Joost Wiersinga, Janice~L. Zimmerman, and R.~Phillip
+  Dellinger.
+\newblock Surviving sepsis campaign: international guidelines for management of
+  sepsis and septic shock: 2016.
+\newblock \emph{Intensive Care Medicine}, 43\penalty0 (3):\penalty0 304--377,
+  2017.
+\newblock \doi{10.1007/s00134-017-4683-6}.
+
+\bibitem[Wacker et~al.(2013)Wacker, Prkno, Brunkhorst, and
+  Schlattmann]{wacker2013procalcitonin}
+Christina Wacker, Anna Prkno, Frank~M. Brunkhorst, and Peter Schlattmann.
+\newblock Procalcitonin as a diagnostic marker for sepsis: a systematic review
+  and meta-analysis.
+\newblock \emph{The Lancet Infectious Diseases}, 13\penalty0 (5):\penalty0
+  426--435, 2013.
+\newblock \doi{10.1016/S1473-3099(12)70323-7}.
+
+\bibitem[Schuetz et~al.(2011)Schuetz, Albrich, and
+  Mueller]{schuetz2011procalcitonin}
+Philipp Schuetz, Werner Albrich, and Beat Mueller.
+\newblock Procalcitonin for diagnosis of infection and guide to antibiotic
+  decisions: past, present and future.
+\newblock \emph{BMC Medicine}, 9:\penalty0 107, 2011.
+\newblock \doi{10.1186/1741-7015-9-107}.
+
+\end{thebibliography}

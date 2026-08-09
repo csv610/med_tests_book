@@ -1,0 +1,39 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Saunders et~al.(1993)Saunders, Aasland, Babor, de~la Fuente, and
+  Grant]{saunders1993development}
+John~B. Saunders, Olaf~G. Aasland, Thomas~F. Babor, Juan~R. de~la Fuente, and
+  Marcus Grant.
+\newblock Development of the alcohol use disorders identification test
+  ({AUDIT}): {WHO} collaborative project on early detection of persons with
+  harmful alcohol consumption--ii.
+\newblock \emph{Addiction}, 88\penalty0 (6):\penalty0 791--804, 1993.
+
+\bibitem[Bush et~al.(1998)Bush, Kivlahan, McDonell, Fihn, and
+  Bradley]{bush1998audit}
+Kristen Bush, Daniel~R. Kivlahan, Mary~B. McDonell, Stephan~D. Fihn, and
+  Katharine~A. Bradley.
+\newblock The {AUDIT} alcohol consumption questions ({AUDIT-C}): an effective
+  brief screening test for problem drinking.
+\newblock \emph{Archives of Internal Medicine}, 158\penalty0 (16):\penalty0
+  1789--1795, 1998.
+
+\bibitem[Ewing(1984)]{ewing1984detecting}
+John~A. Ewing.
+\newblock Detecting alcoholism: the {CAGE} questionnaire.
+\newblock \emph{JAMA}, 252\penalty0 (14):\penalty0 1905--1907, 1984.
+
+\bibitem[{U.S. Preventive Services Task Force}(2018)]{uspstf2018screening}
+{U.S. Preventive Services Task Force}.
+\newblock Screening and behavioral counseling interventions to reduce unhealthy
+  alcohol use in adolescents and adults: {U.S.} preventive services task force
+  recommendation statement.
+\newblock \emph{JAMA}, 320\penalty0 (18):\penalty0 1899--1909, 2018.
+\newblock \doi{10.1001/jama.2018.16789}.
+
+\end{thebibliography}

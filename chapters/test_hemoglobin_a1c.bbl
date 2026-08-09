@@ -1,0 +1,67 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Little et~al.(2011)Little, Rohlfing, and Sacks]{little2011status}
+Randie~R. Little, Curt~L. Rohlfing, and David~B. Sacks.
+\newblock Status of hemoglobin a1c measurement and goals for improvement: from
+  chaos to order for improving diabetes care.
+\newblock \emph{Clinical Chemistry}, 57\penalty0 (2):\penalty0 205--214, 2011.
+\newblock \doi{10.1373/clinchem.2010.148841}.
+
+\bibitem[Rahbar(1968)]{rahbar1968abnormal}
+Samuel Rahbar.
+\newblock An abnormal hemoglobin in red cells of diabetics.
+\newblock \emph{Clinica Chimica Acta}, 22\penalty0 (2):\penalty0 296--298,
+  1968.
+\newblock \doi{10.1016/0009-8981(68)90372-0}.
+
+\bibitem[{The Diabetes Control and Complications Trial Research
+  Group}(1993)]{dcct1993effect}
+{The Diabetes Control and Complications Trial Research Group}.
+\newblock The effect of intensive treatment of diabetes on the development and
+  progression of long-term complications in insulin-dependent diabetes
+  mellitus.
+\newblock \emph{New England Journal of Medicine}, 329\penalty0 (14):\penalty0
+  977--986, 1993.
+\newblock \doi{10.1056/NEJM199309303291401}.
+
+\bibitem[{UK Prospective Diabetes Study (UKPDS)
+  Group}(1998)]{ukpds1998intensive}
+{UK Prospective Diabetes Study (UKPDS) Group}.
+\newblock Intensive blood-glucose control with sulphonylureas or insulin
+  compared with conventional treatment and risk of complications in patients
+  with type 2 diabetes (ukpds 33).
+\newblock \emph{The Lancet}, 352\penalty0 (9131):\penalty0 837--853, 1998.
+\newblock \doi{10.1016/S0140-6736(98)07019-6}.
+
+\bibitem[{American Diabetes Association}(2023)]{ada2023standards}
+{American Diabetes Association}.
+\newblock Standards of care in diabetes---2023.
+\newblock \emph{Diabetes Care}, 46\penalty0 (Suppl. 1):\penalty0 S1--S291,
+  2023.
+\newblock \doi{10.2337/dc23-S001}.
+
+\bibitem[{World Health Organization}(2011)]{who2011glycated}
+{World Health Organization}.
+\newblock Use of glycated haemoglobin (hba1c) in the diagnosis of diabetes
+  mellitus.
+\newblock \emph{Diabetes Research and Clinical Practice}, 93\penalty0
+  (3):\penalty0 299--309, 2011.
+\newblock \doi{10.1016/j.diabres.2011.03.012}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

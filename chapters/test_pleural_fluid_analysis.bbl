@@ -1,0 +1,43 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Light et~al.(1972)Light, MacGregor, Luchsinger, and
+  Ball]{light1972pleural}
+R.~W. Light, M.~I. MacGregor, P.~C. Luchsinger, and W.~C. Ball.
+\newblock Pleural effusions: the diagnostic separation of transudates and
+  exudates.
+\newblock \emph{Annals of Internal Medicine}, 77\penalty0 (4):\penalty0
+  507--513, 1972.
+\newblock \doi{10.7326/0003-4819-77-4-507}.
+
+\bibitem[Light(2013)]{light2013pleural}
+R.~W. Light.
+\newblock \emph{Pleural Diseases}.
+\newblock Lippincott Williams {\&} Wilkins, Philadelphia, PA, 6th edition,
+  2013.
+
+\bibitem[Sahn(1988)]{sahn1988pleura}
+S.~A. Sahn.
+\newblock The pleura.
+\newblock \emph{American Review of Respiratory Disease}, 138\penalty0
+  (1):\penalty0 184--234, 1988.
+\newblock \doi{10.1164/ajrccm/138.1.184}.
+
+\bibitem[Maskell and Butland(2003)]{maskell2003bts}
+N.~A. Maskell and R.~J. Butland.
+\newblock Bts guidelines for the investigation of a unilateral pleural effusion
+  in adults.
+\newblock \emph{Thorax}, 58\penalty0 (Suppl 2):\penalty0 ii8--ii17, 2003.
+\newblock \doi{10.1136/thx.58.suppl_2.ii8}.
+
+\bibitem[Hooper et~al.(2010)Hooper, Lee, and Maskell]{hooper2010investigation}
+C.~Hooper, Y.~C.~G. Lee, and N.~Maskell.
+\newblock Investigation of a unilateral pleural effusion in adults.
+\newblock \emph{Thorax}, 65\penalty0 (Suppl 2):\penalty0 ii4--ii17, 2010.
+\newblock \doi{10.1136/thx.2010.136978}.
+
+\end{thebibliography}

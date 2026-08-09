@@ -1,0 +1,47 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Smolen et~al.(2016)Smolen, Aletaha, and McInnes]{smolen2016rheumatoid}
+Josef~S. Smolen, Daniel Aletaha, and Iain~B. McInnes.
+\newblock Rheumatoid arthritis.
+\newblock \emph{The Lancet}, 388\penalty0 (10055):\penalty0 2023--2038, 2016.
+\newblock \doi{10.1016/S0140-6736(16)30173-8}.
+
+\bibitem[Aletaha et~al.(2010)Aletaha, Neogi, Silman, Funovits, Felson, Bingham,
+  Birnbaum, Burmester, Bykerk, Cohen, et~al.]{aletaha2010}
+Daniel Aletaha, Tuhina Neogi, Alan~J. Silman, Julia Funovits, David~T. Felson,
+  Clifton~O. Bingham, Neal~S. Birnbaum, Gerd~R. Burmester, Vivian~P. Bykerk,
+  Marc~D. Cohen, et~al.
+\newblock 2010 {Rheumatoid Arthritis} classification criteria: an {American
+  College of Rheumatology}/{European League Against Rheumatism} collaborative
+  initiative.
+\newblock \emph{Arthritis and Rheumatism}, 62\penalty0 (9):\penalty0
+  2569--2581, 2010.
+\newblock \doi{10.1002/art.27584}.
+
+\bibitem[Scott et~al.(2010)Scott, Wolfe, and Huizinga]{scott2010rheumatoid}
+David~L. Scott, Frederick Wolfe, and Tom W.~J. Huizinga.
+\newblock Rheumatoid arthritis.
+\newblock \emph{The Lancet}, 376\penalty0 (9746):\penalty0 1094--1108, 2010.
+\newblock \doi{10.1016/S0140-6736(10)60826-4}.
+
+\bibitem[Ingegnoli et~al.(2013)Ingegnoli, Castelli, and
+  Gualtierotti]{ingegnoli2013rheumatoid}
+Francesca Ingegnoli, Roberto Castelli, and Roberta Gualtierotti.
+\newblock Rheumatoid factors: clinical applications.
+\newblock \emph{Disease Markers}, 35\penalty0 (6):\penalty0 727--734, 2013.
+\newblock \doi{10.1155/2013/726598}.
+
+\bibitem[Niewold et~al.(2007)Niewold, Harrison, and Paget]{niewold2007anticcp}
+T.~B. Niewold, M.~J. Harrison, and S.~A. Paget.
+\newblock Anti-ccp antibody testing as a diagnostic and prognostic tool in
+  rheumatoid arthritis.
+\newblock \emph{QJM: An International Journal of Medicine}, 100\penalty0
+  (4):\penalty0 193--201, 2007.
+\newblock \doi{10.1093/qjmed/hcm015}.
+
+\end{thebibliography}

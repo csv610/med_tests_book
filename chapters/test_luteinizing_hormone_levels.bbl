@@ -1,0 +1,65 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Odell et~al.(1967)Odell, Ross, and Rayford]{odell1967radioimmunoassay}
+William~D. Odell, Griff~T. Ross, and Phillip~L. Rayford.
+\newblock Radioimmunoassay for luteinizing hormone in human plasma or serum:
+  physiological studies.
+\newblock \emph{Journal of Clinical Investigation}, 46\penalty0 (2):\penalty0
+  248--255, 1967.
+\newblock \doi{10.1172/JCI105527}.
+
+\bibitem[{Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop
+  Group}(2004)]{rotterdam2004revised}
+{Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group}.
+\newblock Revised 2003 consensus on diagnostic criteria and long-term health
+  risks related to polycystic ovary syndrome.
+\newblock \emph{Fertility and Sterility}, 81\penalty0 (1):\penalty0 19--25,
+  2004.
+\newblock \doi{10.1016/j.fertnstert.2003.10.004}.
+
+\bibitem[Knobil(1980)]{knobil1980neuroendocrine}
+Ernst Knobil.
+\newblock The neuroendocrine control of the menstrual cycle.
+\newblock \emph{Recent Progress in Hormone Research}, 36:\penalty0 53--88,
+  1980.
+
+\bibitem[Balen et~al.(2016)Balen, Morley, Misso, Franks, Legro, Wijeyaratne,
+  Stener-Victorin, Fauser, Norman, and Teede]{balen2016management}
+Adam~H. Balen, Lara~C. Morley, Marie Misso, Stephen Franks, Richard~S. Legro,
+  Chandrika~N. Wijeyaratne, Elisabet Stener-Victorin, Bart C. J.~M. Fauser,
+  Robert~J. Norman, and Helena Teede.
+\newblock The management of anovulatory infertility in women with polycystic
+  ovary syndrome: an analysis of the evidence to support the development of
+  global {WHO} guidance.
+\newblock \emph{Human Reproduction Update}, 22\penalty0 (6):\penalty0 687--708,
+  2016.
+\newblock \doi{10.1093/humupd/dmw025}.
+
+\bibitem[Bhasin et~al.(2018)Bhasin, Brito, Cunningham,
+  et~al.]{bhasin2018testosterone}
+Shalender Bhasin, Juan~P. Brito, Glenn~R. Cunningham, et~al.
+\newblock Testosterone therapy in men with hypogonadism: an endocrine society
+  clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 103\penalty0
+  (5):\penalty0 1715--1744, 2018.
+\newblock \doi{10.1210/jc.2018-00229}.
+
+\bibitem[Mihm et~al.(2011)Mihm, Gangooly, and Muttukrishna]{mihm2011normal}
+M.~Mihm, S.~Gangooly, and S.~Muttukrishna.
+\newblock The normal menstrual cycle in women.
+\newblock \emph{Animal Reproduction Science}, 124\penalty0 (3-4):\penalty0
+  229--236, 2011.
+\newblock \doi{10.1016/j.anireprosci.2010.08.030}.
+
+\end{thebibliography}

@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bergstrand and Czar(1956)]{bergstrand1956demonstration}
+Carl~G. Bergstrand and B{\"o}rje Czar.
+\newblock Demonstration of a new protein fraction in serum from the human
+  fetus.
+\newblock \emph{Scandinavian Journal of Clinical and Laboratory Investigation},
+  8\penalty0 (2):\penalty0 174, 1956.
+
+\bibitem[Abelev et~al.(1963)Abelev, Perova, Khramkova, Postnikova, and
+  Irlin]{abelev1963production}
+G.~I. Abelev, S.~D. Perova, N.~I. Khramkova, Z.~A. Postnikova, and I.~S. Irlin.
+\newblock Production of embryonal alpha-globulin by transplantable mouse
+  hepatomas.
+\newblock \emph{Transplantation}, 1:\penalty0 174--180, 1963.
+
+\bibitem[Marrero et~al.(2018)Marrero, Kulik, Sirlin, Zhu, Finn, Abecassis,
+  Roberts, and Heimbach]{marrero2018diagnosis}
+Jorge~A. Marrero, Laura~M. Kulik, Claude~B. Sirlin, Andrew~X. Zhu, Richard~S.
+  Finn, Michael~M. Abecassis, Lewis~R. Roberts, and Julie~K. Heimbach.
+\newblock Diagnosis, staging, and management of hepatocellular carcinoma: 2018
+  practice guidance by the american association for the study of liver
+  diseases.
+\newblock \emph{Hepatology}, 68\penalty0 (2):\penalty0 723--750, 2018.
+
+\bibitem[Li et~al.(2001)Li, Mallory, and Satomura]{li2001afpl3}
+Dave Li, Tonya Mallory, and Shinji Satomura.
+\newblock {AFP-L3}: a new generation of tumor marker for hepatocellular
+  carcinoma.
+\newblock \emph{Clinica Chimica Acta}, 313\penalty0 (1-2):\penalty0 15--19,
+  2001.
+
+\end{thebibliography}

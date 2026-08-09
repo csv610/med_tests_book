@@ -1,0 +1,70 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Bain et~al.(2017)Bain, Bates, and Laffan]{bain2017dacie}
+Barbara~J. Bain, Imelda Bates, and Michael~A. Laffan.
+\newblock \emph{Dacie and Lewis Practical Haematology}.
+\newblock Elsevier, Edinburgh, 12th edition, 2017.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Neunert et~al.(2019)Neunert, Terrell, Arnold, Buchanan, Cines, Cooper,
+  Cuker, Despotovic, George, Grace, K{\"u}hne, Kuter, Lim, McCrae, Pruitt,
+  Shimanek, and Vesely]{neunert2019american}
+C.~Neunert, D.~R. Terrell, D.~M. Arnold, G.~Buchanan, D.~B. Cines, N.~Cooper,
+  A.~Cuker, J.~M. Despotovic, J.~N. George, R.~F. Grace, T.~K{\"u}hne, D.~J.
+  Kuter, W.~Lim, K.~R. McCrae, B.~Pruitt, H.~Shimanek, and S.~K. Vesely.
+\newblock American society of hematology 2019 guidelines for immune
+  thrombocytopenia.
+\newblock \emph{Blood Advances}, 3\penalty0 (23):\penalty0 3829--3866, 2019.
+\newblock \doi{10.1182/bloodadvances.2019000966}.
+
+\bibitem[Greinacher(2015)]{greinacher2015heparin}
+A.~Greinacher.
+\newblock Heparin-induced thrombocytopenia.
+\newblock \emph{New England Journal of Medicine}, 373\penalty0 (3):\penalty0
+  252--261, 2015.
+\newblock \doi{10.1056/nejmcp1411910}.
+
+\bibitem[Barbui et~al.(2018)Barbui, Thiele, Gisslinger, Kvasnicka, Vannucchi,
+  Guglielmelli, Orazi, and Tefferi]{barbui2018who}
+T.~Barbui, J.~Thiele, H.~Gisslinger, H.~M. Kvasnicka, A.~M. Vannucchi,
+  P.~Guglielmelli, A.~Orazi, and A.~Tefferi.
+\newblock The 2016 who classification and criteria for myeloproliferative
+  neoplasms.
+\newblock \emph{Blood Cancer Journal}, 8\penalty0 (2):\penalty0 15, 2018.
+\newblock \doi{10.1038/s41408-018-0054-y}.
+
+\end{thebibliography}

@@ -1,0 +1,63 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Huijgen et~al.(1997)Huijgen, Sanders, Koster, Vreeken, and
+  Bossuyt]{huijgen1997clinical}
+Hanneke~J. Huijgen, Gerard T.~B. Sanders, Rudolph~W. Koster, Jan Vreeken, and
+  Patrick M.~M. Bossuyt.
+\newblock The clinical value of lactate dehydrogenase in serum: a quantitative
+  review.
+\newblock \emph{European Journal of Clinical Chemistry and Clinical
+  Biochemistry}, 35\penalty0 (8):\penalty0 569--579, 1997.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Panteghini and Bais(2023)]{panteghini2023serum}
+Mauro Panteghini and Renze Bais.
+\newblock Serum enzymes.
+\newblock In Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors,
+  \emph{Tietz Textbook of Clinical Chemistry and Molecular Diagnostics}, pages
+  402--448. Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Project(1993)]{international1993predictive}
+International Non-Hodgkin's Lymphoma Prognostic~Factors Project.
+\newblock A predictive model for aggressive non-hodgkin's lymphoma.
+\newblock \emph{New England Journal of Medicine}, 329\penalty0 (14):\penalty0
+  987--994, 1993.
+\newblock \doi{10.1056/NEJM199309303291402}.
+
+\bibitem[Barcellini and Fattizzo(2015)]{barcellini2015clinical}
+Wilma Barcellini and Bruno Fattizzo.
+\newblock Clinical applications of hemolytic markers in the differential
+  diagnosis and management of hemolytic anemia.
+\newblock \emph{Disease Markers}, 2015:\penalty0 635670, 2015.
+\newblock \doi{10.1155/2015/635670}.
+
+\bibitem[George and Nester(2014)]{george2014syndromes}
+James~N. George and Carla~M. Nester.
+\newblock Syndromes of thrombotic microangiopathy.
+\newblock \emph{New England Journal of Medicine}, 371\penalty0 (7):\penalty0
+  654--666, 2014.
+\newblock \doi{10.1056/NEJMra1312353}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

@@ -1,0 +1,45 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Whitley and Roizman(2001)]{whitley2001herpes}
+Richard~J. Whitley and Bernard Roizman.
+\newblock Herpes simplex virus infections.
+\newblock \emph{The Lancet}, 357\penalty0 (9267):\penalty0 1513--1518, 2001.
+\newblock \doi{10.1016/S0140-6736(00)04638-9}.
+
+\bibitem[Gupta et~al.(2007)Gupta, Warren, and Wald]{gupta2007genital}
+Ravit Gupta, Terri Warren, and Anna Wald.
+\newblock Genital herpes.
+\newblock \emph{The Lancet}, 370\penalty0 (9605):\penalty0 2127--2137, 2007.
+\newblock \doi{10.1016/S0140-6736(07)61908-4}.
+
+\bibitem[Wald and Ashley-Morrow(2002)]{wald2002serological}
+Anna Wald and Rhoda Ashley-Morrow.
+\newblock Serological testing for herpes simplex virus (hsv)-1 and hsv-2
+  infection.
+\newblock \emph{Clinical Infectious Diseases}, 35\penalty0 (Suppl. 2):\penalty0
+  S173--S182, 2002.
+\newblock \doi{10.1086/342104}.
+
+\bibitem[Tunkel et~al.(2008)Tunkel, Glaser, Bloch,
+  et~al.]{tunkel2008management}
+Allan~R. Tunkel, Carol~A. Glaser, Karen~C. Bloch, et~al.
+\newblock The management of encephalitis: clinical practice guidelines by the
+  infectious diseases society of america.
+\newblock \emph{Clinical Infectious Diseases}, 47\penalty0 (3):\penalty0
+  303--327, 2008.
+\newblock \doi{10.1086/589747}.
+
+\bibitem[Workowski et~al.(2021)Workowski, Bachmann, Chan,
+  et~al.]{workowski2021sexually}
+Kimberly~A. Workowski, Laura~H. Bachmann, Philip~A. Chan, et~al.
+\newblock Sexually transmitted infections treatment guidelines, 2021.
+\newblock \emph{MMWR Recommendations and Reports}, 70\penalty0 (4):\penalty0
+  1--187, 2021.
+\newblock \doi{10.15585/mmwr.rr7004a1}.
+
+\end{thebibliography}

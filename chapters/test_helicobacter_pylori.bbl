@@ -1,0 +1,31 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Crowe(2019)]{crowe2019helicobacter}
+Sheila~E. Crowe.
+\newblock Helicobacter pylori infection.
+\newblock \emph{New England Journal of Medicine}, 380\penalty0 (12):\penalty0
+  1158--1165, 2019.
+\newblock \doi{10.1056/NEJMcp1710945}.
+
+\bibitem[Chey et~al.(2017)Chey, Leontiadis, Howden, and
+  Moss]{chey2017treatment}
+William~D. Chey, Grigorios~I. Leontiadis, Colin~W. Howden, and Steven~F. Moss.
+\newblock Acg clinical guideline: Treatment of helicobacter pylori infection.
+\newblock \emph{American Journal of Gastroenterology}, 112\penalty0
+  (2):\penalty0 212--239, 2017.
+\newblock \doi{10.1038/ajg.2016.563}.
+
+\bibitem[Malfertheiner et~al.(2017)Malfertheiner, Megraud, O'Morain,
+  et~al.]{malfertheiner2017management}
+Peter Malfertheiner, Francis Megraud, Colm~A. O'Morain, et~al.
+\newblock Management of helicobacter pylori infection---the maastricht
+  v/florence consensus report.
+\newblock \emph{Gut}, 66\penalty0 (1):\penalty0 6--30, 2017.
+\newblock \doi{10.1136/gutjnl-2016-312288}.
+
+\end{thebibliography}

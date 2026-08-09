@@ -1,0 +1,43 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Devill{\'e} et~al.(2004)Devill{\'e}, Yzermans, van Duijn, Bezemer,
+  van~der Windt, and Bouter]{deville2004urine}
+Walter L. J.~M. Devill{\'e}, Joris~C. Yzermans, Nico~P. van Duijn, P.~Dick
+  Bezemer, Dani{\"e}lle A. W.~M. van~der Windt, and Lex~M. Bouter.
+\newblock The urine dipstick test useful to rule out infections: a
+  meta-analysis of the accuracy.
+\newblock \emph{BMC Urology}, 4\penalty0 (1):\penalty0 4, 2004.
+\newblock \doi{10.1186/1471-2490-4-4}.
+
+\bibitem[Strasinger and Di~Lorenzo~Schaub(2020)]{strasinger2020urinalysis}
+Susan~King Strasinger and Marjorie Di~Lorenzo~Schaub.
+\newblock \emph{Urinalysis and Body Fluids}.
+\newblock F. A. Davis, Philadelphia, 7th edition, 2020.
+
+\bibitem[Nicolle et~al.(2019)Nicolle, Gupta, Bradley, Colgan, DeMuri, Drekonja,
+  Eckert, Geerlings, K{\"o}ves, Hooton, Juthani-Mehta, Knight, Saint,
+  Schaeffer, Trautner, Wullt, and Siemieniuk]{nicolle2019clinical}
+Lindsay~E. Nicolle, Kalpana Gupta, Suzanne~F. Bradley, Richard Colgan,
+  Gregory~P. DeMuri, Dimitri Drekonja, Linda~O. Eckert, Suzanne~E. Geerlings,
+  B{\'e}la K{\"o}ves, Thomas~M. Hooton, Manisha Juthani-Mehta, Shandra~L.
+  Knight, Sanjay Saint, Anthony~J. Schaeffer, Barbara Trautner, Bjorn Wullt,
+  and Reed Siemieniuk.
+\newblock Clinical practice guideline for the management of asymptomatic
+  bacteriuria: 2019 update by the infectious diseases society of america.
+\newblock \emph{Clinical Infectious Diseases}, 68\penalty0 (10):\penalty0
+  e83--e110, 2019.
+\newblock \doi{10.1093/cid/ciy1121}.
+
+\bibitem[Hooton and Gupta(2020)]{hooton2020acute}
+Thomas~M. Hooton and Kalpana Gupta.
+\newblock Acute uncomplicated cystitis and pyelonephritis in women.
+\newblock In John~E. Bennett, Raphael Dolin, and Martin~J. Blaser, editors,
+  \emph{Mandell, Douglas, and Bennett's Principles and Practice of Infectious
+  Diseases}. Elsevier, 9th edition, 2020.
+
+\end{thebibliography}

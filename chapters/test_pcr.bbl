@@ -1,0 +1,60 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Yang and Rothman(2004)]{yang2004pcrbased}
+Samuel Yang and Richard~E. Rothman.
+\newblock Pcr-based diagnostics for infectious diseases: uses, limitations, and
+  future applications in acute-care settings.
+\newblock \emph{The Lancet Infectious Diseases}, 4\penalty0 (6):\penalty0
+  337--348, 2004.
+\newblock \doi{10.1016/S1473-3099(04)01044-8}.
+
+\bibitem[Saiki et~al.(1988)Saiki, Gelfand, Stoffel, Scharf, Higuchi, Horn,
+  Mullis, and Erlich]{saiki1988primer}
+Randall~K. Saiki, David~H. Gelfand, Susanne Stoffel, Stephen~J. Scharf, Russell
+  Higuchi, Glenn~T. Horn, Kary~B. Mullis, and Henry~A. Erlich.
+\newblock Primer-directed enzymatic amplification of dna with a thermostable
+  dna polymerase.
+\newblock \emph{Science}, 239\penalty0 (4839):\penalty0 487--491, 1988.
+\newblock \doi{10.1126/science.2448875}.
+
+\bibitem[Espy et~al.(2006)Espy, Uhl, Sloan, Buckwalter, Jones, Vetter, Yao,
+  Wengenack, Rosenblatt, Cockerill, and Smith]{espy2006realtime}
+M.~J. Espy, J.~R. Uhl, L.~M. Sloan, S.~P. Buckwalter, M.~F. Jones, E.~A.
+  Vetter, J.~D.~C. Yao, N.~L. Wengenack, J.~E. Rosenblatt, F.~R. Cockerill, and
+  T.~F. Smith.
+\newblock Real-time pcr in clinical microbiology: Applications for routine
+  laboratory testing.
+\newblock \emph{Clinical Microbiology Reviews}, 19\penalty0 (1):\penalty0
+  165--256, 2006.
+\newblock \doi{10.1128/CMR.19.1.165-256.2006}.
+
+\bibitem[Bustin et~al.(2009)Bustin, Benes, Garson, Hellemans, Huggett, Kubista,
+  Mueller, Nolan, Pfaffl, Shipley, Vandesompele, and Wittwer]{bustin2009miqe}
+Stephen~A. Bustin, Vladimir Benes, Jeremy~A. Garson, Jan Hellemans, Jim
+  Huggett, Mikael Kubista, Reinhold Mueller, Tania Nolan, Michael~W. Pfaffl,
+  Gregory~L. Shipley, Jo~Vandesompele, and Carl~T. Wittwer.
+\newblock The miqe guidelines: Minimum information for publication of
+  quantitative real-time pcr experiments.
+\newblock \emph{Clinical Chemistry}, 55\penalty0 (4):\penalty0 611--622, 2009.
+\newblock \doi{10.1373/clinchem.2008.112797}.
+
+\bibitem[Caliendo et~al.(2013)Caliendo, Gilbert, Ginocchio, Hanson, May, Quinn,
+  Tenover, Alland, Blaschke, Bonomo, Carroll, Ferraro, Hirschhorn, Joseph,
+  Karchmer, MacIntyre, Reller, and Jackson]{caliendo2013better}
+Angela~M. Caliendo, David~N. Gilbert, Christine~C. Ginocchio, Kimberly~E.
+  Hanson, Larissa May, Thomas~C. Quinn, Fred~C. Tenover, David Alland, Anne~J.
+  Blaschke, Robert~A. Bonomo, Karen~C. Carroll, Mary~Jane Ferraro, Lisa~R.
+  Hirschhorn, W.~Patrick Joseph, Tobi Karchmer, Ann~T. MacIntyre, L.~Barth
+  Reller, and Audrey~F. Jackson.
+\newblock Better tests, better care: Improved diagnostics for infectious
+  diseases.
+\newblock \emph{Clinical Infectious Diseases}, 57\penalty0 (Suppl 3):\penalty0
+  S139--S170, 2013.
+\newblock \doi{10.1093/cid/cit578}.
+
+\end{thebibliography}

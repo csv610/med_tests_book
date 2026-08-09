@@ -1,0 +1,53 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Steinberg et~al.(2009)Steinberg, Forget, Higgs, and
+  Nagel]{steinberg2009disorders}
+Martin~H. Steinberg, Bernard~G. Forget, Douglas~R. Higgs, and Ronald~L. Nagel,
+  editors.
+\newblock \emph{Disorders of Hemoglobin: Genetics, Pathophysiology, and
+  Clinical Management}.
+\newblock Cambridge University Press, Cambridge, 2nd edition, 2009.
+
+\bibitem[Pauling et~al.(1949)Pauling, Itano, Singer, and
+  Wells]{pauling1949sickle}
+Linus Pauling, Harvey~A. Itano, S.~J. Singer, and Ibert~C. Wells.
+\newblock Sickle cell anemia, a molecular disease.
+\newblock \emph{Science}, 110\penalty0 (2865):\penalty0 543--548, 1949.
+\newblock \doi{10.1126/science.110.2865.543}.
+
+\bibitem[Michlitsch et~al.(2009)Michlitsch, Azimi, Hoppe,
+  et~al.]{michlitsch2009newborn}
+Jennifer Michlitsch, Maryam Azimi, Carolyn Hoppe, et~al.
+\newblock Newborn screening for hemoglobinopathies in california.
+\newblock \emph{Pediatric Blood and Cancer}, 52\penalty0 (4):\penalty0
+  486--490, 2009.
+\newblock \doi{10.1002/pbc.21883}.
+
+\bibitem[Ryan et~al.(2010)Ryan, Bain, Worthington, et~al.]{ryan2010significant}
+Katrina Ryan, Barbara~J. Bain, David Worthington, et~al.
+\newblock Significant haemoglobinopathies: guidelines for screening and
+  diagnosis.
+\newblock \emph{British Journal of Haematology}, 149\penalty0 (1):\penalty0
+  35--49, 2010.
+\newblock \doi{10.1111/j.1365-2141.2009.08054.x}.
+
+\bibitem[Thein(2013)]{thein2013molecular}
+Swee~Lay Thein.
+\newblock The molecular basis of beta-thalassemia.
+\newblock \emph{Cold Spring Harbor Perspectives in Medicine}, 3\penalty0
+  (5):\penalty0 a011700, 2013.
+\newblock \doi{10.1101/cshperspect.a011700}.
+
+\bibitem[Bunn(1997)]{bunn1997pathogenesis}
+H.~Franklin Bunn.
+\newblock Pathogenesis and treatment of sickle cell disease.
+\newblock \emph{New England Journal of Medicine}, 337\penalty0 (11):\penalty0
+  762--769, 1997.
+\newblock \doi{10.1056/NEJM199709113371107}.
+
+\end{thebibliography}

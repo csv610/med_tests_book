@@ -1,0 +1,51 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Luzzatto et~al.(2020)Luzzatto, Ally, and Notaro]{luzzatto2020glucose}
+Lucio Luzzatto, Mahmoud Ally, and Rosario Notaro.
+\newblock Glucose-6-phosphate dehydrogenase deficiency.
+\newblock \emph{Blood}, 136\penalty0 (11):\penalty0 1225--1240, 2020.
+\newblock \doi{10.1182/blood.2019000944}.
+
+\bibitem[Ruwende and Hill(1998)]{ruwende1998glucose}
+Cyril Ruwende and Adrian Hill.
+\newblock Glucose-6-phosphate dehydrogenase deficiency and malaria.
+\newblock \emph{Journal of Molecular Medicine}, 76\penalty0 (8):\penalty0
+  581--588, 1998.
+
+\bibitem[Carson et~al.(1956)Carson, Flanagan, Ickes, and
+  Alving]{carson1956enzymatic}
+Paul~E. Carson, C.~L. Flanagan, C.~E. Ickes, and Alf~S. Alving.
+\newblock Enzymatic deficiency in primaquine-sensitive erythrocytes.
+\newblock \emph{Science}, 124\penalty0 (3220):\penalty0 484--485, 1956.
+
+\bibitem[Beutler(1994)]{beutler1994g6pd}
+Ernest Beutler.
+\newblock G6pd deficiency.
+\newblock \emph{Blood}, 84\penalty0 (11):\penalty0 3613--3636, 1994.
+\newblock \doi{10.1182/blood.V84.11.3613.bloodjournal84113613}.
+
+\bibitem[{WHO Working Group}(1989)]{who1989glucose}
+{WHO Working Group}.
+\newblock Glucose-6-phosphate dehydrogenase deficiency.
+\newblock \emph{Bulletin of the World Health Organization}, 67\penalty0
+  (6):\penalty0 601--611, 1989.
+
+\bibitem[Beutler and Mitchell(1968)]{beutler1968special}
+Ernest Beutler and Michelle Mitchell.
+\newblock Special modifications of the fluorescent screening method for
+  glucose-6-phosphate dehydrogenase deficiency.
+\newblock \emph{Blood}, 32\penalty0 (5):\penalty0 816--818, 1968.
+\newblock \doi{10.1182/blood.V32.5.816.816}.
+
+\bibitem[Cappellini and Fiorelli(2008)]{cappellini2008glucose}
+Maria~Domenica Cappellini and Gemino Fiorelli.
+\newblock Glucose-6-phosphate dehydrogenase deficiency.
+\newblock \emph{Lancet}, 371\penalty0 (9606):\penalty0 64--74, 2008.
+\newblock \doi{10.1016/S0140-6736(08)60073-2}.
+
+\end{thebibliography}

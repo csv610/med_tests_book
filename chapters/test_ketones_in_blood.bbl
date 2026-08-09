@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dhatariya et~al.(2020)Dhatariya, Glaser, Codner, and
+  Umpierrez]{dhatariya2020diabetic}
+Ketan~K. Dhatariya, Nicole~S. Glaser, Ethel Codner, and Guillermo~E. Umpierrez.
+\newblock Diabetic ketoacidosis.
+\newblock \emph{Nature Reviews Disease Primers}, 6\penalty0 (1):\penalty0 40,
+  2020.
+\newblock \doi{10.1038/s41572-020-0165-1}.
+
+\bibitem[Arora et~al.(2011)Arora, Probst, Agy, and Menchine]{arora2011point}
+Sanjay Arora, Marc~A. Probst, Chad Agy, and Michael Menchine.
+\newblock Point-of-care beta-hydroxybutyrate testing for assessing diabetic
+  ketoacidosis in the emergency department.
+\newblock \emph{Diabetes Research and Clinical Practice}, 94\penalty0
+  (3):\penalty0 e86--e88, 2011.
+\newblock \doi{10.1016/j.diabres.2011.09.008}.
+
+\bibitem[Neal et~al.(2008)Neal, Chaffe, Edwards, et~al.]{neal2008ketogenic}
+Elizabeth~G. Neal, Hannah~M. Chaffe, Nick Edwards, et~al.
+\newblock The ketogenic diet for the treatment of childhood epilepsy: a
+  randomised controlled trial.
+\newblock \emph{Lancet Neurology}, 7\penalty0 (6):\penalty0 500--506, 2008.
+\newblock \doi{10.1016/S1474-4422(08)70092-9}.
+
+\bibitem[Kitabchi et~al.(2009)Kitabchi, Umpierrez, Miles, and
+  Fisher]{kitabchi2009hyperglycemic}
+Abbas~E. Kitabchi, Guillermo~E. Umpierrez, John~M. Miles, and Joseph~N. Fisher.
+\newblock Hyperglycemic crises in adult patients with diabetes.
+\newblock \emph{Diabetes Care}, 32\penalty0 (7):\penalty0 1335--1343, 2009.
+\newblock \doi{10.2337/dc09-9032}.
+
+\end{thebibliography}

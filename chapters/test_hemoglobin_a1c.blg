@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_hemoglobin_a1c.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 8 entries,
+            2481 wiz_defined-function locations,
+            613 strings with 6093 characters,
+and the built_in function-call counts, 2940 in all, are:
+= -- 275
+> -- 93
+< -- 6
++ -- 42
+- -- 26
+* -- 223
+:= -- 466
+add.period$ -- 30
+call.type$ -- 8
+change.case$ -- 16
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 154
+empty$ -- 293
+format.name$ -- 36
+if$ -- 622
+int.to.chr$ -- 1
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 54
+num.names$ -- 25
+pop$ -- 56
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 166
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 50
+warning$ -- 0
+while$ -- 28
+width$ -- 0
+write$ -- 125

@@ -1,0 +1,37 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kosnett(2024)]{kosnett2024heavy}
+Michael~J. Kosnett.
+\newblock Heavy metal intoxication.
+\newblock In \emph{Goldman-Cecil Medicine}. Elsevier, Philadelphia, 27th
+  edition, 2024.
+
+\bibitem[Nordberg et~al.(2022)Nordberg, Fowler, and
+  Nordberg]{nordberg2022handbook}
+Gunnar~F. Nordberg, Bruce~A. Fowler, and Monica Nordberg, editors.
+\newblock \emph{Handbook on the Toxicology of Metals}.
+\newblock Academic Press, London, 5th edition, 2022.
+
+\bibitem[{U.S. Department of Labor, Occupational Safety and Health
+  Administration}(2024)]{osha2024heavy}
+{U.S. Department of Labor, Occupational Safety and Health Administration}.
+\newblock Heavy metals: lead, cadmium, mercury, 2024.
+\newblock Occupational Safety and Health Standards.
+
+\bibitem[{Centers for Disease Control and Prevention}(2021)]{cdc2021bloodlead}
+{Centers for Disease Control and Prevention}.
+\newblock Blood lead reference value, 2021.
+
+\bibitem[{American College of Medical Toxicology}(2010)]{acmt2010position}
+{American College of Medical Toxicology}.
+\newblock Position statement on post-chelation challenge testing.
+\newblock \emph{Journal of Medical Toxicology}, 6\penalty0 (1):\penalty0
+  74--78, 2010.
+\newblock \doi{10.1007/s13181-010-0039-0}.
+
+\end{thebibliography}

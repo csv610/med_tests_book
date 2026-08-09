@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bergwitz and J{\"u}ppner(2010)]{bergwitz2010regulation}
+C.~Bergwitz and H.~J{\"u}ppner.
+\newblock Regulation of phosphate homeostasis by pth, vitamin d, and fgf23.
+\newblock \emph{Annual Review of Medicine}, 61:\penalty0 91--104, 2010.
+\newblock \doi{10.1146/annurev.med.051308.111339}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Carpenter et~al.(2011)Carpenter, Imel, Holm, Jan~de Beur, and
+  Insogna]{carpenter2011clinicians}
+T.~O. Carpenter, E.~A. Imel, I.~A. Holm, S.~M. Jan~de Beur, and K.~L. Insogna.
+\newblock A clinician's guide to x-linked hypophosphatemia.
+\newblock \emph{Journal of Bone and Mineral Research}, 26\penalty0
+  (7):\penalty0 1381--1388, 2011.
+\newblock \doi{10.1002/jbmr.340}.
+
+\bibitem[Chong et~al.(2011)Chong, Molinolo, Chen, and Collins]{chong2011tumor}
+W.~H. Chong, A.~A. Molinolo, C.~C. Chen, and M.~T. Collins.
+\newblock Tumor-induced osteomalacia.
+\newblock \emph{Endocrine-Related Cancer}, 18\penalty0 (3):\penalty0 R53--R77,
+  2011.
+\newblock \doi{10.1530/erc-11-0006}.
+
+\bibitem[Portale et~al.(1987)Portale, Halloran, and Morris]{portale1987dietary}
+A.~A. Portale, B.~P. Halloran, and R.~C. Morris.
+\newblock Dietary intake of phosphorus modulates the circadian rhythm in serum
+  concentration of phosphorus.
+\newblock \emph{Journal of Clinical Investigation}, 80\penalty0 (4):\penalty0
+  1147--1154, 1987.
+\newblock \doi{10.1172/jci113172}.
+
+\bibitem[Walton and Bijvoet(1975)]{walton1975nomogram}
+R.~J. Walton and O.~L. Bijvoet.
+\newblock Nomogram for derivation of renal threshold phosphate concentration.
+\newblock \emph{The Lancet}, 306\penalty0 (7929):\penalty0 309--310, 1975.
+\newblock \doi{10.1016/s0140-6736(75)92736-1}.
+
+\bibitem[Imel and Econs(2012)]{imel2012approach}
+E.~A. Imel and M.~J. Econs.
+\newblock Approach to the hypophosphatemic patient.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 97\penalty0
+  (3):\penalty0 696--706, 2012.
+\newblock \doi{10.1210/jc.2011-1319}.
+
+\end{thebibliography}

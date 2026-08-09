@@ -1,0 +1,34 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Strasinger and Di~Lorenzo~Schaub(2020)]{strasinger2020urinalysis}
+Susan~King Strasinger and Marjorie Di~Lorenzo~Schaub.
+\newblock \emph{Urinalysis and Body Fluids}.
+\newblock F. A. Davis, Philadelphia, 7th edition, 2020.
+
+\bibitem[McPherson and Pincus(2022)]{mcpherson2022henrys}
+Richard~A. McPherson and Matthew~R. Pincus, editors.
+\newblock \emph{Henry's Clinical Diagnosis and Management by Laboratory
+  Methods}.
+\newblock Elsevier, St. Louis, MO, 24th edition, 2022.
+
+\bibitem[Pearle et~al.(2014)Pearle, Goldfarb, Assimos, Curhan, Denu-Ciocca,
+  Matlaga, Monga, Penniston, Preminger, Turk, and White]{pearle2014medical}
+Margaret~S. Pearle, David~S. Goldfarb, Dean~G. Assimos, Gary Curhan, Cynthia~J.
+  Denu-Ciocca, Brian~R. Matlaga, Manoj Monga, Kristina~L. Penniston, Glenn~M.
+  Preminger, Thomas~M. Turk, and James~R. White.
+\newblock Medical management of kidney stones: {AUA} guideline.
+\newblock \emph{Journal of Urology}, 192\penalty0 (2):\penalty0 316--324, 2014.
+\newblock \doi{10.1016/j.juro.2014.05.006}.
+
+\bibitem[Neumann et~al.(2020)]{neumann2020druginduced}
+Ivo Neumann et~al.
+\newblock Drug-induced crystalluria.
+\newblock \emph{American Journal of Kidney Diseases}, 76\penalty0 (1):\penalty0
+  134--142, 2020.
+
+\end{thebibliography}

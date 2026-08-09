@@ -1,0 +1,41 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Moss(2017)]{moss2017measles}
+William~J. Moss.
+\newblock Measles.
+\newblock \emph{The Lancet}, 390\penalty0 (10111):\penalty0 2490--2502, 2017.
+\newblock \doi{10.1016/S0140-6736(17)31463-0}.
+
+\bibitem[Hviid et~al.(2008)Hviid, Rubin, and M{\"u}hlemann]{hviid2008mumps}
+Anders Hviid, Steven Rubin, and Kathrin M{\"u}hlemann.
+\newblock Mumps.
+\newblock \emph{The Lancet}, 371\penalty0 (9616):\penalty0 932--944, 2008.
+\newblock \doi{10.1016/S0140-6736(08)60419-5}.
+
+\bibitem[Rota et~al.(2016)Rota, Moss, Takeda, de~Swart, Thompson, and
+  Goodson]{rota2016measles}
+Paul~A. Rota, William~J. Moss, Makoto Takeda, Rik~L. de~Swart, Kimberly~M.
+  Thompson, and James~L. Goodson.
+\newblock Measles.
+\newblock \emph{Nature Reviews Disease Primers}, 2:\penalty0 16049, 2016.
+\newblock \doi{10.1038/nrdp.2016.49}.
+
+\bibitem[{Centers for Disease Control and Prevention}(2021)]{cdc2021measles}
+{Centers for Disease Control and Prevention}.
+\newblock Measles.
+\newblock In \emph{Epidemiology and Prevention of Vaccine-Preventable
+  Diseases}. Public Health Foundation, Washington, DC, 14th edition, 2021.
+\newblock The Pink Book.
+
+\bibitem[{Centers for Disease Control and Prevention}(2013)]{cdc2013prevention}
+{Centers for Disease Control and Prevention}.
+\newblock Prevention of measles, rubella, congenital rubella syndrome, and
+  mumps: {ACIP} recommendations.
+\newblock MMWR Recommendations and Reports, 2013.
+
+\end{thebibliography}

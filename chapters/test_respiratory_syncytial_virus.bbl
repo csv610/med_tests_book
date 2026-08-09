@@ -1,0 +1,65 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hall et~al.(2009)Hall, Weinberg, Iwane, Blumkin, Edwards, Staat,
+  Auinger, Griffin, Poehling, Erdman, Grijalva, Zhu, and
+  Szilagyi]{hall2009burden}
+Caroline~Breese Hall, Geoffrey~A. Weinberg, Marika~K. Iwane, Aaron~K. Blumkin,
+  Kathryn~M. Edwards, Mary~A. Staat, Peggy Auinger, Marie~R. Griffin,
+  Katherine~A. Poehling, Dean Erdman, Carlos~G. Grijalva, Yuwei Zhu, and Peter
+  Szilagyi.
+\newblock The burden of respiratory syncytial virus infection in young
+  children.
+\newblock \emph{New England Journal of Medicine}, 360\penalty0 (6):\penalty0
+  588--598, 2009.
+\newblock \doi{10.1056/NEJMoa0804877}.
+
+\bibitem[Falsey et~al.(2005)Falsey, Hennessey, Formica, Cox, and
+  Walsh]{falsey2005respiratory}
+Ann~R. Falsey, Patricia~A. Hennessey, Maria~A. Formica, Christopher Cox, and
+  Edward~E. Walsh.
+\newblock Respiratory syncytial virus infection in elderly and high-risk
+  adults.
+\newblock \emph{New England Journal of Medicine}, 352\penalty0 (17):\penalty0
+  1749--1759, 2005.
+\newblock \doi{10.1056/NEJMoa043951}.
+
+\bibitem[Chartrand et~al.(2015)Chartrand, Tremblay, Renaud, and
+  Papenburg]{chartrand2015diagnostic}
+Caroline Chartrand, Nicolas Tremblay, Christian Renaud, and Jesse Papenburg.
+\newblock Diagnostic accuracy of rapid antigen detection tests for respiratory
+  syncytial virus infection: systematic review and meta-analysis.
+\newblock \emph{Journal of Clinical Microbiology}, 53\penalty0 (12):\penalty0
+  3738--3749, 2015.
+\newblock \doi{10.1128/JCM.01816-15}.
+
+\bibitem[Ralston et~al.(2014)Ralston, Lieberthal, Meissner, Alverson, Baley,
+  Gadomski, Johnson, Light, Maraqa, Mendonca, Phelan, Zorc, Stanko-Lopp, Brown,
+  Nathanson, Rosenblum, Sayers, and Hernandez-Cancio]{aap2014bronchiolitis}
+Shawn~L. Ralston, Allan~S. Lieberthal, H.~Cody Meissner, Brian~K. Alverson,
+  Jill~E. Baley, Anne~M. Gadomski, David~W. Johnson, Michael~J. Light, Nizar~F.
+  Maraqa, Eneida~A. Mendonca, Kieran~J. Phelan, Joseph~J. Zorc, Danette
+  Stanko-Lopp, Mark~A. Brown, Ian Nathanson, Elizabeth Rosenblum, Stephen
+  Sayers, and Sinsi Hernandez-Cancio.
+\newblock Clinical practice guideline: the diagnosis, management, and
+  prevention of bronchiolitis.
+\newblock \emph{Pediatrics}, 134\penalty0 (5):\penalty0 e1474--e1502, 2014.
+\newblock \doi{10.1542/peds.2014-2742}.
+
+\bibitem[Lee et~al.(2013)Lee, Lui, Wong, Li, Tse, Chan, Yu, Wong, Choi, Wong,
+  Ngai, Chan, Cockram, and Hui]{lee2013high}
+Nelson Lee, Grace C.~Y. Lui, Ka~T. Wong, Tracy C.~M. Li, Eugene C.~M. Tse,
+  Jacky Y.~C. Chan, Jessica Yu, Shirley S.~M. Wong, Kin~W. Choi, Ricky Y.~K.
+  Wong, Kelvin L.~K. Ngai, Paul K.~S. Chan, Clive~S. Cockram, and David S.~C.
+  Hui.
+\newblock High morbidity and mortality in adults hospitalized for respiratory
+  syncytial virus infections.
+\newblock \emph{Clinical Infectious Diseases}, 57\penalty0 (8):\penalty0
+  1069--1077, 2013.
+\newblock \doi{10.1093/cid/cit471}.
+
+\end{thebibliography}

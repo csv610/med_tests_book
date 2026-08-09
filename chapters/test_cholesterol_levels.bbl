@@ -1,0 +1,53 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Friedewald et~al.(1972)Friedewald, Levy, and
+  Fredrickson]{friedewald1972estimation}
+William~T. Friedewald, Robert~I. Levy, and Donald~S. Fredrickson.
+\newblock Estimation of the concentration of low-density lipoprotein
+  cholesterol in plasma, without use of the preparative ultracentrifuge.
+\newblock \emph{Clinical Chemistry}, 18\penalty0 (6):\penalty0 499--502, 1972.
+\newblock \doi{10.1093/clinchem/18.6.499}.
+
+\bibitem[Martin et~al.(2013)Martin, Blaha, Elshazly,
+  et~al.]{martin2013comparison}
+Seth~S. Martin, Michael~J. Blaha, Mohamed~B. Elshazly, et~al.
+\newblock Comparison of a novel method vs the friedewald equation for
+  estimating low-density lipoprotein cholesterol levels from the standard lipid
+  profile.
+\newblock \emph{JAMA}, 310\penalty0 (19):\penalty0 2061--2068, 2013.
+\newblock \doi{10.1001/jama.2013.280532}.
+
+\bibitem[Grundy et~al.(2019)Grundy, Stone, Bailey, et~al.]{grundy2019guideline}
+Scott~M. Grundy, Neil~J. Stone, Alison~L. Bailey, et~al.
+\newblock 2018 aha/acc/aacvpr/aapa/abc/acpm/ada/ags/apha/aspc/nla/pcna
+  guideline on the management of blood cholesterol: a report of the american
+  college of cardiology/american heart association task force on clinical
+  practice guidelines.
+\newblock \emph{Journal of the American College of Cardiology}, 73\penalty0
+  (24):\penalty0 e285--e350, 2019.
+\newblock \doi{10.1016/j.jacc.2018.11.003}.
+
+\bibitem[Wilson et~al.(1998)Wilson, D'Agostino, Levy, Belanger, Silbershatz,
+  and Kannel]{wilson1998prediction}
+Peter W.~F. Wilson, Ralph~B. D'Agostino, Daniel Levy, Albert~M. Belanger, Halit
+  Silbershatz, and William~B. Kannel.
+\newblock Prediction of coronary heart disease using risk factor categories.
+\newblock \emph{Circulation}, 97\penalty0 (18):\penalty0 1837--1847, 1998.
+\newblock \doi{10.1161/01.CIR.97.18.1837}.
+
+\bibitem[{Expert Panel on Detection, Evaluation, and Treatment of High Blood
+  Cholesterol in Adults}(2001)]{necp2001executive}
+{Expert Panel on Detection, Evaluation, and Treatment of High Blood Cholesterol
+  in Adults}.
+\newblock Executive summary of the third report of the national cholesterol
+  education program (ncep) expert panel on detection, evaluation, and treatment
+  of high blood cholesterol in adults (adult treatment panel iii).
+\newblock \emph{JAMA}, 285\penalty0 (19):\penalty0 2486--2497, 2001.
+\newblock \doi{10.1001/jama.285.19.2486}.
+
+\end{thebibliography}

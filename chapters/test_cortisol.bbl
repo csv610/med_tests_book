@@ -1,0 +1,62 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[Bornstein et~al.(2016)Bornstein, Allolio, Arlt, Barthel, Don-Wauchope,
+  Hammer, Husebye, Merke, Murad, Stratakis, and Torpy]{bornstein2016diagnosis}
+Stefan~R. Bornstein, Bruno Allolio, Wiebke Arlt, Andreas Barthel, Andrew
+  Don-Wauchope, Gary~D. Hammer, Eystein~S. Husebye, Deborah~P. Merke, M.~Hassan
+  Murad, Constantine~A. Stratakis, and David~J. Torpy.
+\newblock Diagnosis and treatment of primary adrenal insufficiency: an
+  endocrine society clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 101\penalty0
+  (2):\penalty0 364--389, 2016.
+
+\bibitem[Nieman et~al.(2015)Nieman, Biller, Findling, Murad, Newell-Price,
+  Savage, and Tabarin]{nieman2015treatment}
+Lynnette~K. Nieman, Beverly M.~K. Biller, James~W. Findling, M.~Hassan Murad,
+  John Newell-Price, Martin~O. Savage, and Antoine Tabarin.
+\newblock Treatment of {Cushing}'s syndrome: an endocrine society clinical
+  practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 100\penalty0
+  (8):\penalty0 2807--2831, 2015.
+
+\bibitem[Bancos et~al.(2015)Bancos, Hahner, Tomlinson, and
+  Arlt]{bancos2015diagnosis}
+Irina Bancos, Stefanie Hahner, Jeremy Tomlinson, and Wiebke Arlt.
+\newblock Diagnosis and management of adrenal insufficiency.
+\newblock \emph{Lancet Diabetes and Endocrinology}, 3\penalty0 (3):\penalty0
+  216--226, 2015.
+
+\bibitem[Raff and Findling(2003)]{raff2003physiologic}
+Hershel Raff and James~W. Findling.
+\newblock A physiologic approach to diagnosis of the {Cushing} syndrome.
+\newblock \emph{Annals of Internal Medicine}, 138\penalty0 (12):\penalty0
+  980--991, 2003.
+\newblock \doi{10.7326/0003-4819-138-12-200306170-00010}.
+
+\bibitem[Findling and Raff(2017)]{findling2017diagnosis}
+James~W. Findling and Hershel Raff.
+\newblock Diagnosis of endocrine disease: differentiation of pathologic
+  neoplastic hypercortisolism ({Cushing}'s syndrome) from physiologic
+  non-neoplastic hypercortisolism.
+\newblock \emph{European Journal of Endocrinology}, 176\penalty0 (5):\penalty0
+  R205--R216, 2017.
+
+\bibitem[Lacroix et~al.(2015)Lacroix, Feelders, Stratakis, and
+  Nieman]{lacroix2015cushing}
+Andr{\'e} Lacroix, Richard~A. Feelders, Constantine~A. Stratakis, and
+  Lynnette~K. Nieman.
+\newblock {Cushing}'s syndrome.
+\newblock \emph{Lancet}, 386\penalty0 (9996):\penalty0 913--927, 2015.
+
+\end{thebibliography}

@@ -1,0 +1,60 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Whitfield(2001)]{whitfield2001gamma}
+John~B. Whitfield.
+\newblock Gamma glutamyl transferase.
+\newblock \emph{Critical Reviews in Clinical Laboratory Sciences}, 38\penalty0
+  (4):\penalty0 263--355, 2001.
+\newblock \doi{10.1080/20014091084227}.
+
+\bibitem[{IFCC}(2002)]{ifcc2002gamma}
+{IFCC}.
+\newblock {IFCC} primary reference procedure for the measurement of catalytic
+  activity concentrations of gamma-glutamyltransferase.
+\newblock \emph{Clinical Chemistry and Laboratory Medicine}, 40\penalty0
+  (7):\penalty0 734--738, 2002.
+\newblock \doi{10.1515/cclm.2002.124}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Rosalki and Rau(1972)]{rosalki1972serum}
+S.~B. Rosalki and D.~Rau.
+\newblock Serum gamma-glutamyl transpeptidase activity in alcoholism.
+\newblock \emph{Clinica Chimica Acta}, 39\penalty0 (1):\penalty0 41--47, 1972.
+
+\bibitem[Conigrave et~al.(2003)Conigrave, Davies, Haber, and
+  Whitfield]{conigrave2003traditional}
+Katherine~M. Conigrave, Paul Davies, Paul Haber, and John~B. Whitfield.
+\newblock Traditional markers of excessive alcohol use.
+\newblock \emph{Addiction}, 98\penalty0 (Suppl. 2):\penalty0 31--43, 2003.
+\newblock \doi{10.1046/j.1359-6357.2003.00581.x}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Kwo et~al.(2017)Kwo, Cohen, and Lim]{kwo2017acg}
+Paul~Y. Kwo, Stanley~M. Cohen, and Joseph~K. Lim.
+\newblock {ACG} clinical guideline: evaluation of abnormal liver chemistries.
+\newblock \emph{American Journal of Gastroenterology}, 112\penalty0
+  (1):\penalty0 18--35, 2017.
+
+\bibitem[Schiele et~al.(1977)Schiele, Guilmin, Detienne, and
+  Siest]{schiele1977gamma}
+F.~Schiele, A.~M. Guilmin, H.~Detienne, and G.~Siest.
+\newblock Gamma-glutamyltransferase activity in plasma.
+\newblock \emph{Clinical Chemistry}, 23\penalty0 (6):\penalty0 1023--1028,
+  1977.
+\newblock \doi{10.1093/clinchem/23.6.1023}.
+
+\end{thebibliography}

@@ -1,0 +1,95 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kraut and Madias(2014)]{kraut2014lactic}
+Jeffrey~A. Kraut and Nicolaos~E. Madias.
+\newblock Lactic acidosis.
+\newblock \emph{New England Journal of Medicine}, 371\penalty0 (24):\penalty0
+  2309--2319, 2014.
+\newblock \doi{10.1056/NEJMra1309483}.
+
+\bibitem[Evans et~al.(2021)Evans, Rhodes, Alhazzani, Antonelli, Coopersmith,
+  French, Machado, Mcintyre, Ostermann, Prescott, Schorr, Simpson, Wiersinga,
+  Alshamsi, Angus, Arabi, Azevedo, Beale, Beilman, Belley-Cote, Burry, Cecconi,
+  Centofanti, Coz~Yataco, De~Waele, Dellinger, Doi, Du, Esteban, Gomersall,
+  Gorman, Grocott, Hertzberg, Higgins, Hough, Hall, Jabaley, Kanji, Kim, Koh,
+  Komatsu, Koning, Kwong, Levy, Litton, Marshall, Masur, McGowan, Montgomery,
+  Myatra, Nates, Navalesi, Nunnally, Oczkowski, Osborne, Paul, Paul, Perner,
+  Piacentini, Piquilloud, Qiu, Radermacher, Rello, Rex, Rockwerg, Rowan,
+  Salluh, Shankar-Hari, Silverides, Simpson, Sivapalan, Slutsky, Smed,
+  Sollinger, Smith, Spurr, Storey, Then, Tomlinson, Torborg, Welte, Williams,
+  Wunsch, Yee, Zabetakis, Zach, Zimmerman, Metnitz, McGloughlin, Levy, Marik,
+  Manoel, and Osin]{evans2021surviving}
+Laura Evans, Andrew Rhodes, Waleed Alhazzani, Massimo Antonelli, Craig~M.
+  Coopersmith, Craig French, Flavia~R. Machado, Lauralyn Mcintyre, Marlies
+  Ostermann, Hallie~C. Prescott, Christa Schorr, Steven Simpson, W.~Joost
+  Wiersinga, Fayez Alshamsi, Derek~C. Angus, Yaseen Arabi, Luciano Azevedo,
+  Richard Beale, Gregory Beilman, Emilie Belley-Cote, Lisa Burry, Maurizio
+  Cecconi, John Centofanti, Angel Coz~Yataco, Jan De~Waele, R.~Phillip
+  Dellinger, Kent Doi, Bin Du, Andres Esteban, Charles Gomersall, Timothy~M.
+  Gorman, Michael Grocott, Daniel Hertzberg, Stephanie Higgins, Catherine~L.
+  Hough, Sarah Hall, Craig~S. Jabaley, Salmaan Kanji, Edward Kim, Younsuck Koh,
+  Teruhiko Komatsu, Lionel Koning, Amy Kwong, Mitchell Levy, Edward Litton,
+  John Marshall, Henry Masur, Michael McGowan, Sarah Montgomery, Sheila~Nainan
+  Myatra, Joseph Nates, Paolo Navalesi, Mark~E. Nunnally, Simon Oczkowski,
+  Laura Osborne, Micah Paul, Mervyn Paul, Anders Perner, Manuel Piacentini,
+  Lise Piquilloud, Haibo Qiu, Peter Radermacher, Jordi Rello, Alan Rex, Bram
+  Rockwerg, Kathryn Rowan, Jorge Salluh, Manu Shankar-Hari, Jonathan
+  Silverides, Jonathan Simpson, Praleene Sivapalan, Arthur Slutsky, Louis Smed,
+  Nadia Sollinger, Michael Smith, Lawrence Spurr, Karen Storey, Katze Then,
+  George Tomlinson, Alexandra Torborg, Tobias Welte, Gloria Williams, Hannah
+  Wunsch, Eugene Yee, Patricia Zabetakis, Itamar Zach, Janice Zimmerman,
+  Philipp Metnitz, Steven McGloughlin, Mitchell Levy, Paul Marik, Adriano
+  Manoel, and Roberto Osin.
+\newblock Surviving sepsis campaign: international guidelines for management of
+  sepsis and septic shock 2021.
+\newblock \emph{Intensive Care Medicine}, 47\penalty0 (11):\penalty0
+  1181--1247, 2021.
+\newblock \doi{10.1007/s00134-021-06506-y}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Rivers et~al.(2001)Rivers, Nguyen, Havstad, Ressler, Muzzin, Knoblich,
+  Peterson, and Tomlanovich]{rivers2001early}
+Emanuel Rivers, Bryant Nguyen, Suzanne Havstad, Julie Ressler, Alexandria
+  Muzzin, Bernhard Knoblich, Edward Peterson, and Michael Tomlanovich.
+\newblock Early goal-directed therapy in the treatment of severe sepsis and
+  septic shock.
+\newblock \emph{New England Journal of Medicine}, 345\penalty0 (19):\penalty0
+  1368--1377, 2001.
+\newblock \doi{10.1056/NEJMoa010307}.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Suetrong and Walley(2016)]{suetrong2016lactic}
+Bandarn Suetrong and Keith~R. Walley.
+\newblock Lactic acidosis in sepsis: it's not all anaerobic.
+\newblock \emph{Chest}, 149\penalty0 (1):\penalty0 252--261, 2016.
+\newblock \doi{10.1378/chest.15-1703}.
+
+\bibitem[Uribarri et~al.(1998)Uribarri, Oh, and Carroll]{uribarri1998dlactic}
+Jaime Uribarri, Man~S. Oh, and Hugh~J. Carroll.
+\newblock D-lactic acidosis: a review of clinical presentation, biochemical
+  features, and pathophysiologic mechanisms.
+\newblock \emph{Medicine (Baltimore)}, 77\penalty0 (2):\penalty0 73--82, 1998.
+\newblock \doi{10.1097/00005792-199803000-00001}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

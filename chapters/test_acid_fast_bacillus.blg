@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_acid_fast_bacillus.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 5 entries,
+            2481 wiz_defined-function locations,
+            588 strings with 6889 characters,
+and the built_in function-call counts, 3342 in all, are:
+= -- 174
+> -- 403
+< -- 1
++ -- 140
+- -- 130
+* -- 377
+:= -- 637
+add.period$ -- 19
+call.type$ -- 5
+change.case$ -- 9
+chr.to.int$ -- 5
+cite$ -- 5
+duplicate$ -- 95
+empty$ -- 183
+format.name$ -- 135
+if$ -- 622
+int.to.chr$ -- 1
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 37
+num.names$ -- 15
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 5
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 106
+swap$ -- 10
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 0
+while$ -- 17
+width$ -- 0
+write$ -- 80

@@ -1,0 +1,66 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brigden(1999)]{brigden1999clinical}
+Malcolm~L. Brigden.
+\newblock Clinical utility of the erythrocyte sedimentation rate.
+\newblock \emph{American Family Physician}, 60\penalty0 (5):\penalty0
+  1443--1450, 1999.
+
+\bibitem[{International Council for Standardization in
+  Haematology}(2011)]{icsh2011icsh}
+{International Council for Standardization in Haematology}.
+\newblock Icsh recommendations for measurement of erythrocyte sedimentation
+  rate.
+\newblock \emph{Journal of Clinical Pathology}, 64\penalty0 (2):\penalty0
+  120--125, 2011.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Salvarani et~al.(2008)Salvarani, Cantini, and
+  Hunder]{salvarani2008polymyalgia}
+Carlo Salvarani, Fabrizio Cantini, and Gene~G. Hunder.
+\newblock Polymyalgia rheumatica and giant-cell arteritis.
+\newblock \emph{Lancet}, 372\penalty0 (9634):\penalty0 234--245, 2008.
+\newblock \doi{10.1016/S0140-6736(08)61077-6}.
+
+\bibitem[Kermani and Warrington(2013)]{kermani2013polymyalgia}
+Tanaz~A. Kermani and Kenneth~J. Warrington.
+\newblock Polymyalgia rheumatica.
+\newblock \emph{Lancet}, 381\penalty0 (9860):\penalty0 63--72, 2013.
+\newblock \doi{10.1016/S0140-6736(12)60680-1}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Sokka and Pincus(2009)]{sokka2009erythrocyte}
+Tuulikki Sokka and Theodore Pincus.
+\newblock Erythrocyte sedimentation rate, c-reactive protein, or rheumatoid
+  factor are normal at presentation in 35\%--45\% of patients with rheumatoid
+  arthritis seen between 1980 and 2004.
+\newblock \emph{Clinical and Experimental Rheumatology}, 27\penalty0
+  (1):\penalty0 80--84, 2009.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

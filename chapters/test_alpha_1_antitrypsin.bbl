@@ -1,0 +1,30 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Laurell and Eriksson(1963)]{laurell1963electrophoretic}
+Carl-Bertil Laurell and Sten Eriksson.
+\newblock The electrophoretic alpha-1-globulin pattern of serum in
+  alpha-1-antitrypsin deficiency.
+\newblock \emph{Scandinavian Journal of Clinical and Laboratory Investigation},
+  15\penalty0 (2):\penalty0 132--140, 1963.
+\newblock \doi{10.1080/00365516309051324}.
+
+\bibitem[Sharp et~al.(1969)Sharp, Bridges, Krivit, and
+  Freier]{sharp1969cirrhosis}
+Harvey~L. Sharp, Robert~A. Bridges, William Krivit, and Esther~F. Freier.
+\newblock Cirrhosis associated with alpha-1-antitrypsin deficiency: a
+  previously unrecognized inherited disorder.
+\newblock \emph{Journal of Laboratory and Clinical Medicine}, 73\penalty0
+  (6):\penalty0 934--939, 1969.
+
+\bibitem[Lomas et~al.(1992)Lomas, Evans, Finch, and
+  Carrell]{lomas1992mechanism}
+David~A. Lomas, David~L. Evans, John~T. Finch, and Robin~W. Carrell.
+\newblock The mechanism of {Z} alpha-1-antitrypsin accumulation in the liver.
+\newblock \emph{Nature}, 357\penalty0 (6379):\penalty0 605--607, 1992.
+
+\end{thebibliography}

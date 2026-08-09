@@ -1,0 +1,108 @@
+\begin{thebibliography}{11}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[McGowan-Jordan et~al.(2020)McGowan-Jordan, Hastings, and
+  Moore]{mcgowanjordan2020iscn}
+Jean McGowan-Jordan, Ros~J. Hastings, and Sarah Moore, editors.
+\newblock \emph{ISCN 2020: An International System for Human Cytogenomic
+  Nomenclature}.
+\newblock S. Karger, Basel, 2020.
+
+\bibitem[Tjio and Levan(1956)]{tjio1956chromosome}
+Joe~Hin Tjio and Albert Levan.
+\newblock The chromosome number of man.
+\newblock \emph{Hereditas}, 42\penalty0 (1-2):\penalty0 1--6, 1956.
+\newblock \doi{10.1111/j.1601-5223.1956.tb03010.x}.
+
+\bibitem[Lejeune et~al.(1959)Lejeune, Gautier, and Turpin]{lejeune1959etude}
+J{\'e}r{\^o}me Lejeune, Marthe Gautier, and Raymond Turpin.
+\newblock {\'E}tude des chromosomes somatiques de neuf enfants mongoliens.
+\newblock \emph{Comptes Rendus Hebdomadaires des S{\'e}ances de l'Acad{\'e}mie
+  des Sciences}, 248:\penalty0 1721--1722, 1959.
+
+\bibitem[Nowell and Hungerford(1960)]{nowell1960minute}
+Peter~C. Nowell and David~A. Hungerford.
+\newblock A minute chromosome in human chronic granulocytic leukemia.
+\newblock \emph{Science}, 132\penalty0 (3438):\penalty0 1497, 1960.
+\newblock \doi{10.1126/science.132.3438.1497}.
+
+\bibitem[Caspersson et~al.(1970)Caspersson, Zech, Johansson, and
+  Modest]{caspersson1970identification}
+Torbj{\"o}rn Caspersson, Lore Zech, Catharina Johansson, and Edward~J. Modest.
+\newblock Identification of human chromosomes by {DNA}-binding fluorescent
+  agents.
+\newblock \emph{Chromosoma}, 30\penalty0 (2):\penalty0 215--227, 1970.
+\newblock \doi{10.1007/BF00282002}.
+
+\bibitem[Seabright(1971)]{seabright1971rapid}
+Marina Seabright.
+\newblock A rapid banding technique for human chromosomes.
+\newblock \emph{The Lancet}, 2\penalty0 (7731):\penalty0 971--972, 1971.
+\newblock \doi{10.1016/S0140-6736(71)90287-X}.
+
+\bibitem[Pinkel et~al.(1986)Pinkel, Straume, and Gray]{pinkel1986cytogenetic}
+Daniel Pinkel, T.~Straume, and Joe~W. Gray.
+\newblock Cytogenetic analysis using quantitative, high-sensitivity,
+  fluorescence hybridization.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 83\penalty0 (9):\penalty0 2934--2938, 1986.
+\newblock \doi{10.1073/pnas.83.9.2934}.
+
+\bibitem[Miller et~al.(2010)Miller, Adam, Aradhya, Biesecker, Brothman, Carter,
+  Church, Crolla, Eichler, Epstein, Faucett, Feuk, Friedman, Hamosh, Jackson,
+  Kaminsky, Kok, Krantz, Kuhn, Lee, Ostell, Rosenberg, Scherer, Spinner,
+  Stavropoulos, Tepperberg, Thorland, Vermeesch, Waggoner, Watson, Martin, and
+  Ledbetter]{miller2010consensus}
+David~T. Miller, Margaret~P. Adam, Swaroop Aradhya, Leslie~G. Biesecker,
+  Arthur~R. Brothman, Nigel~P. Carter, Deanna~M. Church, John~A. Crolla,
+  Evan~E. Eichler, Charles~J. Epstein, W.~Andrew Faucett, Lars Feuk, Jan~M.
+  Friedman, Ada Hamosh, Laird Jackson, Erin~B. Kaminsky, Klaas Kok, Ian~D.
+  Krantz, Robert~M. Kuhn, Charles Lee, James~M. Ostell, Carla Rosenberg,
+  Stephen~W. Scherer, Nancy~B. Spinner, Dimitri~J. Stavropoulos, James~H.
+  Tepperberg, Erik~C. Thorland, Joris~R. Vermeesch, Darrel~J. Waggoner,
+  Michael~S. Watson, Christa~Lese Martin, and David~H. Ledbetter.
+\newblock Consensus statement: chromosomal microarray is a first-tier clinical
+  diagnostic test for individuals with developmental disabilities or congenital
+  anomalies.
+\newblock \emph{American Journal of Human Genetics}, 86\penalty0 (5):\penalty0
+  749--764, 2010.
+\newblock \doi{10.1016/j.ajhg.2010.04.006}.
+
+\bibitem[South et~al.(2013)South, Lee, Lamb, Higgins, and
+  Kearney]{south2013acmg}
+Sarah~T. South, Charles Lee, Allen~N. Lamb, Anne~W. Higgins, and Hutton~M.
+  Kearney.
+\newblock {ACMG} standards and guidelines for constitutional cytogenomic
+  microarray analysis, including postnatal and prenatal applications: revision
+  2013.
+\newblock \emph{Genetics in Medicine}, 15\penalty0 (11):\penalty0 901--909,
+  2013.
+\newblock \doi{10.1038/gim.2013.129}.
+
+\bibitem[D{\"o}hner et~al.(2017)D{\"o}hner, Estey, Grimwade, Amadori,
+  Appelbaum, B{\"u}chner, Dombret, Ebert, Fenaux, Larson, Levine, Lo-Coco,
+  Naoe, Niederwieser, Ossenkoppele, Sanz, Sierra, Tallman, L{\"o}wenberg, and
+  Bloomfield]{dohner2017diagnosis}
+Hartmut D{\"o}hner, Elihu Estey, David Grimwade, Sergio Amadori, Frederick~R.
+  Appelbaum, Thomas B{\"u}chner, Herv{\'e} Dombret, Benjamin~L. Ebert, Pierre
+  Fenaux, Richard~A. Larson, Ross~L. Levine, Francesco Lo-Coco, Tomoki Naoe,
+  Dietger Niederwieser, Gert~J. Ossenkoppele, Miguel Sanz, Jorge Sierra,
+  Martin~S. Tallman, Bob L{\"o}wenberg, and Clara~D. Bloomfield.
+\newblock Diagnosis and management of {AML} in adults: 2017 {ELN}
+  recommendations from an international expert panel.
+\newblock \emph{Blood}, 129\penalty0 (4):\penalty0 424--447, 2017.
+\newblock \doi{10.1182/blood-2016-08-733196}.
+
+\bibitem[Swerdlow et~al.(2017)Swerdlow, Campo, Harris, Jaffe, Pileri, Stein,
+  and Thiele]{swerdlow2017who}
+Steven~H. Swerdlow, Elias Campo, Nancy~Lee Harris, Elaine~S. Jaffe, Stefano~A.
+  Pileri, Harald Stein, and Juergen Thiele, editors.
+\newblock \emph{WHO Classification of Tumours of Haematopoietic and Lymphoid
+  Tissues}.
+\newblock IARC, Lyon, France, revised 4th edition, 2017.
+
+\end{thebibliography}

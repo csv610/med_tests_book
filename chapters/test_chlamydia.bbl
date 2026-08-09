@@ -1,0 +1,49 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Geisler(2011)]{geisler2011duration}
+William~M. Geisler.
+\newblock Duration of untreated, uncomplicated {Chlamydia trachomatis} genital
+  infection and factors associated with clearance: review of animal studies.
+\newblock \emph{Journal of Infectious Diseases}, 204\penalty0 (Suppl
+  2):\penalty0 S134--S155, 2011.
+\newblock \doi{10.1093/infdis/jir100}.
+
+\bibitem[Haggerty et~al.(2010)Haggerty, Gottlieb, Taylor,
+  et~al.]{haggerty2010risk}
+Catherine~L. Haggerty, Sami~L. Gottlieb, Brandie~D. Taylor, et~al.
+\newblock Risk of sequelae after {Chlamydia trachomatis} genital infection in
+  women.
+\newblock \emph{Journal of Infectious Diseases}, 201\penalty0 (Suppl
+  2):\penalty0 S134--S155, 2010.
+\newblock \doi{10.1086/652395}.
+
+\bibitem[Workowski et~al.(2021)Workowski, Bachmann, Chan,
+  et~al.]{workowski2021sexually}
+Kimberly~A. Workowski, Laura~H. Bachmann, Philip~A. Chan, et~al.
+\newblock Sexually transmitted infections treatment guidelines, 2021.
+\newblock \emph{MMWR Recommendations and Reports}, 70\penalty0 (4):\penalty0
+  1--187, 2021.
+\newblock \doi{10.15585/mmwr.rr7004a1}.
+
+\bibitem[{Centers for Disease Control and
+  Prevention}(2014)]{cdc2014recommendations}
+{Centers for Disease Control and Prevention}.
+\newblock Recommendations for the laboratory-based detection of {Chlamydia
+  trachomatis} and {Neisseria gonorrhoeae} --- 2014.
+\newblock \emph{MMWR Recommendations and Reports}, 63\penalty0
+  (RR-02):\penalty0 1--19, 2014.
+
+\bibitem[Stoner and Cohen(2015)]{stoner2015lymphogranuloma}
+Brian~P. Stoner and Stephanie~E. Cohen.
+\newblock Lymphogranuloma venereum 2015: clinical presentation, diagnosis, and
+  treatment.
+\newblock \emph{Clinical Infectious Diseases}, 61\penalty0 (Suppl 8):\penalty0
+  S865--S873, 2015.
+\newblock \doi{10.1093/cid/civ756}.
+
+\end{thebibliography}

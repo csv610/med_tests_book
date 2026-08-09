@@ -1,0 +1,60 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Dispenzieri(2009)]{dispenzieri2009standardization}
+Angela Dispenzieri.
+\newblock Standardization of protein electrophoresis and immunofixation for the
+  detection of monoclonal gammopathies.
+\newblock In S.~Vincent Rajkumar and Robert~A. Kyle, editors, \emph{Treatment
+  of Multiple Myeloma and Related Disorders}. Cambridge University Press,
+  Cambridge, 2009.
+
+\bibitem[Rajkumar et~al.(2014)Rajkumar, Dimopoulos, Palumbo,
+  et~al.]{rajkumar2014international}
+S.~Vincent Rajkumar, Meletios~A. Dimopoulos, Antonio Palumbo, et~al.
+\newblock International myeloma working group updated criteria for the
+  diagnosis of multiple myeloma.
+\newblock \emph{Lancet Oncology}, 15\penalty0 (12):\penalty0 e538--e548, 2014.
+\newblock \doi{10.1016/S1470-2045(14)70442-5}.
+
+\bibitem[Katzmann et~al.(2009)Katzmann, Kyle, Benson, Larson, Snyder, Lust,
+  Rajkumar, and Dispenzieri]{katzmann2009screening}
+Jerry~A. Katzmann, Robert~A. Kyle, Joanne Benson, Dirk~R. Larson, Melissa~R.
+  Snyder, John~A. Lust, S.~Vincent Rajkumar, and Angela Dispenzieri.
+\newblock Screening panels for detection of monoclonal gammopathies.
+\newblock \emph{Clinical Chemistry}, 55\penalty0 (8):\penalty0 1517--1522,
+  2009.
+\newblock \doi{10.1373/clinchem.2009.126664}.
+
+\bibitem[McCudden et~al.(2010)McCudden, Voorhees, Hainsworth, Whinna, Chapman,
+  Hammett-Stabler, and Willis]{mccudden2010interference}
+Christopher~R. McCudden, Peter~M. Voorhees, Shirley~A. Hainsworth, Herbert~C.
+  Whinna, John~F. Chapman, Catherine~A. Hammett-Stabler, and Monte~S. Willis.
+\newblock Interference of monoclonal antibody therapies with serum protein
+  electrophoresis tests.
+\newblock \emph{Clinical Chemistry}, 56\penalty0 (12):\penalty0 1897--1899,
+  2010.
+\newblock \doi{10.1373/clinchem.2010.152116}.
+
+\bibitem[Kyle et~al.(2010)Kyle, Durie, Rajkumar, Landgren, Blad{\'e}, Merlini,
+  Kr{\"o}ger, Einsele, Vesole, Dimopoulos, San~Miguel, Avet-Loiseau, Hajek,
+  Chen, Anderson, Ludwig, Sonneveld, Pavlovsky, Palumbo, Richardson, Barlogie,
+  Greipp, Vescio, Turesson, Westin, and Boccadoro]{kyle2010monoclonal}
+Robert~A. Kyle, Brian G.~M. Durie, S.~Vincent Rajkumar, Ola Landgren, Joan
+  Blad{\'e}, Giampaolo Merlini, Nicolaus Kr{\"o}ger, Hermann Einsele, David~H.
+  Vesole, Meletios~A. Dimopoulos, Jes{\'u}s San~Miguel, Herv{\'e} Avet-Loiseau,
+  Roman Hajek, Wen-Ming Chen, Kenneth~C. Anderson, Heinz Ludwig, Pieter
+  Sonneveld, Santiago Pavlovsky, Antonio Palumbo, Paul~G. Richardson, Bart
+  Barlogie, Philip Greipp, Robert Vescio, Ingemar Turesson, Jan Westin, and
+  Mario Boccadoro.
+\newblock Monoclonal gammopathy of undetermined significance (mgus) and
+  smoldering (asymptomatic) multiple myeloma: Imwg consensus perspectives risk
+  factors for progression and guidelines for monitoring and management.
+\newblock \emph{Leukemia}, 24\penalty0 (6):\penalty0 1121--1127, 2010.
+\newblock \doi{10.1038/leu.2010.60}.
+
+\end{thebibliography}

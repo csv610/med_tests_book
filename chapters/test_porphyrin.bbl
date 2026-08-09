@@ -1,0 +1,38 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bissell et~al.(2017)Bissell, Anderson, and
+  Bonkovsky]{bissell2017porphyria}
+D.~M. Bissell, K.~E. Anderson, and H.~L. Bonkovsky.
+\newblock Porphyria.
+\newblock \emph{New England Journal of Medicine}, 377\penalty0 (9):\penalty0
+  862--872, 2017.
+\newblock \doi{10.1056/nejmra1608634}.
+
+\bibitem[Puy et~al.(2010)Puy, Gouya, and Deybach]{puy2010porphyrias}
+H.~Puy, L.~Gouya, and J.~C. Deybach.
+\newblock Porphyrias.
+\newblock \emph{The Lancet}, 375\penalty0 (9718):\penalty0 924--937, 2010.
+\newblock \doi{10.1016/s0140-6736(09)61925-5}.
+
+\bibitem[Anderson et~al.(2005)Anderson, Bloomer, Bonkovsky, Kushner, and
+  Pierach]{anderson2005recommendations}
+K.~E. Anderson, J.~R. Bloomer, H.~L. Bonkovsky, J.~P. Kushner, and C.~A.
+  Pierach.
+\newblock Recommendations for the diagnosis and treatment of the acute
+  porphyrias.
+\newblock \emph{Annals of Internal Medicine}, 142\penalty0 (6):\penalty0
+  439--450, 2005.
+\newblock \doi{10.7326/0003-4819-142-6-200503150-00010}.
+
+\bibitem[Foundation(2026)]{americanporphyria}
+American~Porphyria Foundation.
+\newblock Drug safety database.
+\newblock www.porphyriafoundation.org, 2026.
+\newblock Accessed 2026.
+
+\end{thebibliography}

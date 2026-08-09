@@ -1,0 +1,49 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Workowski et~al.(2021)Workowski, Bachmann, Chan,
+  et~al.]{workowski2021sexually}
+Kimberly~A. Workowski, Laura~H. Bachmann, Philip~A. Chan, et~al.
+\newblock Sexually transmitted infections treatment guidelines, 2021.
+\newblock \emph{MMWR Recommendations and Reports}, 70\penalty0 (4):\penalty0
+  1--187, 2021.
+\newblock \doi{10.15585/mmwr.rr7004a1}.
+
+\bibitem[{Centers for Disease Control and Prevention}(2020)]{cdc2020update}
+{Centers for Disease Control and Prevention}.
+\newblock Update to {CDC}'s treatment guidelines for gonococcal infection,
+  2020.
+\newblock \emph{MMWR. Morbidity and Mortality Weekly Report}, 69\penalty0
+  (50):\penalty0 1911--1916, 2020.
+\newblock \doi{10.15585/mmwr.mm6950a6}.
+
+\bibitem[Unemo et~al.(2023)Unemo, Lahra, Cole, et~al.]{unemo2023world}
+Magnus Unemo, Monica~M. Lahra, Michelle Cole, et~al.
+\newblock World health organization global gonococcal antimicrobial
+  surveillance program ({WHO GASP}).
+\newblock \emph{Sexually Transmitted Infections}, 2023.
+\newblock Epub ahead of print.
+
+\bibitem[Golden et~al.(2005)Golden, Whittington, Handsfield,
+  et~al.]{golden2005effect}
+Matthew~R. Golden, William L.~H. Whittington, H.~Hunter Handsfield, et~al.
+\newblock Effect of expedited treatment of sex partners on recurrent or
+  persistent gonorrhea or chlamydial infection.
+\newblock \emph{New England Journal of Medicine}, 352\penalty0 (7):\penalty0
+  676--685, 2005.
+\newblock \doi{10.1056/NEJMoa041681}.
+
+\bibitem[Kirkcaldy et~al.(2016)Kirkcaldy, Harvey, Papp,
+  et~al.]{kirkcaldy2016neisseria}
+Robert~D. Kirkcaldy, Alexandra Harvey, John~R. Papp, et~al.
+\newblock Neisseria gonorrhoeae antimicrobial susceptibility surveillance ---
+  the gonococcal isolate surveillance project, 27 sites, united states, 2014.
+\newblock \emph{MMWR. Surveillance Summaries}, 65\penalty0 (7):\penalty0 1--19,
+  2016.
+\newblock \doi{10.15585/mmwr.ss6507a1}.
+
+\end{thebibliography}

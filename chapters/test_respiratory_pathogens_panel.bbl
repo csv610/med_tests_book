@@ -1,0 +1,66 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Leber et~al.(2018)Leber, Everhart, Daly, Hopper, Harrington,
+  Schreckenberger, McKinley, Jones, Holmberg, and
+  Kensinger]{leber2018multicenter}
+Amy~L. Leber, Kathy Everhart, Judy~A. Daly, Aubrey Hopper, Amanda Harrington,
+  Paul Schreckenberger, Kathleen McKinley, Matthew Jones, Karen Holmberg, and
+  Bruce Kensinger.
+\newblock Multicenter evaluation of biofire filmarray respiratory panel 2 for
+  detection of viruses and bacteria in nasopharyngeal swab samples.
+\newblock \emph{Journal of Clinical Microbiology}, 56\penalty0 (6):\penalty0
+  e01945--17, 2018.
+\newblock \doi{10.1128/JCM.01945-17}.
+
+\bibitem[Rogers et~al.(2015)Rogers, Shankar, Jerris, Kotzbauer, Anderson,
+  Watson, O'Brien, Uwindatwa, McNamara, and Bost]{rogers2015impact}
+Beverly~B. Rogers, Prabhu Shankar, Robert~C. Jerris, David Kotzbauer, Evan~J.
+  Anderson, J.~Renee Watson, Lauren~A. O'Brien, Francine Uwindatwa, Katie
+  McNamara, and James~E. Bost.
+\newblock Impact of a rapid respiratory panel test on patient outcomes.
+\newblock \emph{Archives of Pathology {\&} Laboratory Medicine}, 139\penalty0
+  (5):\penalty0 636--641, 2015.
+\newblock \doi{10.5858/arpa.2014-0257-OA}.
+
+\bibitem[Brendish et~al.(2017)Brendish, Malachira, Armstrong, Houghton, Aitken,
+  Nyimbili, Ewings, and Clark]{brendish2017routine}
+Nathan~J. Brendish, Ahalya~K. Malachira, Lawrence Armstrong, Rebecca Houghton,
+  Sandra Aitken, Esther Nyimbili, Sean Ewings, and Tristan~W. Clark.
+\newblock Routine molecular point-of-care testing for respiratory viruses in
+  adults presenting to hospital with acute respiratory illness (respoc): a
+  pragmatic, open-label, randomised controlled trial.
+\newblock \emph{The Lancet Respiratory Medicine}, 5\penalty0 (5):\penalty0
+  401--411, 2017.
+\newblock \doi{10.1016/S2213-2600(17)30120-0}.
+
+\bibitem[Uyeki et~al.(2019)Uyeki, Bernstein, Bradley,
+  et~al.]{uyeki2019clinical}
+Timothy~M. Uyeki, Henry~H. Bernstein, John~S. Bradley, et~al.
+\newblock Clinical practice guidelines by the infectious diseases society of
+  america: 2018 update on diagnosis, treatment, chemoprophylaxis, and
+  institutional outbreak management of seasonal influenza.
+\newblock \emph{Clinical Infectious Diseases}, 68\penalty0 (6):\penalty0
+  e1--e47, 2019.
+\newblock \doi{10.1093/cid/ciy866}.
+
+\bibitem[Hanson et~al.(2020)Hanson, Azar, Banerjee, Chou, Colgrove, Ginocchio,
+  Hayden, Holodniy, Jain, Kariyawasam, Miller, Moehring, Morgan, Morris,
+  Ostrowsky, Razonable, Weyant, Whitaker, Williams, and
+  Sharp]{hanson2020molecular}
+Kimberly~E. Hanson, Marwan~M. Azar, Ritu Banerjee, Andrew Chou, Robert~C.
+  Colgrove, Christine~C. Ginocchio, Mary~K. Hayden, Mark Holodniy, Surbhi Jain,
+  Subhashini Kariyawasam, Melissa~B. Miller, Rebekah~W. Moehring, Daniel~J.
+  Morgan, Susan Morris, Belinda~E. Ostrowsky, Raymund Razonable, Ryan Weyant,
+  Paul Whitaker, Chileshe Williams, and Susan~E. Sharp.
+\newblock Molecular testing for acute respiratory tract infections: clinical
+  and diagnostic recommendations from the idsa's diagnostics committee.
+\newblock \emph{Clinical Infectious Diseases}, 71\penalty0 (10):\penalty0
+  2744--2751, 2020.
+\newblock \doi{10.1093/cid/ciaa508}.
+
+\end{thebibliography}

@@ -1,0 +1,59 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Palmer and Clegg(2016)]{palmer2016physiology}
+B.~F. Palmer and D.~J. Clegg.
+\newblock Physiology and pathophysiology of potassium homeostasis.
+\newblock \emph{Advances in Physiology Education}, 40\penalty0 (4):\penalty0
+  480--490, 2016.
+\newblock \doi{10.1152/advan.00121.2016}.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Kovesdy(2017)]{kovesdy2017updates}
+C.~P. Kovesdy.
+\newblock Updates in hyperkalemia: outcomes and therapeutic strategies.
+\newblock \emph{Reviews in Endocrine and Metabolic Disorders}, 18\penalty0
+  (1):\penalty0 41--47, 2017.
+\newblock \doi{10.1007/s11154-016-9384-x}.
+
+\bibitem[Gennari(1998)]{gennari1998hypokalemia}
+F.~John Gennari.
+\newblock Hypokalemia.
+\newblock \emph{New England Journal of Medicine}, 339\penalty0 (7):\penalty0
+  451--458, 1998.
+\newblock \doi{10.1056/NEJM199808133390707}.
+
+\bibitem[Montford and Linas(2017)]{montford2017dangerous}
+J.~R. Montford and S.~L. Linas.
+\newblock How dangerous is hyperkalemia?
+\newblock \emph{Journal of the American Society of Nephrology}, 28\penalty0
+  (11):\penalty0 3155--3165, 2017.
+\newblock \doi{10.1681/asn.2016121344}.
+
+\end{thebibliography}

@@ -1,0 +1,37 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Tenner et~al.(2013)Tenner, Baillie, DeWitt, and
+  Vege]{tenner2013american}
+Scott Tenner, John Baillie, John DeWitt, and Sanjay~Swaroop Vege.
+\newblock American college of gastroenterology guideline: management of acute
+  pancreatitis.
+\newblock \emph{American Journal of Gastroenterology}, 108\penalty0
+  (9):\penalty0 1400--1415, 2013.
+
+\bibitem[Banks et~al.(2013)Banks, Bollen, Dervenis, Gooszen, Johnson, Sarr,
+  Tsiotos, and Vege]{banks2013classification}
+Peter~A. Banks, Thomas~L. Bollen, Christos Dervenis, Hein~G. Gooszen, Colin~D.
+  Johnson, Michael~G. Sarr, Gregory~G. Tsiotos, and Sanjay~Swaroop Vege.
+\newblock Classification of acute pancreatitis---2012: revision of the atlanta
+  classification and definitions by international consensus.
+\newblock \emph{Gut}, 62\penalty0 (1):\penalty0 102--111, 2013.
+
+\bibitem[Payen and Persoz(1833)]{payen1833diastase}
+Anselme Payen and Jean-Fran{\c{c}}ois Persoz.
+\newblock M{\'e}moire sur la diastase, les principaux produits de ses
+  r{\'e}actions et leurs applications aux arts industriels.
+\newblock \emph{Annales de Chimie et de Physique}, 53:\penalty0 73--92, 1833.
+
+\bibitem[Elman et~al.(1929)Elman, Arneson, and Graham]{elman1929blood}
+Robert Elman, Norman Arneson, and Evarts~A. Graham.
+\newblock Value of blood amylase estimations in the diagnosis of pancreatic
+  disease: a clinical study.
+\newblock \emph{Archives of Surgery}, 19\penalty0 (6):\penalty0 943--967, 1929.
+\newblock \doi{10.1001/archsurg.1929.01150060005001}.
+
+\end{thebibliography}

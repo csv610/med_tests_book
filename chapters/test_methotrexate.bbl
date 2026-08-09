@@ -1,0 +1,45 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bleyer(1978)]{bleyer1978clinical}
+W.~Archie Bleyer.
+\newblock The clinical pharmacology of methotrexate.
+\newblock \emph{Cancer}, 41\penalty0 (1):\penalty0 36--51, 1978.
+\newblock
+  \doi{10.1002/1097-0142(197801)41:1<36::AID-CNCR2820410108>3.0.CO;2-I}.
+
+\bibitem[Jolivet et~al.(1983)Jolivet, Cowan, Curt, Clendeninn, and
+  Chabner]{jolivet1983pharmacology}
+Jacques Jolivet, Kenneth~H. Cowan, Gregory~A. Curt, Neil~J. Clendeninn, and
+  Bruce~A. Chabner.
+\newblock The pharmacology and clinical use of methotrexate.
+\newblock \emph{New England Journal of Medicine}, 309\penalty0 (18):\penalty0
+  1094--1104, 1983.
+\newblock \doi{10.1056/nejm198311033091805}.
+
+\bibitem[Howard et~al.(2016)Howard, McCormick, Pui, Buddington, and
+  Harvey]{howard2016preventing}
+Scott~C. Howard, John McCormick, Ching-Hon Pui, Randall~K. Buddington, and
+  R.~Donald Harvey.
+\newblock Preventing and managing toxicities of high-dose methotrexate.
+\newblock \emph{The Oncologist}, 21\penalty0 (12):\penalty0 1471--1482, 2016.
+\newblock \doi{10.1634/theoncologist.2015-0164}.
+
+\bibitem[Green(2012)]{green2012glucarpidase}
+Jacalyn Green.
+\newblock Glucarpidase to combat toxic levels of methotrexate in patients.
+\newblock \emph{Therapeutics and Clinical Risk Management}, 8:\penalty0
+  403--413, 2012.
+\newblock \doi{10.2147/tcrm.s30135}.
+
+\bibitem[Widemann and Adamson(2006)]{widemann2006understanding}
+Brigitte~C. Widemann and Peter~C. Adamson.
+\newblock Understanding and managing methotrexate nephrotoxicity.
+\newblock \emph{The Oncologist}, 11\penalty0 (6):\penalty0 694--703, 2006.
+\newblock \doi{10.1634/theoncologist.11-6-694}.
+
+\end{thebibliography}

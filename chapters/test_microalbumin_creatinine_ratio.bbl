@@ -1,0 +1,69 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work
+  Group}(2013)]{kdigo2012clinical}
+{Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group}.
+\newblock Kdigo 2012 clinical practice guideline for the evaluation and
+  management of chronic kidney disease.
+\newblock \emph{Kidney International Supplements}, 3\penalty0 (1):\penalty0
+  1--150, 2013.
+\newblock \doi{10.1038/kisup.2012.73}.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Mogensen(1984)]{mogensen1984microalbuminuria}
+C.~E. Mogensen.
+\newblock Microalbuminuria predicts clinical proteinuria and early mortality in
+  maturity-onset diabetes.
+\newblock \emph{New England Journal of Medicine}, 310\penalty0 (6):\penalty0
+  356--360, 1984.
+\newblock \doi{10.1056/nejm198402093100605}.
+
+\bibitem[{UK Prospective Diabetes Study (UKPDS)
+  Group}(1998)]{ukpds1998intensive}
+{UK Prospective Diabetes Study (UKPDS) Group}.
+\newblock Intensive blood-glucose control with sulphonylureas or insulin
+  compared with conventional treatment and risk of complications in patients
+  with type 2 diabetes (ukpds 33).
+\newblock \emph{The Lancet}, 352\penalty0 (9131):\penalty0 837--853, 1998.
+\newblock \doi{10.1016/S0140-6736(98)07019-6}.
+
+\bibitem[{American Diabetes Association}(2023)]{ada2023standards}
+{American Diabetes Association}.
+\newblock Standards of care in diabetes---2023.
+\newblock \emph{Diabetes Care}, 46\penalty0 (Suppl. 1):\penalty0 S1--S291,
+  2023.
+\newblock \doi{10.2337/dc23-S001}.
+
+\bibitem[Levey et~al.(2015)Levey, Becker, and Inker]{levey2015glomerular}
+Andrew~S. Levey, Cassandra Becker, and Lesley~A. Inker.
+\newblock Glomerular filtration rate and albuminuria for detection and staging
+  of acute and chronic kidney disease in adults: a systematic review.
+\newblock \emph{JAMA}, 313\penalty0 (8):\penalty0 837--846, 2015.
+\newblock \doi{10.1001/jama.2015.0602}.
+
+\bibitem[de~Zeeuw et~al.(2004)de~Zeeuw, Remuzzi, Parving, Keane, Zhang,
+  Shahinfar, Snapinn, Cooper, Mitch, and Brenner]{dezeeuw2004albuminuria}
+Dick de~Zeeuw, Giuseppe Remuzzi, Hans-Henrik Parving, William~F. Keane,
+  Zhongxin Zhang, Shahnaz Shahinfar, Steve Snapinn, Mark~E. Cooper, William~E.
+  Mitch, and Barry~M. Brenner.
+\newblock Albuminuria, a therapeutic target for cardiovascular protection in
+  type 2 diabetic patients with nephropathy.
+\newblock \emph{Circulation}, 110\penalty0 (8):\penalty0 921--927, 2004.
+\newblock \doi{10.1161/01.cir.0000139860.33974.28}.
+
+\end{thebibliography}

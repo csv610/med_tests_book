@@ -1,0 +1,62 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[White et~al.(2014)White, Pukrittayakamee, Hien, Faiz, Mokuolu, and
+  Dondorp]{white2014malaria}
+Nicholas~J. White, Sasithon Pukrittayakamee, Tran~Tinh Hien, M.~Abul Faiz,
+  Olugbenga~A. Mokuolu, and Arjen~M. Dondorp.
+\newblock Malaria.
+\newblock \emph{The Lancet}, 383\penalty0 (9918):\penalty0 723--735, 2014.
+\newblock \doi{10.1016/S0140-6736(13)60024-0}.
+
+\bibitem[who(2023)]{who2023malaria}
+Who guidelines for malaria.
+\newblock World Health Organization, 2023.
+\newblock Updated periodically online.
+
+\bibitem[Mathison and Pritt(2017)]{mathison2017update}
+Blaine~A. Mathison and Bobbi~S. Pritt.
+\newblock Update on malaria diagnostics and test utilization.
+\newblock \emph{Journal of Clinical Microbiology}, 55\penalty0 (7):\penalty0
+  2009--2017, 2017.
+\newblock \doi{10.1128/JCM.02562-16}.
+
+\bibitem[Ashley et~al.(2014)Ashley, Dhorda, Fairhurst, Amaratunga, Lim, Suon,
+  Sreng, Anderson, Mao, Sam, Sopha, Chuor, Nguon, Sovannaroth, Pukrittayakamee,
+  Jittamala, Chotivanich, Chutasmit, Suchatsoonthorn, Runcharoen, Hien,
+  Thuy-Nhien, Thanh, Phu, Htut, Han, Aye, Mokuolu, Olaosebikan, Folaranmi,
+  Mayxay, Khanthavong, Hongvanthong, Newton, Onyamboko, Fanello, Tshefu,
+  Mishra, Valecha, Phyo, Nosten, Yi, Tripura, Borrmann, Bashraheil, Peshu,
+  Faiz, Ghose, Hossain, Samad, Rahman, Hasan, Islam, Miotto, Amato, MacInnis,
+  Stalker, Kwiatkowski, Fairhurst, White, Ringwald, Plowe, and
+  Dondorp]{ashley2014spread}
+Elizabeth~A. Ashley, Mehul Dhorda, Rick~M. Fairhurst, Chanaki Amaratunga,
+  Pharath Lim, Seila Suon, Sokunthea Sreng, Jennifer~M. Anderson, Sivanna Mao,
+  Baramey Sam, Christina Sopha, Char~Meng Chuor, Chea Nguon, Siv Sovannaroth,
+  Sasithon Pukrittayakamee, Podjanee Jittamala, Kesinee Chotivanich, Kitipumi
+  Chutasmit, Chaiyaporn Suchatsoonthorn, Ratchadaporn Runcharoen, Tran~Tinh
+  Hien, Nguyen~Thanh Thuy-Nhien, Ngo~Viet Thanh, Nguyen~Hoan Phu, Ye~Htut,
+  Kay-Thwe Han, Kyin~Hla Aye, Olugbenga~A. Mokuolu, Rasaq~R. Olaosebikan,
+  Olakunle~O. Folaranmi, Mayfong Mayxay, Maniphone Khanthavong, Bouasy
+  Hongvanthong, Paul~N. Newton, Marie~A. Onyamboko, Caterina~I. Fanello,
+  Antoinette~K. Tshefu, Neelam Mishra, Neena Valecha, Aung~Pyae Phyo, Francois
+  Nosten, Poravuth Yi, Rupam Tripura, Steffen Borrmann, Mahfudh Bashraheil,
+  Judy Peshu, Md~Abul Faiz, Aniruddha Ghose, M.~Amir Hossain, Rasheda Samad,
+  Ridwanur Rahman, M.~Mahtabuddin Hasan, Akhterul Islam, Olivo Miotto, Roberto
+  Amato, Bronwyn MacInnis, Jim Stalker, Dominic~P. Kwiatkowski, Rick~M.
+  Fairhurst, Nicholas~J. White, Pascal Ringwald, Christopher~V. Plowe, and
+  Arjen~M. Dondorp.
+\newblock Spread of artemisinin resistance in {Plasmodium falciparum} malaria.
+\newblock \emph{New England Journal of Medicine}, 371\penalty0 (5):\penalty0
+  411--423, 2014.
+\newblock \doi{10.1056/NEJMoa1314981}.
+
+\bibitem[cdc(2023)]{cdc2023treatment}
+Treatment of malaria: Guidelines for clinicians (united states).
+\newblock Centers for Disease Control and Prevention, 2023.
+
+\end{thebibliography}

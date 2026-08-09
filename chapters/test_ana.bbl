@@ -1,0 +1,90 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Agmon-Levin et~al.(2014)Agmon-Levin, Damoiseaux, Kallenberg, Sack,
+  Witte, Herold, Bossuyt, Musset, Cervera, Plaza-Lopez, Dias, Sousa, Radice,
+  Eriksson, Hultgren, Viander, Khamashta, Regenass, Andrade, Wiik, Tincani,
+  R{\"o}nnellid, Bloch, Fritzler, Chan, Garc{\'i}a-De La~Torre, Konstantinov,
+  Lahita, Wilson, Ballas, Bingham, Bossuyt, and
+  Golden]{agmonlevin2014international}
+Nancy Agmon-Levin, Jan Damoiseaux, Cees Kallenberg, Ulrich Sack, Torsten Witte,
+  Manfred Herold, Xavier Bossuyt, Lucile Musset, Ricard Cervera, Maria-Carmen
+  Plaza-Lopez, Carlos Dias, Maria~J. Sousa, Antonella Radice, Catharina
+  Eriksson, Olof Hultgren, Markku Viander, Munther Khamashta, Stephan Regenass,
+  Luis E.~C. Andrade, Allan Wiik, Angela Tincani, Johan R{\"o}nnellid,
+  Donald~B. Bloch, Marvin~J. Fritzler, Edward K.~L. Chan, Ignacio Garc{\'i}a-De
+  La~Torre, Konstantin~N. Konstantinov, Robert Lahita, Merle Wilson, Zuhair~K.
+  Ballas, Clifton Bingham, Xavier Bossuyt, and Jeffrey Golden.
+\newblock International recommendations for the assessment of autoantibodies to
+  cellular antigens referred to as antinuclear antibodies.
+\newblock \emph{Annals of the Rheumatic Diseases}, 73\penalty0 (1):\penalty0
+  17--23, 2014.
+
+\bibitem[Hargraves et~al.(1948)Hargraves, Richmond, and
+  Morton]{hargraves1948le}
+Malcolm~M. Hargraves, Helen Richmond, and Robert Morton.
+\newblock Presentation of two bone marrow elements; the tart cell and the {LE}
+  cell.
+\newblock \emph{Proceedings of the Staff Meetings of the Mayo Clinic},
+  23\penalty0 (2):\penalty0 25--28, 1948.
+
+\bibitem[Friou et~al.(1958)Friou, Finch, and Detre]{friou1958interaction}
+George~J. Friou, Stuart~C. Finch, and Katherine~D. Detre.
+\newblock Interaction of nuclei and globulin from lupus erythematosis serum
+  demonstrated with fluorescent antibody.
+\newblock \emph{Journal of Immunology}, 80\penalty0 (4):\penalty0 324--329,
+  1958.
+\newblock \doi{10.4049/jimmunol.80.4.324}.
+
+\bibitem[Aringer et~al.(2019)Aringer, Costenbader, Daikh, Brinks, Mosca,
+  Ramsey-Goldman, Smolen, Wofsy, Boumpas, Kamen, Jayne, Cervera,
+  Costedoat-Chalumeau, Diamond, Gladman, Hahn, Hiepe, Jacobsen, Khanna,
+  Lerstr{\o}m, Massarotti, McCune, Ruiz-Irastorza, Sanchez-Guerrero, Petri,
+  Stohl, Strand, Testa, and Dorner]{aringer2019eular}
+Martin Aringer, Karen Costenbader, David Daikh, Ralph Brinks, Marta Mosca,
+  Rosalind Ramsey-Goldman, Josef~S. Smolen, David Wofsy, Dimitrios~T. Boumpas,
+  Diane~L. Kamen, David Jayne, Ricard Cervera, Nathalie Costedoat-Chalumeau,
+  Betty Diamond, Dafna~D. Gladman, Bevra~H. Hahn, Falk Hiepe, S{\o}ren
+  Jacobsen, Dinesh Khanna, Kirsten Lerstr{\o}m, Elena Massarotti, W.~Joseph
+  McCune, Guillermo Ruiz-Irastorza, Jorge Sanchez-Guerrero, Michelle Petri,
+  William Stohl, Vibeke Strand, Mariko Testa, and Thomas Dorner.
+\newblock 2019 {European League Against Rheumatism}/{American College of
+  Rheumatology} classification criteria for systemic lupus erythematosus.
+\newblock \emph{Annals of the Rheumatic Diseases}, 78\penalty0 (9):\penalty0
+  1151--1159, 2019.
+
+\bibitem[Damoiseaux et~al.(2019)Damoiseaux, Andrade, Carballo, Conrad,
+  Francescantonio, Fritzler, Garcia de~la Torre, Herold, Klotz, Cruvinel,
+  Dellavance, Juarez, J{\o}rgensen, Lundberg, Malyavko, Nespoli, Norai, Ortona,
+  Peene, Robier, Savige, Singh, Smeenk, Sundaramoorthy, Uchida, Vincent, Voss,
+  Wang, Wiik, and Chan]{damoiseaux2019clinical}
+Jan Damoiseaux, Luis E.~C. Andrade, Orlando~Gabriel Carballo, Karsten Conrad,
+  Paulo Luiz~Carvalho Francescantonio, Marvin~J. Fritzler, Ignacio Garcia de~la
+  Torre, Manfred Herold, Werner Klotz, Wilson de~Melo Cruvinel, Alessandra
+  Dellavance, Cesar Juarez, Christian~Snitkj{\ae}r J{\o}rgensen, Ingrid~E.
+  Lundberg, Olena Malyavko, Luigi Nespoli, Amir Norai, Elena Ortona, Isabelle
+  Peene, Christoph Robier, Judith Savige, Yogesh Singh, Ruud J.~T. Smeenk,
+  Padmanabhan Sundaramoorthy, Kazuko Uchida, Thomas Vincent, Anne Voss,
+  Yu~Wang, Allan Wiik, and Edward K.~L. Chan.
+\newblock Clinical relevance of {HEp-2} indirect immunofluorescent patterns:
+  the international consensus on {ANA} patterns ({ICAP}) perspective.
+\newblock \emph{Annals of the Rheumatic Diseases}, 78\penalty0 (7):\penalty0
+  879--889, 2019.
+\newblock \doi{10.1136/annrheumdis-2018-214436}.
+
+\bibitem[Tan et~al.(1997)Tan, Feltkamp, Smolen, Butcher, Dawkins, Fritzler,
+  Gordon, Hardin, Kalden, Lahita, Maini, McDougal, Rothfield, Smeenk, Takasaki,
+  Wiik, Wilson, and Koziol]{tan1997range}
+Eng~M. Tan, Tom E.~W. Feltkamp, Josef~S. Smolen, Brian Butcher, Roger Dawkins,
+  Marvin~J. Fritzler, Tom Gordon, John~A. Hardin, Joachim~R. Kalden, Robert~G.
+  Lahita, Ravinder~N. Maini, J.~Steven McDougal, Naomi~F. Rothfield, Ruud~J.
+  Smeenk, Yoshinari Takasaki, Allan Wiik, Merle~R. Wilson, and James~A. Koziol.
+\newblock Range of antinuclear antibodies in ``healthy'' individuals.
+\newblock \emph{Arthritis and Rheumatism}, 40\penalty0 (9):\penalty0
+  1601--1611, 1997.
+
+\end{thebibliography}

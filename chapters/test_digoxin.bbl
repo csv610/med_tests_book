@@ -1,0 +1,54 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{Digitalis Investigation Group}(1997)]{dig1997effect}
+{Digitalis Investigation Group}.
+\newblock The effect of digoxin on mortality and morbidity in patients with
+  heart failure.
+\newblock \emph{New England Journal of Medicine}, 336\penalty0 (8):\penalty0
+  525--533, 1997.
+\newblock \doi{10.1056/NEJM199702203360801}.
+
+\bibitem[January et~al.(2014)January, Wann, Alpert, Calkins, Cigarroa,
+  Cleveland, Conti, Ellinor, Ezekowitz, Field, et~al.]{january2014aha}
+Craig~T. January, L.~Samuel Wann, Joseph~S. Alpert, Hugh Calkins, John~E.
+  Cigarroa, Joseph~C. Cleveland, Jamie~B. Conti, Patrick~T. Ellinor, Michael~D.
+  Ezekowitz, Michael~E. Field, et~al.
+\newblock 2014 {AHA/ACC/HRS} guideline for the management of patients with
+  atrial fibrillation.
+\newblock \emph{Circulation}, 130\penalty0 (23):\penalty0 2071--2104, 2014.
+\newblock \doi{10.1161/CIR.0000000000000041}.
+
+\bibitem[Burton et~al.(2006)Burton, Shaw, Schentag, and
+  Evans]{burton2006applied}
+Michael~E. Burton, Leslie~M. Shaw, Jerome~J. Schentag, and William~E. Evans.
+\newblock \emph{Applied Pharmacokinetics and Pharmacodynamics: Principles of
+  Therapeutic Drug Monitoring}.
+\newblock Lippincott Williams \& Wilkins, 4th edition, 2006.
+
+\bibitem[Goldberger et~al.(2018)Goldberger, Goldberger, and
+  Shvilkin]{goldberger2018clinical}
+Zachary~D. Goldberger, Ary~L. Goldberger, and Alexei Shvilkin.
+\newblock \emph{Clinical Electrocardiography: A Simplified Approach}.
+\newblock Elsevier, 9th edition, 2018.
+
+\bibitem[Bauman et~al.(2006)Bauman, DiDomenico, and
+  Galanter]{bauman2006mechanisms}
+Jerry~L. Bauman, Robert~J. DiDomenico, and William~L. Galanter.
+\newblock Mechanisms, manifestations, and management of digoxin toxicity.
+\newblock \emph{Heart Failure Reviews}, 11\penalty0 (2):\penalty0 87--93, 2006.
+
+\bibitem[Yancy et~al.(2013)Yancy, Jessup, Bozkurt, Butler, Casey, Drazner,
+  Fonarow, Geraci, Horwich, Januzzi, et~al.]{yancy2013accf}
+Clyde~W. Yancy, Mariell Jessup, Blykem Bozkurt, Javed Butler, Donald~E. Casey,
+  Mark~H. Drazner, Gregg~C. Fonarow, Stephen~A. Geraci, Tamara Horwich,
+  James~L. Januzzi, et~al.
+\newblock 2013 {ACCF/AHA} guideline for the management of heart failure.
+\newblock \emph{Circulation}, 128\penalty0 (16):\penalty0 e240--e327, 2013.
+\newblock \doi{10.1161/CIR.0b013e31829e8776}.
+
+\end{thebibliography}

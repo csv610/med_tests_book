@@ -1,0 +1,74 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Friesen et~al.(1970)Friesen, Guyda, and
+  Hardy]{friesen1970biosynthesis}
+H.~Friesen, H.~Guyda, and J.~Hardy.
+\newblock The biosynthesis of human growth hormone and prolactin.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 31\penalty0
+  (6):\penalty0 611--624, 1970.
+\newblock \doi{10.1210/jcem-31-6-611}.
+
+\bibitem[Melmed et~al.(2011)Melmed, Casanueva, Hoffman, Kleinberg, Montori,
+  Schlechte, and Wass]{melmed2011diagnosis}
+Shlomo Melmed, Felipe~F. Casanueva, Andrew~R. Hoffman, David~L. Kleinberg,
+  Victor~M. Montori, Janet~A. Schlechte, and John A.~H. Wass.
+\newblock Diagnosis and treatment of hyperprolactinemia: an endocrine society
+  clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 96\penalty0
+  (2):\penalty0 273--288, 2011.
+\newblock \doi{10.1210/jc.2010-1692}.
+
+\bibitem[Gibney et~al.(2005)Gibney, Smith, and McKenna]{gibney2005impact}
+J.~Gibney, T.~P. Smith, and T.~J. McKenna.
+\newblock The impact on clinical practice of routine screening for
+  macroprolactin.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 90\penalty0
+  (7):\penalty0 3927--3932, 2005.
+\newblock \doi{10.1210/jc.2004-2234}.
+
+\bibitem[Molitch(2008)]{molitch2008drugs}
+Mark~E. Molitch.
+\newblock Drugs and prolactin.
+\newblock \emph{Pituitary}, 11\penalty0 (2):\penalty0 209--218, 2008.
+\newblock \doi{10.1007/s11102-008-0106-6}.
+
+\bibitem[Vilar et~al.(2008)Vilar, Freitas, Naves, Casulari, Azevedo,
+  Montenegro, Barros, Faria, Nascimento, Lima, N{\'o}brega, Cruz, Mota, Ramos,
+  Violante, Filho, Gadelha, Czepielewski, Glezer, and
+  Bronstein]{vilar2008diagnosis}
+L.~Vilar, M.~C. Freitas, L.~A. Naves, L.~A. Casulari, M.~Azevedo,
+  R.~Montenegro, A.~I. Barros, M.~Faria, G.~C. Nascimento, J.~G. Lima, L.~H.
+  N{\'o}brega, T.~P. Cruz, A.~Mota, A.~Ramos, A.~Violante, A.~Lamounier Filho,
+  M.~R. Gadelha, M.~A. Czepielewski, A.~Glezer, and M.~D. Bronstein.
+\newblock Diagnosis and management of hyperprolactinemia: results of a
+  brazilian multicenter study with 1234 patients.
+\newblock \emph{Journal of Endocrinological Investigation}, 31\penalty0
+  (5):\penalty0 436--444, 2008.
+\newblock \doi{10.1007/BF03346388}.
+
+\bibitem[Klibanski(2010)]{klibanski2010prolactinomas}
+Anne Klibanski.
+\newblock Prolactinomas.
+\newblock \emph{New England Journal of Medicine}, 362\penalty0 (13):\penalty0
+  1219--1226, 2010.
+\newblock \doi{10.1056/NEJMcp0912025}.
+
+\bibitem[Wong et~al.(2015)Wong, Eloy, Couldwell, and Liu]{wong2015update2}
+Aaron Wong, Jean~Anderson Eloy, William~T. Couldwell, and James~K. Liu.
+\newblock Update on prolactinomas. part 2: Treatment and management strategies.
+\newblock \emph{Journal of Clinical Neuroscience}, 22\penalty0 (10):\penalty0
+  1568--1574, 2015.
+\newblock \doi{10.1016/j.jocn.2015.03.059}.
+
+\end{thebibliography}

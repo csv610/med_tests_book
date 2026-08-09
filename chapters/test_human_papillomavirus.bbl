@@ -1,0 +1,47 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schiffman et~al.(2016)Schiffman, Doorbar, Wentzensen,
+  et~al.]{schiffman2016carcinogenic}
+Mark Schiffman, John Doorbar, Nicolas Wentzensen, et~al.
+\newblock Carcinogenic human papillomavirus infection.
+\newblock \emph{Nature Reviews Disease Primers}, 2:\penalty0 16086, 2016.
+\newblock \doi{10.1038/nrdp.2016.86}.
+
+\bibitem[Huh et~al.(2015)Huh, Ault, Chelmow, et~al.]{huh2015use}
+Warner~K. Huh, Kevin~A. Ault, David Chelmow, et~al.
+\newblock Use of primary high-risk human papillomavirus testing for cervical
+  cancer screening: interim clinical guidance.
+\newblock \emph{Obstetrics and Gynecology}, 125\penalty0 (2):\penalty0
+  330--337, 2015.
+\newblock \doi{10.1097/AOG.0000000000000669}.
+
+\bibitem[Markowitz et~al.(2014)Markowitz, Dunne, Saraiya,
+  et~al.]{markowitz2014human}
+Lauri~E. Markowitz, Eileen~F. Dunne, Mona Saraiya, et~al.
+\newblock Human papillomavirus vaccination: recommendations of the advisory
+  committee on immunization practices (acip).
+\newblock \emph{MMWR Recommendations and Reports}, 63\penalty0
+  (RR-05):\penalty0 1--30, 2014.
+
+\bibitem[{U.S. Preventive Services Task Force}(2018)]{uspstf2018screening}
+{U.S. Preventive Services Task Force}.
+\newblock Screening and behavioral counseling interventions to reduce unhealthy
+  alcohol use in adolescents and adults: {U.S.} preventive services task force
+  recommendation statement.
+\newblock \emph{JAMA}, 320\penalty0 (18):\penalty0 1899--1909, 2018.
+\newblock \doi{10.1001/jama.2018.16789}.
+
+\bibitem[Perkins et~al.(2020)Perkins, Guido, Castle, et~al.]{perkins2020asccp}
+Rebecca~B. Perkins, Richard~S. Guido, Philip~E. Castle, et~al.
+\newblock 2019 asccp risk-based management consensus guidelines for abnormal
+  cervical cancer screening tests and cancer precursors.
+\newblock \emph{Journal of Lower Genital Tract Disease}, 24\penalty0
+  (2):\penalty0 102--131, 2020.
+\newblock \doi{10.1097/LGT.0000000000000525}.
+
+\end{thebibliography}

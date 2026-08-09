@@ -1,0 +1,68 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rumack and Matthew(1975)]{rumack1975acetaminophen}
+Barry~H. Rumack and Henry Matthew.
+\newblock Acetaminophen poisoning and toxicity.
+\newblock \emph{Pediatrics}, 55\penalty0 (6):\penalty0 871--876, 1975.
+\newblock \doi{10.1542/peds.55.6.871}.
+
+\bibitem[Prescott(2000)]{prescott2000paracetamol}
+Laurie~F. Prescott.
+\newblock Paracetamol: past, present, and future.
+\newblock \emph{American Journal of Therapeutics}, 7\penalty0 (2):\penalty0
+  143--147, 2000.
+\newblock \doi{10.1097/00045391-200007020-00011}.
+
+\bibitem[Davidson and Eastham(1966)]{davidson1966acute}
+D.~G.~D. Davidson and W.~N. Eastham.
+\newblock Acute liver necrosis following overdose of paracetamol.
+\newblock \emph{British Medical Journal}, 2\penalty0 (5512):\penalty0 497--499,
+  1966.
+\newblock \doi{10.1136/bmj.2.5512.497}.
+
+\bibitem[Prescott et~al.(1979)Prescott, Illingworth, Critchley, Stewart, Adam,
+  and Proudfoot]{prescott1979intravenous}
+L.~F. Prescott, R.~N. Illingworth, J.~A. J.~H. Critchley, M.~J. Stewart, R.~D.
+  Adam, and A.~T. Proudfoot.
+\newblock Intravenous n-acetylcysteine: the treatment of choice for paracetamol
+  poisoning.
+\newblock \emph{British Medical Journal}, 2\penalty0 (6198):\penalty0
+  1097--1100, 1979.
+\newblock \doi{10.1136/bmj.2.6198.1097}.
+
+\bibitem[Heard(2008)]{heard2008acetylcysteine}
+Kennon~J. Heard.
+\newblock Acetylcysteine for acetaminophen poisoning.
+\newblock \emph{New England Journal of Medicine}, 359\penalty0 (3):\penalty0
+  285--292, 2008.
+\newblock \doi{10.1056/NEJMct0708278}.
+
+\bibitem[Dart et~al.(2006)Dart, Erdman, Olson, Christianson, Manoguerra, Chyka,
+  Caravati, Wax, Keyes, Woolf, Richard, Scharman, Troutman, Cobaugh, and
+  {American Association of Poison Control Centers}]{dart2006acetaminophen}
+Richard~C. Dart, Andrew~R. Erdman, Kent~R. Olson, Gwenn Christianson,
+  Anthony~S. Manoguerra, Peter~A. Chyka, E.~Martin Caravati, Paul~M. Wax,
+  Daniel~C. Keyes, Alan~D. Woolf, Andrea Richard, Elizabeth~J. Scharman,
+  William~G. Troutman, Daniel~J. Cobaugh, and {American Association of Poison
+  Control Centers}.
+\newblock Acetaminophen poisoning: an evidence-based consensus guideline for
+  out-of-hospital management.
+\newblock \emph{Clinical Toxicology}, 44\penalty0 (1):\penalty0 1--18, 2006.
+\newblock \doi{10.1080/15563650500394571}.
+
+\bibitem[Larson et~al.(2005)Larson, Polson, Fontana, Davern, Lalani, Hynan,
+  Reisch, Schi{\o}dt, Ostapowicz, Shakil, and Lee]{larson2005acetaminophen}
+Anne~M. Larson, Julie Polson, Robert~J. Fontana, Timothy~J. Davern, Ezmina
+  Lalani, Linda~S. Hynan, Joan~S. Reisch, Frank~V. Schi{\o}dt, George
+  Ostapowicz, A.~Obaid Shakil, and William~M. Lee.
+\newblock Acetaminophen-induced acute liver failure: results of a united states
+  multicenter, prospective study.
+\newblock \emph{Hepatology}, 42\penalty0 (6):\penalty0 1364--1372, 2005.
+\newblock \doi{10.1002/hep.20948}.
+
+\end{thebibliography}

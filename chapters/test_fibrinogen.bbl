@@ -1,0 +1,61 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Levi and Ten~Cate(1999)]{levi1999disseminated}
+Marcel Levi and Hugo Ten~Cate.
+\newblock Disseminated intravascular coagulation.
+\newblock \emph{New England Journal of Medicine}, 341\penalty0 (8):\penalty0
+  586--592, 1999.
+\newblock \doi{10.1056/NEJM199908193410807}.
+
+\bibitem[Danesh et~al.(2005)Danesh, Lewington, Thompson,
+  et~al.]{danesh2005plasma}
+John Danesh, Sarah Lewington, Simon~G. Thompson, et~al.
+\newblock Plasma fibrinogen level and the risk of major cardiovascular diseases
+  and nonvascular mortality: an individual participant meta-analysis.
+\newblock \emph{JAMA}, 294\penalty0 (14):\penalty0 1799--1809, 2005.
+\newblock \doi{10.1001/jama.294.14.1799}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Taylor et~al.(2001)Taylor, Toh, Hoots, et~al.]{taylor2001towards}
+F.~B.~Jr Taylor, C.~H. Toh, W.~K. Hoots, et~al.
+\newblock Towards definition, clinical and laboratory criteria, and a scoring
+  system for disseminated intravascular coagulation.
+\newblock \emph{Thrombosis and Haemostasis}, 86\penalty0 (5):\penalty0
+  1327--1330, 2001.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[de~Moerloose et~al.(2013)de~Moerloose, Casini, and
+  Neerman-Arbez]{demoerloose2013congenital}
+Philippe de~Moerloose, Alessandro Casini, and Marguerite Neerman-Arbez.
+\newblock Congenital fibrinogen disorders: an update.
+\newblock \emph{Seminars in Thrombosis and Hemostasis}, 39\penalty0
+  (6):\penalty0 585--595, 2013.
+\newblock \doi{10.1055/s-0033-1349222}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

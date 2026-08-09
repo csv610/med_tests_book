@@ -1,0 +1,49 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Merckx et~al.(2017)Merckx, Wali, Schiller,
+  et~al.]{merckx2017diagnostic}
+Joanna Merckx, Reem Wali, Ian Schiller, et~al.
+\newblock Diagnostic accuracy of novel and traditional rapid tests for
+  influenza infection compared with reverse transcriptase--polymerase chain
+  reaction: a systematic review and meta-analysis.
+\newblock \emph{Annals of Internal Medicine}, 167\penalty0 (6):\penalty0
+  394--409, 2017.
+\newblock \doi{10.7326/M17-0848}.
+
+\bibitem[Vos et~al.(2019)Vos, Bruning, Reitsma, et~al.]{vos2019rapid}
+Laura~M. Vos, Anneke H.~L. Bruning, Johannes~B. Reitsma, et~al.
+\newblock Rapid molecular tests for influenza, respiratory syncytial virus, and
+  other respiratory viruses: a systematic review of diagnostic accuracy and
+  clinical impact studies.
+\newblock \emph{Clinical Infectious Diseases}, 69\penalty0 (7):\penalty0
+  1243--1253, 2019.
+\newblock \doi{10.1093/cid/ciz056}.
+
+\bibitem[Uyeki et~al.(2019)Uyeki, Bernstein, Bradley,
+  et~al.]{uyeki2019clinical}
+Timothy~M. Uyeki, Henry~H. Bernstein, John~S. Bradley, et~al.
+\newblock Clinical practice guidelines by the infectious diseases society of
+  america: 2018 update on diagnosis, treatment, chemoprophylaxis, and
+  institutional outbreak management of seasonal influenza.
+\newblock \emph{Clinical Infectious Diseases}, 68\penalty0 (6):\penalty0
+  e1--e47, 2019.
+\newblock \doi{10.1093/cid/ciy866}.
+
+\bibitem[{Centers for Disease Control and Prevention}(2022)]{cdc2022influenza}
+{Centers for Disease Control and Prevention}.
+\newblock Guide for considering influenza testing when influenza viruses are
+  circulating in the community, 2022.
+
+\bibitem[Ison and Hayden(2019)]{ison2019therapeutic}
+Michael~G. Ison and Frederick~G. Hayden.
+\newblock Therapeutic options for influenza: pharmacology and clinical
+  applications.
+\newblock In \emph{Mandell, Douglas, and Bennett's Principles and Practice of
+  Infectious Diseases}. Elsevier, 9th edition, 2019.
+
+\end{thebibliography}

@@ -1,0 +1,72 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Keeling et~al.(2011)Keeling, Baglin, Tait, Watson, Perry, Baglin,
+  Kitchen, and Makris]{keeling2011guidelines}
+David Keeling, Trevor Baglin, Campbell Tait, Henry Watson, David Perry,
+  Caroline Baglin, Steve Kitchen, and Michael Makris.
+\newblock Guidelines on oral anticoagulation with warfarin -- fourth edition.
+\newblock \emph{British Journal of Haematology}, 154\penalty0 (3):\penalty0
+  311--324, 2011.
+\newblock \doi{10.1111/j.1365-2141.2011.08753.x}.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Tripodi et~al.(2008)Tripodi, Chantarangkul, and
+  Mannucci]{tripodi2008international}
+Armando Tripodi, Veena Chantarangkul, and Pier~Mannuccio Mannucci.
+\newblock The international normalized ratio to prioritize patients for liver
+  transplantation: problems and possible solutions.
+\newblock \emph{Journal of Thrombosis and Haemostasis}, 6\penalty0
+  (2):\penalty0 243--248, 2008.
+\newblock \doi{10.1111/j.1538-7933.2008.02827.x}.
+
+\bibitem[Quick(1935)]{quick1935prothrombin}
+Armand~J. Quick.
+\newblock The prothrombin in hemophilia and in obstructive jaundice.
+\newblock \emph{Journal of Biological Chemistry}, 109:\penalty0 73--74, 1935.
+
+\bibitem[Kirkwood(1983)]{kirkwood1983calibration}
+T.~B.~L. Kirkwood.
+\newblock Calibration of reference thromboplastins and standardisation of the
+  prothrombin time ratio.
+\newblock \emph{Thrombosis and Haemostasis}, 49\penalty0 (3):\penalty0
+  238--244, 1983.
+\newblock \doi{10.1055/s-0038-1657371}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Kitchen et~al.(2021)Kitchen, Adcock, Dauer, Kristoffersen, Lippi,
+  Mackie, Marlar, and Nair]{kitchen2021international}
+Steve Kitchen, Dorothy~M. Adcock, Ray Dauer, Ann-Helen Kristoffersen, Giuseppe
+  Lippi, Ian Mackie, Richard~A. Marlar, and Sukesh Nair.
+\newblock International council for standardization in haematology (icsh)
+  recommendations for processing of blood samples for coagulation testing.
+\newblock \emph{International Journal of Laboratory Hematology}, 43\penalty0
+  (6):\penalty0 1272--1283, 2021.
+\newblock \doi{10.1111/ijlh.13702}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

@@ -1,0 +1,68 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gilhus(2016)]{gilhus2016myasthenia}
+Nils~Erik Gilhus.
+\newblock Myasthenia gravis.
+\newblock \emph{New England Journal of Medicine}, 375\penalty0 (26):\penalty0
+  2570--2581, 2016.
+\newblock \doi{10.1056/NEJMra1602678}.
+
+\bibitem[Patrick and Lindstrom(1973)]{patrick1973autoimmune}
+Jim Patrick and Jon Lindstrom.
+\newblock Autoimmune response to acetylcholine receptor.
+\newblock \emph{Science}, 180\penalty0 (4088):\penalty0 871--872, 1973.
+\newblock \doi{10.1126/science.180.4088.871}.
+
+\bibitem[Lindstrom et~al.(1976)Lindstrom, Seybold, Lennon, Whittingham, and
+  Duane]{lindstrom1976antibody}
+Jon~M. Lindstrom, Marjorie~E. Seybold, Vanda~A. Lennon, Senga Whittingham, and
+  Drake~D. Duane.
+\newblock Antibody to acetylcholine receptor in myasthenia gravis: prevalence,
+  clinical correlates, and diagnostic value.
+\newblock \emph{Neurology}, 26\penalty0 (11):\penalty0 1054--1059, 1976.
+
+\bibitem[Hoch et~al.(2001)Hoch, McConville, Helms, Newsom-Davis, Melms, and
+  Vincent]{hoch2001autoantibodies}
+Werner Hoch, John McConville, Saskia Helms, John Newsom-Davis, Arthur Melms,
+  and Angela Vincent.
+\newblock Auto-antibodies to the receptor tyrosine kinase musk in patients with
+  myasthenia gravis without acetylcholine receptor antibodies.
+\newblock \emph{Nature Medicine}, 7\penalty0 (3):\penalty0 365--368, 2001.
+
+\bibitem[Wolfe et~al.(2016)Wolfe, Kaminski, Aban, Minisman, Kuo, Marx,
+  Str{\"o}bel, Mazia, Oger, Cea, Heckmann, Evoli, Nix, Ciafaloni, Antonini,
+  Witoonpanich, King, Beydoun, Chalk, Barboi, Amato, Shaibani, Katirji, Lecky,
+  Buckley, Vincent, Dias-Tosta, Yoshimura, Waddell, Crum, Pulley, Rivner,
+  Massey, Kissel, Sanders, and Kaminski]{wolfe2016randomized}
+Gil~I. Wolfe, Henry~J. Kaminski, Inmaculada~B. Aban, Greg Minisman, Hui-Chien
+  Kuo, Alexander Marx, Philipp Str{\"o}bel, Claudio Mazia, Joel Oger,
+  J.~Gabriel Cea, Jeannine~M. Heckmann, Amelia Evoli, Wilfred Nix, Emma
+  Ciafaloni, Giovanni Antonini, Rawiphan Witoonpanich, John~O. King, Said~R.
+  Beydoun, Colin~H. Chalk, Alexandru~C. Barboi, Anthony~A. Amato, Aziz~I.
+  Shaibani, Bashar Katirji, Bryan R.~F. Lecky, Camilla Buckley, Angela Vincent,
+  Elza Dias-Tosta, Hiroaki Yoshimura, Mary Waddell, Brian~A. Crum, Michael~T.
+  Pulley, Michael~H. Rivner, Janice~M. Massey, John~T. Kissel, Donald~B.
+  Sanders, and Henry~J. Kaminski.
+\newblock Randomized trial of thymectomy in myasthenia gravis.
+\newblock \emph{New England Journal of Medicine}, 375\penalty0 (6):\penalty0
+  511--522, 2016.
+\newblock \doi{10.1056/NEJMoa1602489}.
+
+\bibitem[Sanders et~al.(2016)Sanders, Wolfe, Benatar, Evoli, Gilhus, Illa,
+  Kuntz, Massey, Melms, Murai, Nicolle, Palace, Richman, Verschuuren, and
+  Narayanaswami]{sanders2016international}
+Donald~B. Sanders, Gil~I. Wolfe, Michael Benatar, Amelia Evoli, Nils~Erik
+  Gilhus, Isabel Illa, Nancy Kuntz, Janice~M. Massey, Arthur Melms, Hiroyuki
+  Murai, Michael Nicolle, Jacqueline Palace, David~P. Richman, Jan Verschuuren,
+  and Pushpa Narayanaswami.
+\newblock International consensus guidance for management of myasthenia gravis:
+  executive summary.
+\newblock \emph{Neurology}, 87\penalty0 (4):\penalty0 419--425, 2016.
+\newblock \doi{10.1212/WNL.0000000000002790}.
+
+\end{thebibliography}

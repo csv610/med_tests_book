@@ -1,0 +1,61 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Tigerstedt and Bergman(1898)]{tigerstedt1898niere}
+Robert Tigerstedt and Per~Gustaf Bergman.
+\newblock Niere und kreislauf.
+\newblock \emph{Skandinavisches Archiv f{\"u}r Physiologie}, 8:\penalty0
+  223--271, 1898.
+
+\bibitem[Haber et~al.(1969)Haber, Koerner, Page, Kliman, and
+  Purnode]{haber1969application}
+Edgar Haber, Theresa Koerner, Lot~B. Page, Bernard Kliman, and Andre Purnode.
+\newblock Application of a radioimmunoassay for angiotensin i to the
+  physiologic measurements of plasma renin activity in normal human subjects.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 29\penalty0
+  (10):\penalty0 1349--1355, 1969.
+\newblock \doi{10.1210/jcem-29-10-1349}.
+
+\bibitem[Young(2007)]{young2007primary}
+William~F. Young.
+\newblock Primary aldosteronism: renaissance of a syndrome.
+\newblock \emph{Clinical Endocrinology}, 66\penalty0 (5):\penalty0 607--618,
+  2007.
+
+\bibitem[Funder et~al.(2016)Funder, Carey, Mantero, Murad, Reincke, Shibata,
+  Stowasser, and Young]{funder2016management}
+John~W. Funder, Robert~M. Carey, Franco Mantero, M.~Hassan Murad, Martin
+  Reincke, Hirotaka Shibata, Michael Stowasser, and William~F. Young.
+\newblock The management of primary aldosteronism: case detection, diagnosis,
+  and treatment: an endocrine society clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 101\penalty0
+  (5):\penalty0 1889--1916, 2016.
+
+\bibitem[Rimoldi et~al.(2014)Rimoldi, Scherrer, and
+  Messerli]{rimoldi2014secondary}
+Stefano~F. Rimoldi, Urs Scherrer, and Franz~H. Messerli.
+\newblock Secondary arterial hypertension: when, who, and how to screen?
+\newblock \emph{European Heart Journal}, 35\penalty0 (19):\penalty0 1245--1254,
+  2014.
+\newblock \doi{10.1093/eurheartj/eht534}.
+
+\bibitem[Rossi et~al.(2014)Rossi, Auchus, Brown, Lenders, Naruse, Plouin,
+  Satoh, and Young]{rossi2014expert}
+Gian~Paolo Rossi, Richard~J. Auchus, Michael Brown, Jacques W.~M. Lenders,
+  Mitsuhide Naruse, Pierre-Fran{\c{c}}ois Plouin, Fumitoshi Satoh, and
+  William~F. Young.
+\newblock An expert consensus statement on use of adrenal vein sampling for the
+  subtyping of primary aldosteronism.
+\newblock \emph{Hypertension}, 63\penalty0 (1):\penalty0 151--160, 2014.
+
+\end{thebibliography}

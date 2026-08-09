@@ -1,0 +1,51 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Picard et~al.(2018)Picard, Bobby~Gaspar, Al-Herz,
+  et~al.]{picard2018international}
+Capucine Picard, H.~Bobby~Gaspar, Waleed Al-Herz, et~al.
+\newblock International union of immunological societies: 2017 primary
+  immunodeficiency diseases committee report on inborn errors of immunity.
+\newblock \emph{Journal of Clinical Immunology}, 38\penalty0 (1):\penalty0
+  96--128, 2018.
+\newblock \doi{10.1007/s10875-017-0464-9}.
+
+\bibitem[Bonilla et~al.(2015)Bonilla, Khan, Ballas,
+  et~al.]{bonilla2015practice}
+Francisco~A. Bonilla, David~A. Khan, Zuhair~K. Ballas, et~al.
+\newblock Practice parameter for the diagnosis and management of primary
+  immunodeficiency.
+\newblock \emph{Journal of Allergy and Clinical Immunology}, 136\penalty0
+  (5):\penalty0 1186--1205, 2015.
+\newblock \doi{10.1016/j.jaci.2015.04.049}.
+
+\bibitem[Rajkumar et~al.(2006)Rajkumar, Dispenzieri, and
+  Kyle]{rajkumar2006monoclonal}
+S.~Vincent Rajkumar, Angela Dispenzieri, and Robert~A. Kyle.
+\newblock Monoclonal gammopathy of undetermined significance, waldenstr{\"o}m
+  macroglobulinemia, al amyloidosis, and related plasma cell disorders:
+  diagnosis and treatment.
+\newblock \emph{Mayo Clinic Proceedings}, 81\penalty0 (5):\penalty0 693--703,
+  2006.
+\newblock \doi{10.4065/81.5.693}.
+
+\bibitem[Cunningham-Rundles and Bodian(1999)]{cunninghamrundles1999common}
+Charlotte Cunningham-Rundles and Carol Bodian.
+\newblock Common variable immunodeficiency: clinical and immunological features
+  of 248 patients.
+\newblock \emph{Clinical Immunology}, 92\penalty0 (1):\penalty0 34--48, 1999.
+\newblock \doi{10.1006/clim.1999.4725}.
+
+\bibitem[Rajkumar et~al.(2014)Rajkumar, Dimopoulos, Palumbo,
+  et~al.]{rajkumar2014international}
+S.~Vincent Rajkumar, Meletios~A. Dimopoulos, Antonio Palumbo, et~al.
+\newblock International myeloma working group updated criteria for the
+  diagnosis of multiple myeloma.
+\newblock \emph{Lancet Oncology}, 15\penalty0 (12):\penalty0 e538--e548, 2014.
+\newblock \doi{10.1016/S1470-2045(14)70442-5}.
+
+\end{thebibliography}

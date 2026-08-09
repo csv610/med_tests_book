@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Levey et~al.(2009)Levey, Stevens, Schmid, Zhang, Castro, Feldman,
+  Kusek, Eggers, Van~Lente, Greene, and Coresh]{levey2009new}
+Andrew~S. Levey, Lesley~A. Stevens, Christopher~H. Schmid, Yaping~Lucy Zhang,
+  Alejandro~F. Castro, Harold~I. Feldman, John~W. Kusek, Paul Eggers, Frederick
+  Van~Lente, Tom Greene, and Josef Coresh.
+\newblock A new equation to estimate glomerular filtration rate.
+\newblock \emph{Annals of Internal Medicine}, 150\penalty0 (9):\penalty0
+  604--612, 2009.
+\newblock \doi{10.7326/0003-4819-150-9-200905050-00006}.
+
+\end{thebibliography}

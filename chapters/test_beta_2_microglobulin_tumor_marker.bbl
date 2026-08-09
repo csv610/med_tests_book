@@ -1,0 +1,49 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bergg{\aa}rd and Bearn(1968)]{berggard1968isolation}
+Ingemar Bergg{\aa}rd and Alexander~G. Bearn.
+\newblock Isolation and properties of a low molecular weight
+  {$\beta_2$}-globulin occurring in human biological fluids.
+\newblock \emph{Journal of Biological Chemistry}, 243\penalty0 (15):\penalty0
+  4095--4103, 1968.
+\newblock \doi{10.1016/S0021-9258(18)93284-9}.
+
+\bibitem[Greipp et~al.(2005)Greipp, San~Miguel, Durie, Crowley, Barlogie,
+  Blad{\'e}, Boccadoro, Child, Avet-Loiseau, Kyle, Lahuerta, Ludwig, Morgan,
+  Powles, Shimizu, Shustik, Sonneveld, Tosi, Turesson, and
+  Westin]{greipp2005international}
+Philip~R. Greipp, Jesus San~Miguel, Brian G.~M. Durie, John~J. Crowley, Bart
+  Barlogie, Joan Blad{\'e}, Mario Boccadoro, J.~Anthony Child, Herve
+  Avet-Loiseau, Robert~A. Kyle, Juan~Jose Lahuerta, Heinz Ludwig, Gareth
+  Morgan, Ray Powles, Kazuyuki Shimizu, Chaim Shustik, Pieter Sonneveld,
+  Patrizia Tosi, Ingemar Turesson, and Jan Westin.
+\newblock International staging system for multiple myeloma.
+\newblock \emph{Journal of Clinical Oncology}, 23\penalty0 (15):\penalty0
+  3412--3420, 2005.
+\newblock \doi{10.1200/JCO.2005.04.242}.
+
+\bibitem[Palumbo et~al.(2015)Palumbo, Avet-Loiseau, Oliva, Lokhorst,
+  Goldschmidt, Rosinol, Richardson, Caltagirone, Lahuerta, Facon, Bringhen,
+  Gay, Attal, Passera, Spencer, Offidani, Kumar, Musto, Lonial, Petrucci,
+  Orlowski, Zamagni, Morgan, Dimopoulos, Durie, Anderson, Sonneveld,
+  San~Miguel, Cavo, Rajkumar, and Moreau]{palumbo2015revised}
+Antonio Palumbo, Herve Avet-Loiseau, Stefania Oliva, Henk~M. Lokhorst, Hartmut
+  Goldschmidt, Laura Rosinol, Paul Richardson, Sara Caltagirone, Juan~J.
+  Lahuerta, Thierry Facon, Sara Bringhen, Francesca Gay, Michel Attal, Roberto
+  Passera, Andrew Spencer, Massimo Offidani, Shaji Kumar, Pellegrino Musto,
+  Sagar Lonial, Maria~Teresa Petrucci, Robert~Z. Orlowski, Elena Zamagni,
+  Gareth Morgan, Meletios~A. Dimopoulos, Brian G.~M. Durie, Kenneth~C.
+  Anderson, Pieter Sonneveld, Jesus San~Miguel, Michele Cavo, S.~Vincent
+  Rajkumar, and Philippe Moreau.
+\newblock Revised international staging system for multiple myeloma: a report
+  from {International Myeloma Working Group}.
+\newblock \emph{Journal of Clinical Oncology}, 33\penalty0 (26):\penalty0
+  2863--2869, 2015.
+\newblock \doi{10.1200/JCO.2015.61.2267}.
+
+\end{thebibliography}

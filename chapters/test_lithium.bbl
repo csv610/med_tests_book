@@ -1,0 +1,56 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cade(1949)]{cade1949lithium}
+John F.~J. Cade.
+\newblock Lithium salts in the treatment of psychotic excitement.
+\newblock \emph{Medical Journal of Australia}, 2\penalty0 (10):\penalty0
+  349--352, 1949.
+
+\bibitem[Severus et~al.(2014)Severus, Taylor, Sauer, Pfennig, Ritter, Bauer,
+  and Geddes]{severus2014lithium}
+Emanuel Severus, Matthew~J. Taylor, Cathrin Sauer, Andrea Pfennig, Philipp
+  Ritter, Michael Bauer, and John~R. Geddes.
+\newblock Lithium for prevention of mood episodes in bipolar disorders:
+  systematic review and meta-analysis.
+\newblock \emph{International Journal of Bipolar Disorders}, 2\penalty0
+  (1):\penalty0 15, 2014.
+\newblock \doi{10.1186/s40345-014-0015-8}.
+
+\bibitem[Hansen and Amdisen(1978)]{hansen1978lithium}
+Henrik~E. Hansen and A.~Amdisen.
+\newblock Lithium intoxication: report of 23 cases and review of 100 cases from
+  the literature.
+\newblock \emph{Quarterly Journal of Medicine}, 47\penalty0 (186):\penalty0
+  123--144, 1978.
+
+\bibitem[Malhi et~al.(2020)Malhi, Bell, Boyce, Bassett, Berk, Bryant, Gitlin,
+  Hamilton, Hazell, Hopwood, Lyndon, McIntyre, Mulder, Porter, Singh, Yatham,
+  Young, and Murray]{malhi2020ranzcp}
+Gin~S. Malhi, Erica Bell, Philip Boyce, Darryl Bassett, Michael Berk, Richard
+  Bryant, Michael Gitlin, Amber Hamilton, Philip Hazell, Malcolm Hopwood, Bill
+  Lyndon, Roger~S. McIntyre, Roger Mulder, Richard Porter, Ajeet~B. Singh,
+  Lakshmi~N. Yatham, Allan Young, and Greg Murray.
+\newblock The 2020 royal australian and new zealand college of psychiatrists
+  clinical practice guidelines for mood disorders: bipolar disorder summary.
+\newblock \emph{Bipolar Disorders}, 22\penalty0 (8):\penalty0 805--821, 2020.
+\newblock \doi{10.1111/bdi.13036}.
+
+\bibitem[Goodwin and Jamison(2007)]{goodwin2007manic}
+Frederick~K. Goodwin and Kay~Redfield Jamison.
+\newblock \emph{Manic-Depressive Illness: Bipolar Disorders and Recurrent
+  Depression}.
+\newblock Oxford University Press, New York, 2nd edition, 2007.
+
+\bibitem[Gr{\"u}nfeld and Rossier(2009)]{grunfeld2009lithium}
+Jean-Pierre Gr{\"u}nfeld and Bernard~C. Rossier.
+\newblock Lithium nephrotoxicity revisited.
+\newblock \emph{Nature Reviews Nephrology}, 5\penalty0 (5):\penalty0 270--276,
+  2009.
+\newblock \doi{10.1038/nrneph.2009.43}.
+
+\end{thebibliography}

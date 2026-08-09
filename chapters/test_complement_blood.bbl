@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ricklin et~al.(2010)Ricklin, Hajishengallis, Yang, and
+  Lambris]{ricklin2010complement}
+Daniel Ricklin, George Hajishengallis, Kun Yang, and John~D. Lambris.
+\newblock Complement: a key system for immune surveillance and homeostasis.
+\newblock \emph{Nature Immunology}, 11\penalty0 (9):\penalty0 785--797, 2010.
+\newblock \doi{10.1038/ni.1923}.
+
+\bibitem[Walport(2001{\natexlab{a}})]{walport2001complement}
+Mark~J. Walport.
+\newblock Complement. first of two parts.
+\newblock \emph{New England Journal of Medicine}, 344\penalty0 (14):\penalty0
+  1058--1066, 2001{\natexlab{a}}.
+\newblock \doi{10.1056/NEJM200104053441406}.
+
+\bibitem[Walport(2001{\natexlab{b}})]{walport2001complement2}
+Mark~J. Walport.
+\newblock Complement. second of two parts.
+\newblock \emph{New England Journal of Medicine}, 344\penalty0 (15):\penalty0
+  1140--1144, 2001{\natexlab{b}}.
+\newblock \doi{10.1056/NEJM200104123441506}.
+
+\bibitem[Truedsson et~al.(2007)Truedsson, Bengtsson, and
+  Sturfelt]{truedsson2007complement}
+Lennart Truedsson, Anders~A. Bengtsson, and Gunnar Sturfelt.
+\newblock Complement deficiencies and systemic lupus erythematosus.
+\newblock \emph{Autoimmunity}, 40\penalty0 (8):\penalty0 560--566, 2007.
+
+\bibitem[Pickering et~al.(2002)Pickering, Cook, Warren, Bygrave, Moss, Walport,
+  and Botto]{pickering2002uncontrolled}
+Matthew~C. Pickering, H.~Terence Cook, Jonathan Warren, Annette~E. Bygrave,
+  Jeremy Moss, Mark~J. Walport, and Marina Botto.
+\newblock Uncontrolled {C3} activation causes membranoproliferative
+  glomerulonephritis in mice deficient in complement factor {H}.
+\newblock \emph{Nature Genetics}, 31\penalty0 (4):\penalty0 424--428, 2002.
+\newblock \doi{10.1038/ng912}.
+
+\end{thebibliography}

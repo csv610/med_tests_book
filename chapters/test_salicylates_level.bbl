@@ -1,0 +1,51 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Temple(1981)]{temple1981acute}
+Anthony~R. Temple.
+\newblock Acute and chronic effects of aspirin toxicity and their treatment.
+\newblock \emph{Archives of Internal Medicine}, 141\penalty0 (3 Spec
+  No):\penalty0 364--369, 1981.
+\newblock \doi{10.1001/archinte.141.3.364}.
+
+\bibitem[Done(1960)]{done1960salicylate}
+Alan~K. Done.
+\newblock Salicylate intoxication: significance of measurements of salicylate
+  in blood in cases of acute ingestion.
+\newblock \emph{Pediatrics}, 26:\penalty0 800--807, 1960.
+
+\bibitem[Chyka et~al.(2007)Chyka, Erdman, Christianson, Wax, Booze, Manoguerra,
+  Caravati, Nelson, Olson, Cobaugh, Scharman, Troutman, Hart, Higgins, Stork,
+  Woolf, Cantrell, Kelly, Doyon, Ekins, Seger, and
+  Buchanan]{chyka2007salicylate}
+Peter~A. Chyka, Andrew~R. Erdman, Gwenn Christianson, Paul~M. Wax, Lisa~L.
+  Booze, Anthony~S. Manoguerra, E.~Martin Caravati, Lewis~S. Nelson, Kent~R.
+  Olson, Daniel~J. Cobaugh, Elizabeth~J. Scharman, William~G. Troutman, Susan
+  Hart, Ian Higgins, Christine~M. Stork, Alan~D. Woolf, F.~Lee Cantrell,
+  Ellen~R. Kelly, Suzanne Doyon, Barry~R. Ekins, Donna~L. Seger, and Judy~A.
+  Buchanan.
+\newblock Salicylate poisoning: an evidence-based consensus guideline for
+  out-of-hospital management.
+\newblock \emph{Clinical Toxicology}, 45\penalty0 (2):\penalty0 95--131, 2007.
+\newblock \doi{10.1080/15563650600907140}.
+
+\bibitem[O'Malley(2007)]{omalley2007emergency}
+Gerald~F. O'Malley.
+\newblock Emergency department management of the salicylate-poisoned patient.
+\newblock \emph{Emergency Medicine Clinics of North America}, 25\penalty0
+  (2):\penalty0 333--346, 2007.
+\newblock \doi{10.1016/j.emc.2007.02.012}.
+
+\bibitem[Proudfoot et~al.(2004)Proudfoot, Krenzelok, and
+  Vale]{proudfoot2004position}
+A.~T. Proudfoot, E.~P. Krenzelok, and J.~A. Vale.
+\newblock Position paper on urine alkalinization.
+\newblock \emph{Journal of Toxicology: Clinical Toxicology}, 42\penalty0
+  (1):\penalty0 1--26, 2004.
+\newblock \doi{10.1081/CLT-120028740}.
+
+\end{thebibliography}

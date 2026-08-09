@@ -1,0 +1,71 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Nussbaum et~al.(1987)Nussbaum, Zahradnik, Lavigne, Brennan,
+  Nozawa-Ung, Kim, Keutmann, Wang, Potts, and Segre]{nussbaum1987highly}
+Samuel~R. Nussbaum, Richard~J. Zahradnik, Joseph~R. Lavigne, Gregory~L.
+  Brennan, Kim Nozawa-Ung, L.~Y. Kim, H.~T. Keutmann, C.~A. Wang, J.~T. Potts,
+  and G.~V. Segre.
+\newblock Highly sensitive two-site immunoradiometric assay of parathyrin, and
+  its clinical utility in evaluating patients with hypercalcemia.
+\newblock \emph{Clinical Chemistry}, 33\penalty0 (8):\penalty0 1364--1367,
+  1987.
+\newblock \doi{10.1093/clinchem/33.8.1364}.
+
+\bibitem[Brown et~al.(1993)Brown, Gamba, Riccardi, Lombardi, Butters, Kifor,
+  Sun, Hediger, Lytton, and Hebert]{brown1993cloning}
+Edward~M. Brown, Gerardo Gamba, Daniela Riccardi, Michael Lombardi, Robert
+  Butters, Olga Kifor, Adam Sun, Matthias~A. Hediger, Jonathan Lytton, and
+  Steven~C. Hebert.
+\newblock Cloning and characterization of an extracellular ca$^{2+}$-sensing
+  receptor from bovine parathyroid.
+\newblock \emph{Nature}, 366\penalty0 (6455):\penalty0 575--580, 1993.
+\newblock \doi{10.1038/366575a0}.
+
+\bibitem[Bilezikian et~al.(2014)Bilezikian, Brandi, Eastell, Silverberg,
+  Udelsman, Marcocci, and Potts]{bilezikian2014guidelines}
+John~P. Bilezikian, Maria~Luisa Brandi, Richard Eastell, Shonni~J. Silverberg,
+  Robert Udelsman, Claudio Marcocci, and John~T. Potts.
+\newblock Guidelines for the management of asymptomatic primary
+  hyperparathyroidism: Summary statement from the fourth international
+  workshop.
+\newblock \emph{The Journal of Clinical Endocrinology and Metabolism},
+  99\penalty0 (10):\penalty0 3561--3569, 2014.
+\newblock \doi{10.1210/jc.2014-1413}.
+
+\bibitem[Brandi et~al.(2016)Brandi, Bilezikian, Shoback, Bouillon, Clarke,
+  Thakker, Khan, and Potts]{brandi2016management}
+Maria~Luisa Brandi, John~P. Bilezikian, Dolores Shoback, Roger Bouillon,
+  Bart~L. Clarke, Rajesh~V. Thakker, Aliya~A. Khan, and John~T. Potts.
+\newblock Management of hypoparathyroidism: Summary statement and guidelines.
+\newblock \emph{The Journal of Clinical Endocrinology and Metabolism},
+  101\penalty0 (6):\penalty0 2273--2283, 2016.
+\newblock \doi{10.1210/jc.2015-3907}.
+
+\bibitem[Group(2017)]{kdigo2017clinical}
+Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Update~Work Group.
+\newblock Kdigo 2017 clinical practice guideline update for the diagnosis,
+  evaluation, prevention, and treatment of chronic kidney disease--mineral and
+  bone disorder (ckd-mbd).
+\newblock \emph{Kidney International Supplements}, 7\penalty0 (1):\penalty0
+  1--59, 2017.
+\newblock \doi{10.1016/j.kisu.2017.04.001}.
+
+\bibitem[Walker and Silverberg(2018)]{walker2018primary}
+Marcella~D. Walker and Shonni~J. Silverberg.
+\newblock Primary hyperparathyroidism.
+\newblock \emph{Nature Reviews Endocrinology}, 14\penalty0 (2):\penalty0
+  115--125, 2018.
+\newblock \doi{10.1038/nrendo.2017.104}.
+
+\end{thebibliography}

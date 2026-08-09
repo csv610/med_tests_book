@@ -1,0 +1,46 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rodger et~al.(2019)Rodger, Cambiano, Bruun, et~al.]{rodger2019risk}
+Alison~J. Rodger, Valentina Cambiano, Tina Bruun, et~al.
+\newblock Risk of hiv transmission through condomless sex in serodifferent gay
+  couples with the hiv-positive partner taking suppressive antiretroviral
+  therapy (partner): final results of a multicentre, prospective, observational
+  study.
+\newblock \emph{The Lancet}, 393\penalty0 (10189):\penalty0 2428--2438, 2019.
+\newblock \doi{10.1016/S0140-6736(19)30418-0}.
+
+\bibitem[Sollis et~al.(2014)Sollis, Smit, Fiscus, et~al.]{sollis2014systematic}
+Kimberly~A. Sollis, Pieter~W. Smit, Susan Fiscus, et~al.
+\newblock Systematic review of the performance of hiv viral load technologies
+  on plasma samples.
+\newblock \emph{PLoS ONE}, 9\penalty0 (2):\penalty0 e85869, 2014.
+\newblock \doi{10.1371/journal.pone.0085869}.
+
+\bibitem[Eshleman et~al.(2014)Eshleman, Hudelson, Redd,
+  et~al.]{eshleman2014analysis}
+Susan~H. Eshleman, Sarah~E. Hudelson, Andrew~D. Redd, et~al.
+\newblock Analysis of hiv-1 rna testing results in the cdc's revised diagnostic
+  algorithm.
+\newblock \emph{Journal of Clinical Virology}, 59\penalty0 (3):\penalty0
+  161--167, 2014.
+
+\bibitem[{Panel on Antiretroviral Guidelines for Adults and
+  Adolescents}(2023)]{dhhs2023guidelines}
+{Panel on Antiretroviral Guidelines for Adults and Adolescents}.
+\newblock Guidelines for the use of antiretroviral agents in adults and
+  adolescents with hiv.
+\newblock Updated periodically, 2023.
+
+\bibitem[Saag et~al.(2020)Saag, Gandhi, Hoy, et~al.]{saag2020antiretroviral}
+Michael~S. Saag, Rajesh~T. Gandhi, Jennifer~F. Hoy, et~al.
+\newblock Antiretroviral drugs for treatment and prevention of hiv infection in
+  adults: 2020 recommendations of the ias-usa panel.
+\newblock \emph{JAMA}, 324\penalty0 (16):\penalty0 1651--1669, 2020.
+\newblock \doi{10.1001/jama.2020.17025}.
+
+\end{thebibliography}

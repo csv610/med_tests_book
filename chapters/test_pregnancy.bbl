@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wilcox et~al.(1999)Wilcox, Baird, and Weinberg]{wilcox1999time}
+A.~J. Wilcox, D.~D. Baird, and C.~R. Weinberg.
+\newblock Time of implantation of the conceptus and loss of pregnancy.
+\newblock \emph{New England Journal of Medicine}, 340\penalty0 (23):\penalty0
+  1796--1799, 1999.
+\newblock \doi{10.1056/nejm199906103402304}.
+
+\bibitem[Chard(1992)]{chard1992pregnancy}
+T.~Chard.
+\newblock Pregnancy tests: a review.
+\newblock \emph{Human Reproduction}, 7\penalty0 (5):\penalty0 701--710, 1992.
+\newblock \doi{10.1093/oxfordjournals.humrep.a137722}.
+
+\bibitem[Cole(1997)]{cole1997immunoassay}
+L.~A. Cole.
+\newblock Immunoassay of human chorionic gonadotropin, its free subunits, and
+  metabolites.
+\newblock \emph{Clinical Chemistry}, 43\penalty0 (12):\penalty0 2233--2243,
+  1997.
+\newblock \doi{10.1093/clinchem/43.12.2233}.
+
+\bibitem[Barnhart(2009)]{barnhart2009ectopic}
+K.~T. Barnhart.
+\newblock Clinical practice: ectopic pregnancy.
+\newblock \emph{New England Journal of Medicine}, 361\penalty0 (4):\penalty0
+  379--387, 2009.
+\newblock \doi{10.1056/nejmcp0810384}.
+
+\bibitem[{American College of Obstetricians and
+  Gynecologists}(2018)]{acog2018tubal}
+{American College of Obstetricians and Gynecologists}.
+\newblock Acog practice bulletin no. 193: Tubal ectopic pregnancy.
+\newblock \emph{Obstetrics and Gynecology}, 131\penalty0 (3):\penalty0
+  e91--e103, 2018.
+\newblock \doi{10.1097/aog.0000000000002560}.
+
+\end{thebibliography}

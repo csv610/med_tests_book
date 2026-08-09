@@ -1,0 +1,134 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kuchenbaecker et~al.(2017)Kuchenbaecker, Hopper, Barnes, Phillips,
+  Mooij, Roos-Blom, Jervis, McGuffog, Easton, Antoniou,
+  et~al.]{kuchenbaecker2017risks}
+Karoline~B. Kuchenbaecker, John~L. Hopper, Daniel~R. Barnes, Kelly-Anne
+  Phillips, Thea~M. Mooij, Marie-Jos{\'e} Roos-Blom, Sarah Jervis, Lesley
+  McGuffog, Douglas~F. Easton, Antonis~C. Antoniou, et~al.
+\newblock Risks of breast, ovarian, and contralateral breast cancer for {BRCA1}
+  and {BRCA2} mutation carriers.
+\newblock \emph{JAMA}, 317\penalty0 (23):\penalty0 2402--2416, 2017.
+\newblock \doi{10.1001/jama.2017.7112}.
+
+\bibitem[Richards et~al.(2015)Richards, Aziz, Bale, Bick, Das, Gastier-Foster,
+  Grody, Hegde, Lyon, Spector, Voelkerding, and Rehm]{richards2015standards}
+Sue Richards, Nazneen Aziz, Sherri Bale, David Bick, Soma Das, Julie
+  Gastier-Foster, Wayne~W. Grody, Madhuri Hegde, Elaine Lyon, Elaine Spector,
+  Karl Voelkerding, and Heidi~L. Rehm.
+\newblock Standards and guidelines for the interpretation of sequence variants:
+  a joint consensus recommendation of the american college of medical genetics
+  and genomics and the association for molecular pathology.
+\newblock \emph{Genetics in Medicine}, 17\penalty0 (5):\penalty0 405--424,
+  2015.
+\newblock \doi{10.1038/gim.2015.30}.
+
+\bibitem[Hall et~al.(1990)Hall, Lee, Newman, Morrow, Anderson, Huey, and
+  King]{hall1990linkage}
+Jeff~M. Hall, Ming~K. Lee, Beth Newman, Jan~E. Morrow, Lee~A. Anderson, Bing
+  Huey, and Mary-Claire King.
+\newblock Linkage of early-onset familial breast cancer to chromosome 17q21.
+\newblock \emph{Science}, 250\penalty0 (4988):\penalty0 1684--1689, 1990.
+\newblock \doi{10.1126/science.2270482}.
+
+\bibitem[Miki et~al.(1994)Miki, Swensen, Shattuck-Eidens, Futreal, Harshman,
+  Tavtigian, Liu, Cochran, Bennett, Ding, Bell, Rosenthal, Hussey, Tran,
+  McClure, Frye, Hattier, Phelps, Haugen-Strano, Katcher, Yakumo, Gholami,
+  Shaffer, Stone, Bayer, Wray, Bogden, Dayananth, Ward, Tonin, Narod, Bristow,
+  Norris, Helvering, Morrison, Rosteck, Lai, Barrett, Lewis, Neuhausen,
+  Cannon-Albright, Goldgar, Wiseman, Kamb, and Skolnick]{miki1994strong}
+Yoshio Miki, Jeff Swensen, Donna Shattuck-Eidens, P.~Andrew Futreal, Keith
+  Harshman, Sean Tavtigian, Qingyun Liu, Charles Cochran, L.~Michelle Bennett,
+  Wei Ding, Russell Bell, Judith Rosenthal, Charles Hussey, Thanh Tran, Melody
+  McClure, Cheryl Frye, Tom Hattier, Robert Phelps, Astrid Haugen-Strano,
+  Harold Katcher, Kazuko Yakumo, Zahra Gholami, Daniel Shaffer, Steven Stone,
+  Steven Bayer, Christian Wray, Robert Bogden, Priya Dayananth, John Ward,
+  Patricia Tonin, Steven Narod, Pam~K. Bristow, Frank~H. Norris, Leah
+  Helvering, Paul Morrison, Paul Rosteck, Mei Lai, J.~Carl Barrett, Cathryn
+  Lewis, Susan Neuhausen, Lisa Cannon-Albright, David Goldgar, Roger Wiseman,
+  Alexander Kamb, and Mark~H. Skolnick.
+\newblock A strong candidate for the breast and ovarian cancer susceptibility
+  gene {BRCA1}.
+\newblock \emph{Science}, 266\penalty0 (5182):\penalty0 66--71, 1994.
+\newblock \doi{10.1126/science.7545954}.
+
+\bibitem[Wooster et~al.(1994)Wooster, Neuhausen, Mangion, Quirk, Ford, Collins,
+  Nguyen, Seal, Tran, Averill, Fields, Marshall, Narod, Lenoir, Lynch,
+  Feunteun, Devilee, Cornelisse, Menko, Daly, Ormiston, McManus, Pye, Lewis,
+  Cannon-Albright, Peto, Ponder, Skolnick, Easton, Goldgar, and
+  Stratton]{wooster1994localization}
+Richard Wooster, Susan~L. Neuhausen, Jonathan Mangion, Yvonne Quirk, Deborah
+  Ford, Nadine Collins, Kim Nguyen, Sheila Seal, Thanh Tran, Debra Averill,
+  Peggy Fields, Gillian Marshall, Steven Narod, Gilbert~M. Lenoir, Henry Lynch,
+  Jean Feunteun, Peter Devilee, Cees~J. Cornelisse, Fred~H. Menko, Peter~A.
+  Daly, William Ormiston, Ross McManus, Christine Pye, Cathryn~M. Lewis,
+  Lisa~A. Cannon-Albright, Julian Peto, Bruce A.~J. Ponder, Mark~H. Skolnick,
+  Douglas~F. Easton, David~E. Goldgar, and Michael~R. Stratton.
+\newblock Localization of a breast cancer susceptibility gene, {BRCA2}, to
+  chromosome 13q12-13.
+\newblock \emph{Science}, 265\penalty0 (5181):\penalty0 2088--2090, 1994.
+\newblock \doi{10.1126/science.8091231}.
+
+\bibitem[Wooster et~al.(1995)Wooster, Bignell, Lancaster, Swift, Seal, Mangion,
+  Collins, Gregory, Gumbs, Micklem, Barfoot, Hamoudi, Patel, Rice, Biggs,
+  Hashim, Smith, Connor, Arason, Gudmundsson, Ficenec, Kelsell, Ford, Tonin,
+  Bishop, Spurr, Ponder, Eeles, Peto, Devilee, Cornelisse, Lynch, Narod,
+  Lenoir, Egilsson, Barkadottir, Easton, Bentley, Futreal, Ashworth, and
+  Stratton]{wooster1995identification}
+Richard Wooster, Graham Bignell, Jonathan Lancaster, Sally Swift, Sheila Seal,
+  Jonathan Mangion, Nadine Collins, Simon Gregory, Curtis Gumbs, Gos Micklem,
+  Rita Barfoot, Rifat Hamoudi, Sunil Patel, Catherine Rice, Carolyn Biggs,
+  Yasmin Hashim, Amanda Smith, Fiona Connor, Adalgeir Arason, Julius
+  Gudmundsson, David Ficenec, David Kelsell, Deborah Ford, Patricia Tonin,
+  D.~Timothy Bishop, Nigel~K. Spurr, Bruce A.~J. Ponder, Rosalind Eeles, Julian
+  Peto, Peter Devilee, Cees Cornelisse, Henry Lynch, Steven Narod, Gilbert
+  Lenoir, Valgardur Egilsson, Rosa~Bjork Barkadottir, Douglas~F. Easton,
+  David~R. Bentley, P.~Andrew Futreal, Alan Ashworth, and Michael~R. Stratton.
+\newblock Identification of the breast cancer susceptibility gene {BRCA2}.
+\newblock \emph{Nature}, 378\penalty0 (6559):\penalty0 789--792, 1995.
+\newblock \doi{10.1038/378789a0}.
+
+\bibitem[{Supreme Court of the United States}(2013)]{myriad2013supremecourt}
+{Supreme Court of the United States}.
+\newblock Association for molecular pathology v. myriad genetics, inc.
+\newblock 569 U.S. 576, 133 S. Ct. 2107, 2013.
+
+\bibitem[Robson et~al.(2017)Robson, Im, Senkus, Xu, Domchek, Masuda, Delaloge,
+  Li, Tung, Armstrong, Wu, Goessl, Runswick, and Conte]{robson2017olaparib}
+Mark Robson, Seock-Ah Im, El{\c z}ebieta Senkus, Binghe Xu, Susan~M. Domchek,
+  Norikazu Masuda, Suzette Delaloge, Wei Li, Nadine Tung, Anne Armstrong,
+  Wenting Wu, Carsten Goessl, Sara Runswick, and Pierfranco Conte.
+\newblock Olaparib for metastatic breast cancer in patients with a germline
+  {BRCA} mutation.
+\newblock \emph{New England Journal of Medicine}, 377\penalty0 (6):\penalty0
+  523--533, 2017.
+\newblock \doi{10.1056/NEJMoa1706450}.
+
+\bibitem[{National Comprehensive Cancer Network}(2024)]{nccn2024genetic}
+{National Comprehensive Cancer Network}.
+\newblock Nccn clinical practice guidelines in oncology: Genetic/familial
+  high-risk assessment -- breast, ovarian, and pancreatic.
+\newblock Version 3.2024, 2024.
+\newblock Accessed August 2026.
+
+\bibitem[Domchek et~al.(2010)Domchek, Friebel, Singer, Evans, Lynch, Isaacs,
+  Garber, Neuhausen, Matloff, Eeles, Pichert, Van't~Veer, Tung, Weitzel, Couch,
+  Rubinstein, Ganz, Daly, Olopade, Tomlinson, Schildkraut, Blum, and
+  Rebbeck]{domchek2010association}
+Susan~M. Domchek, Tara~M. Friebel, Christian~F. Singer, D.~Gareth Evans,
+  Henry~T. Lynch, Claudine Isaacs, Judy~E. Garber, Susan~L. Neuhausen, Ellen
+  Matloff, Ros Eeles, Gabriella Pichert, Laura Van't~Veer, Nadine Tung,
+  Jeffrey~N. Weitzel, Fergus~J. Couch, Wendy~S. Rubinstein, Patricia~A. Ganz,
+  Mary~B. Daly, Olufunmilayo~I. Olopade, Gail Tomlinson, Joellen Schildkraut,
+  Joanne~L. Blum, and Timothy~R. Rebbeck.
+\newblock Association of risk-reducing surgery in {BRCA1} or {BRCA2} mutation
+  carriers with cancer risk and mortality.
+\newblock \emph{JAMA}, 304\penalty0 (9):\penalty0 967--975, 2010.
+\newblock \doi{10.1001/jama.2010.1237}.
+
+\end{thebibliography}

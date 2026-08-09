@@ -1,0 +1,48 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gnann and Whitley(2002)]{gnann2002herpes}
+John W.~Jr. Gnann and Richard~J. Whitley.
+\newblock Herpes zoster.
+\newblock \emph{New England Journal of Medicine}, 347\penalty0 (5):\penalty0
+  340--346, 2002.
+\newblock \doi{10.1056/NEJMcp013211}.
+
+\bibitem[Cohen(2013)]{cohen2013herpes}
+Jeffrey~I. Cohen.
+\newblock Herpes zoster.
+\newblock \emph{New England Journal of Medicine}, 369\penalty0 (3):\penalty0
+  255--263, 2013.
+\newblock \doi{10.1056/NEJMcp1302674}.
+
+\bibitem[Marin et~al.(2007)Marin, G{\"u}ris, Chaves,
+  et~al.]{marin2007prevention}
+Mona Marin, Deniz G{\"u}ris, Sandra~S. Chaves, et~al.
+\newblock Prevention of varicella: recommendations of the advisory committee on
+  immunization practices (acip).
+\newblock \emph{MMWR Recommendations and Reports}, 56\penalty0 (RR-4):\penalty0
+  1--40, 2007.
+
+\bibitem[Dooling et~al.(2018)Dooling, Guo, Patel,
+  et~al.]{dooling2018recommendations}
+Kathleen~L. Dooling, Amy Guo, Manisha Patel, et~al.
+\newblock Recommendations of the advisory committee on immunization practices
+  for use of herpes zoster vaccines.
+\newblock \emph{MMWR Morbidity and Mortality Weekly Report}, 67\penalty0
+  (3):\penalty0 103--108, 2018.
+\newblock \doi{10.15585/mmwr.mm6703a5}.
+
+\bibitem[Gilden et~al.(2013)Gilden, Nagel, Cohrs, and
+  Mahalingam]{gilden2013variegate}
+Donald Gilden, Maria~A. Nagel, Randall~J. Cohrs, and Ravi Mahalingam.
+\newblock The variegate neurological manifestations of varicella zoster virus
+  infection.
+\newblock \emph{Current Neurology and Neuroscience Reports}, 13\penalty0
+  (9):\penalty0 374, 2013.
+\newblock \doi{10.1007/s11910-013-0374-3}.
+
+\end{thebibliography}

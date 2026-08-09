@@ -1,0 +1,54 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Moe et~al.(2020)Moe, Wright, and Palacin]{moe2020sodium}
+Orson~W. Moe, Stephen~H. Wright, and Manuel Palacin.
+\newblock Sodium-glucose cotransporters.
+\newblock In \emph{Brenner and Rector's The Kidney}. Elsevier, 11th edition,
+  2020.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[Benedict(1909)]{benedict1909reagent}
+Stanley~R. Benedict.
+\newblock A reagent for the detection of reducing sugars.
+\newblock \emph{Journal of Biological Chemistry}, 5\penalty0 (6):\penalty0
+  485--487, 1909.
+
+\bibitem[Free et~al.(1957)Free, Adams, Kercher, Free, and Cook]{free1957simple}
+Alfred~H. Free, Ernest~C. Adams, Mary~Lou Kercher, Helen~M. Free, and Martha~H.
+  Cook.
+\newblock Simple specific test for urine glucose.
+\newblock \emph{Clinical Chemistry}, 3\penalty0 (3):\penalty0 163--168, 1957.
+\newblock \doi{10.1093/clinchem/3.3.163}.
+
+\bibitem[Wright et~al.(2011)Wright, Loo, and Hirayama]{wright2011biology}
+Ernest~M. Wright, Donald D.~F. Loo, and Bruce~A. Hirayama.
+\newblock Biology of human sodium glucose transporters.
+\newblock \emph{Physiological Reviews}, 91\penalty0 (2):\penalty0 733--794,
+  2011.
+\newblock \doi{10.1152/physrev.00055.2009}.
+
+\bibitem[{American Diabetes Association}(2024)]{ada2024standards}
+{American Diabetes Association}.
+\newblock Standards of medical care in diabetes --- 2024.
+\newblock \emph{Diabetes Care}, 47\penalty0 (Suppl. 1), 2024.
+
+\bibitem[Santer et~al.(2003)Santer, Kinner, Lassen,
+  et~al.]{santer2003molecular}
+Rene Santer, Marion Kinner, Christina~L. Lassen, et~al.
+\newblock Molecular analysis of the {SGLT2} gene in patients with renal
+  glucosuria.
+\newblock \emph{Journal of the American Society of Nephrology}, 14\penalty0
+  (11):\penalty0 2873--2882, 2003.
+\newblock \doi{10.1097/01.ASN.0000092790.89332.d2}.
+
+\end{thebibliography}

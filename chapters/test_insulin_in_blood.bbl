@@ -1,0 +1,53 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Yalow and Berson(1960)]{yalow1960immunoassay}
+Rosalyn~S. Yalow and Solomon~A. Berson.
+\newblock Immunoassay of endogenous plasma insulin in man.
+\newblock \emph{Journal of Clinical Investigation}, 39\penalty0 (7):\penalty0
+  1157--1175, 1960.
+\newblock \doi{10.1172/JCI104130}.
+
+\bibitem[Matthews et~al.(1985)Matthews, Hosker, Rudenski,
+  et~al.]{matthews1985homeostasis}
+D.~R. Matthews, J.~P. Hosker, A.~S. Rudenski, et~al.
+\newblock Homeostasis model assessment: insulin resistance and {$\beta$}-cell
+  function from fasting plasma glucose and insulin concentrations in man.
+\newblock \emph{Diabetologia}, 28\penalty0 (7):\penalty0 412--419, 1985.
+\newblock \doi{10.1007/BF00280883}.
+
+\bibitem[Service(1995)]{service1995hypoglycemic}
+F.~John Service.
+\newblock Hypoglycemic disorders.
+\newblock \emph{New England Journal of Medicine}, 332\penalty0 (17):\penalty0
+  1144--1152, 1995.
+\newblock \doi{10.1056/NEJM199504273321707}.
+
+\bibitem[de~Herder et~al.(2006)de~Herder, Niederle, Scoazec,
+  et~al.]{deherder2006welldifferentiated}
+Wouter~W. de~Herder, Bruno Niederle, Jean-Yves Scoazec, et~al.
+\newblock Well-differentiated pancreatic tumor/carcinoma: insulinoma.
+\newblock \emph{Neuroendocrinology}, 84\penalty0 (3):\penalty0 183--188, 2006.
+\newblock \doi{10.1159/000098010}.
+
+\bibitem[Cryer et~al.(2009)Cryer, Axelrod, Grossman, Heller, Montori, Seaquist,
+  and Service]{cryer2009evaluation}
+Philip~E. Cryer, Lloyd Axelrod, Ashley~B. Grossman, Simon~R. Heller, Victor~M.
+  Montori, Elizabeth~R. Seaquist, and F.~John Service.
+\newblock Evaluation and management of adult hypoglycemic disorders: an
+  endocrine society clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 94\penalty0
+  (3):\penalty0 709--728, 2009.
+\newblock \doi{10.1210/jc.2008-1410}.
+
+\end{thebibliography}

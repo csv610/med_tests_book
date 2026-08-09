@@ -1,0 +1,113 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Maisel et~al.(2002)Maisel, Krishnaswamy, Nowak, McCord, Hollander,
+  Duc, Omland, Storrow, Abraham, Wu, Clopton, Steg, Westheim, Wold~Knudsen,
+  Perez, Kazanegra, Herrmann, and McCullough]{maisel2002rapid}
+Alan~S. Maisel, Padma Krishnaswamy, Richard~M. Nowak, James McCord, Judd~E.
+  Hollander, Philippe Duc, Torbj{\o}rn Omland, Alan~B. Storrow, William~T.
+  Abraham, Alan H.~B. Wu, Paul Clopton, Philippe~G. Steg, Arne Westheim,
+  Catherine Wold~Knudsen, Alberto Perez, Radmila Kazanegra, Howard~C. Herrmann,
+  and Peter~A. McCullough.
+\newblock Rapid measurement of b-type natriuretic peptide in the emergency
+  diagnosis of heart failure.
+\newblock \emph{New England Journal of Medicine}, 347\penalty0 (3):\penalty0
+  161--167, 2002.
+\newblock \doi{10.1056/nejmoa020233}.
+
+\bibitem[Januzzi et~al.(2005)Januzzi, Camargo, Anwaruddin, Baggish, Chen,
+  Krauser, Tung, Cameron, Nagurney, Chae, Lloyd-Jones, Brown, Foran-Melanson,
+  Sluss, Lee-Lewandrowski, and Lewandrowski]{januzzi2005nterminal}
+James~L. Januzzi, Carlos~A. Camargo, Saif Anwaruddin, Aaron~L. Baggish,
+  Annabel~A. Chen, Daniel~G. Krauser, Roderick Tung, Renee Cameron, J.~Tobias
+  Nagurney, Claudia~U. Chae, Donald~M. Lloyd-Jones, David~F. Brown, Stacy
+  Foran-Melanson, Patrick~M. Sluss, Elizabeth Lee-Lewandrowski, and Kent~B.
+  Lewandrowski.
+\newblock The n-terminal pro-bnp investigation of dyspnea in the emergency
+  department (pride) study.
+\newblock \emph{The American Journal of Cardiology}, 95\penalty0 (8):\penalty0
+  948--954, 2005.
+\newblock \doi{10.1016/j.amjcard.2004.12.032}.
+
+\bibitem[McDonagh et~al.(2021)McDonagh, Metra, Adamo, Gardner, Baumbach,
+  B{\"o}hm, Burri, Butler, {\v{C}}elutkien{\.e}, Chioncel, Cleland, Coats,
+  Crespo-Leiro, Farmakis, Gilard, Heymans, Hoes, Jaarsma, Jankowska, Lainscak,
+  Lam, Lyon, McMurray, Mebazaa, Mindham, et~al.]{mcdonagh2021esc}
+Theresa~A. McDonagh, Marco Metra, Marianna Adamo, Roy~S. Gardner, Andreas
+  Baumbach, Michael B{\"o}hm, Haran Burri, Javed Butler, Jelena
+  {\v{C}}elutkien{\.e}, Ovidiu Chioncel, John G.~F. Cleland, Andrew J.~S.
+  Coats, Maria~G. Crespo-Leiro, Dimitrios Farmakis, Martine Gilard, Stephane
+  Heymans, Arno~W. Hoes, Tiny Jaarsma, Ewa~A. Jankowska, Mitja Lainscak,
+  Carolyn S.~P. Lam, Alexander~R. Lyon, John J.~V. McMurray, Alexandre Mebazaa,
+  Richard Mindham, et~al.
+\newblock 2021 esc guidelines for the diagnosis and treatment of acute and
+  chronic heart failure: developed by the task force for the diagnosis and
+  treatment of acute and chronic heart failure of the european society of
+  cardiology (esc). with the special contribution of the heart failure
+  association (hfa) of the esc.
+\newblock \emph{European Heart Journal}, 42\penalty0 (36):\penalty0 3599--3726,
+  2021.
+\newblock \doi{10.1093/eurheartj/ehab368}.
+
+\bibitem[Ponikowski et~al.(2016)Ponikowski, Voors, Anker, Bueno, Cleland,
+  Coats, Falk, Gonz{\'a}lez-Juanatey, Harjola, Jankowska, Jessup, Linde,
+  Nihoyannopoulos, Parissis, Pieske, Riley, Rosano, Ruilope, Ruschitzka,
+  Rutten, and van~der Meer]{ponikowski2016esc}
+Piotr Ponikowski, Adriaan~A. Voors, Stefan~D. Anker, H{\'e}ctor Bueno, John
+  G.~F. Cleland, Andrew J.~S. Coats, Volkmar Falk, Jos{\'e}~Ram{\'o}n
+  Gonz{\'a}lez-Juanatey, Veli-Pekka Harjola, Ewa~A. Jankowska, Mariell Jessup,
+  Cecilia Linde, Petros Nihoyannopoulos, John~T. Parissis, Burkert Pieske,
+  Jillian~P. Riley, Giuseppe M.~C. Rosano, Luis~M. Ruilope, Frank Ruschitzka,
+  Frans~H. Rutten, and Peter van~der Meer.
+\newblock 2016 esc guidelines for the diagnosis and treatment of acute and
+  chronic heart failure: the task force for the diagnosis and treatment of
+  acute and chronic heart failure of the european society of cardiology (esc).
+  developed with the special contribution of the heart failure association
+  (hfa) of the esc.
+\newblock \emph{European Heart Journal}, 37\penalty0 (27):\penalty0 2129--2200,
+  2016.
+\newblock \doi{10.1093/eurheartj/ehw128}.
+
+\bibitem[Yancy et~al.(2017)Yancy, Jessup, Bozkurt, Butler, Casey, Colvin,
+  Drazner, Filippatos, Fonarow, Givertz, Hollenberg, Lindenfeld, Masoudi,
+  McBride, Peterson, Stevenson, and Westlake]{yancy2017acc}
+Clyde~W. Yancy, Mariell Jessup, Biykem Bozkurt, Javed Butler, Donald~E. Casey,
+  Monica~M. Colvin, Mark~H. Drazner, Gerasimos~S. Filippatos, Gregg~C. Fonarow,
+  Michael~M. Givertz, Steven~M. Hollenberg, JoAnn Lindenfeld, Frederick~A.
+  Masoudi, Patrick~E. McBride, Pamela~N. Peterson, Lynne~Warner Stevenson, and
+  Cheryl Westlake.
+\newblock 2017 acc/aha/hfsa focused update of the 2013 accf/aha guideline for
+  the management of heart failure: a report of the american college of
+  cardiology/american heart association task force on clinical practice
+  guidelines and the heart failure society of america.
+\newblock \emph{Journal of the American College of Cardiology}, 70\penalty0
+  (6):\penalty0 776--803, 2017.
+\newblock \doi{10.1016/j.jacc.2017.04.025}.
+
+\bibitem[Mueller et~al.(2019)Mueller, McDonald, de~Boer, Maisel, Cleland,
+  Kozhuharov, Coats, Metra, Mebazaa, Ruschitzka, Lainscak, Filippatos,
+  Seferovic, Meijers, Bayes-Genis, Mueller, Richards, and
+  Januzzi]{mueller2019heart}
+Christian Mueller, Kenneth McDonald, Rudolf~A. de~Boer, Alan Maisel, John G.~F.
+  Cleland, Nikola Kozhuharov, Andrew J.~S. Coats, Marco Metra, Alexandre
+  Mebazaa, Frank Ruschitzka, Mitja Lainscak, Gerasimos Filippatos, Petar~M.
+  Seferovic, Wouter~C. Meijers, Antoni Bayes-Genis, Thomas Mueller, Mark
+  Richards, and James~L. Januzzi.
+\newblock Heart failure association of the european society of cardiology
+  practical guidance on the use of natriuretic peptide concentrations in heart
+  failure diagnosis, management and monitoring.
+\newblock \emph{European Journal of Heart Failure}, 21\penalty0 (6):\penalty0
+  715--731, 2019.
+\newblock \doi{10.1002/ejhf.1494}.
+
+\end{thebibliography}

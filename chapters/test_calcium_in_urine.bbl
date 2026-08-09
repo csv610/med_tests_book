@@ -1,0 +1,31 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pak(1979)]{pak1979}
+Charles Y.~C. Pak.
+\newblock Physiological basis for absorptive and renal hypercalciurias.
+\newblock \emph{American Journal of Physiology}, 237\penalty0 (6):\penalty0
+  F415--F423, 1979.
+\newblock \doi{10.1152/ajprenal.1979.237.6.F415}.
+
+\bibitem[Pearle et~al.(2014)Pearle, Goldfarb, Assimos, Curhan, Denu-Ciocca,
+  Matlaga, Monga, Penniston, Preminger, Turk, et~al.]{pearle2014}
+Margaret~S. Pearle, David~S. Goldfarb, Dean~G. Assimos, Gary Curhan, Cynthia~J.
+  Denu-Ciocca, Brian~R. Matlaga, Manoj Monga, Kristina~L. Penniston, Glenn~M.
+  Preminger, Thomas~M. Turk, et~al.
+\newblock Medical management of kidney stones: {AUA} guideline.
+\newblock \emph{Journal of Urology}, 192\penalty0 (2):\penalty0 316--324, 2014.
+\newblock \doi{10.1016/j.juro.2014.05.006}.
+
+\bibitem[Worcester and Coe(2010)]{worcester2010}
+Elaine~M. Worcester and Fredric~L. Coe.
+\newblock Calcium kidney stones.
+\newblock \emph{New England Journal of Medicine}, 363\penalty0 (10):\penalty0
+  954--963, 2010.
+\newblock \doi{10.1056/NEJMcp1001011}.
+
+\end{thebibliography}

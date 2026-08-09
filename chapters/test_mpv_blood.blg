@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_mpv_blood.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 8 entries,
+            2481 wiz_defined-function locations,
+            601 strings with 5984 characters,
+and the built_in function-call counts, 3138 in all, are:
+= -- 226
+> -- 227
+< -- 2
++ -- 84
+- -- 68
+* -- 270
+:= -- 543
+add.period$ -- 26
+call.type$ -- 8
+change.case$ -- 16
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 154
+empty$ -- 261
+format.name$ -- 78
+if$ -- 641
+int.to.chr$ -- 1
+int.to.str$ -- 9
+missing$ -- 13
+newline$ -- 50
+num.names$ -- 25
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 78
+stack$ -- 0
+substring$ -- 66
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 38
+warning$ -- 0
+while$ -- 20
+width$ -- 0
+write$ -- 120

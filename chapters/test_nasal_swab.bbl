@@ -1,0 +1,65 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wertheim et~al.(2005)Wertheim, Melles, Vos, van Leeuwen, van Belkum,
+  Verbrugh, and Nouwen]{wertheim2005role}
+Heiman F.~L. Wertheim, Damian~C. Melles, Margreet~C. Vos, Willem van Leeuwen,
+  Alex van Belkum, Henri~A. Verbrugh, and Jan~L. Nouwen.
+\newblock The role of nasal carriage in staphylococcus aureus infections.
+\newblock \emph{The Lancet Infectious Diseases}, 5\penalty0 (12):\penalty0
+  751--762, 2005.
+\newblock \doi{10.1016/s1473-3099(05)70295-4}.
+
+\bibitem[Calfee et~al.(2014)Calfee, Salgado, Milstone, Harris, Kuhar, Moody,
+  Aureden, Huang, Maragakis, and Yokoe]{calfee2014strategies}
+David~P. Calfee, Cassandra~D. Salgado, Aaron~M. Milstone, Anthony~D. Harris,
+  David~T. Kuhar, Julia Moody, Kathy Aureden, Susan~S. Huang, Lisa~L.
+  Maragakis, and Deborah~S. Yokoe.
+\newblock Strategies to prevent methicillin-resistant staphylococcus aureus
+  transmission and infection in acute care hospitals: 2014 update.
+\newblock \emph{Infection Control and Hospital Epidemiology}, 35\penalty0
+  (7):\penalty0 772--796, 2014.
+\newblock \doi{10.1086/676534}.
+
+\bibitem[Safdar et~al.(2006)Safdar, Marx, Meyer, and
+  Maki]{safdar2006effectiveness}
+Nasia Safdar, John Marx, Nicholas~A. Meyer, and Dennis~G. Maki.
+\newblock Effectiveness of preemptive barrier precautions in controlling
+  nosocomial colonization and infection by methicillin-resistant staphylococcus
+  aureus in a burn unit.
+\newblock \emph{American Journal of Infection Control}, 34\penalty0
+  (8):\penalty0 476--483, 2006.
+\newblock \doi{10.1016/j.ajic.2006.01.011}.
+
+\bibitem[Bode et~al.(2010)Bode, Kluytmans, Wertheim, Bogaers,
+  Vandenbroucke-Grauls, Roosendaal, Troelstra, Box, Voss, van~der Tweel, van
+  Belkum, Verbrugh, and Vos]{bode2010preventing}
+Lonneke G.~M. Bode, Jan A. J.~W. Kluytmans, Heiman F.~L. Wertheim, Diana
+  Bogaers, Christina M. J.~E. Vandenbroucke-Grauls, Robert Roosendaal, Annet
+  Troelstra, Adrienne T.~A. Box, Andreas Voss, Ingeborg van~der Tweel, Alex van
+  Belkum, Henri~A. Verbrugh, and Margreet~C. Vos.
+\newblock Preventing surgical-site infections in nasal carriers of
+  staphylococcus aureus.
+\newblock \emph{New England Journal of Medicine}, 362\penalty0 (1):\penalty0
+  9--17, 2010.
+\newblock \doi{10.1056/nejmoa0808939}.
+
+\bibitem[Huang et~al.(2013)Huang, Septimus, Kleinman, Moody, Hickok, Avery,
+  Lankiewicz, Gombosev, Terpstra, Hartford, Hayden, Jernigan, Weinstein,
+  Fraser, Haffenreffer, Cui, Kaganov, Lolans, Perlin, and
+  Platt]{huang2013targeted}
+Susan~S. Huang, Edward Septimus, Ken Kleinman, Julia Moody, Jason Hickok,
+  Taliser~R. Avery, Julie Lankiewicz, Adrijana Gombosev, Leah Terpstra, Fallon
+  Hartford, Mary~K. Hayden, John~A. Jernigan, Robert~A. Weinstein, Victoria~J.
+  Fraser, Katherine Haffenreffer, Eric Cui, Rebecca~E. Kaganov, Karen Lolans,
+  Jonathan~B. Perlin, and Richard Platt.
+\newblock Targeted versus universal decolonization to prevent icu infection.
+\newblock \emph{New England Journal of Medicine}, 368\penalty0 (24):\penalty0
+  2255--2265, 2013.
+\newblock \doi{10.1056/nejmoa1207290}.
+
+\end{thebibliography}

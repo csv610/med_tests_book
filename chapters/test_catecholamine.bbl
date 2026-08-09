@@ -1,0 +1,28 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lenders et~al.(2002)Lenders, Pacak, Walther, Linehan, Mannelli,
+  Friberg, Keiser, Goldstein, and Eisenhofer]{lenders2002}
+Jacques W.~M. Lenders, Karel Pacak, McClellan~M. Walther, W.~Marston Linehan,
+  Massimo Mannelli, Peter Friberg, Harry~R. Keiser, David~S. Goldstein, and
+  Graeme Eisenhofer.
+\newblock Biochemical diagnosis of pheochromocytoma: which test is best?
+\newblock \emph{JAMA}, 287\penalty0 (11):\penalty0 1427--1434, 2002.
+\newblock \doi{10.1001/jama.287.11.1427}.
+
+\bibitem[Lenders et~al.(2014)Lenders, Duh, Eisenhofer, Gimenez-Roqueplo, Grebe,
+  Murad, Naruse, Pacak, and Young]{lenders2014}
+Jacques W.~M. Lenders, Quan-Yang Duh, Graeme Eisenhofer, Anne-Paule
+  Gimenez-Roqueplo, Stefan K.~G. Grebe, M.~Hassan Murad, Mitsuhide Naruse,
+  Karel Pacak, and William~F. Young.
+\newblock Pheochromocytoma and paraganglioma: an {Endocrine Society} clinical
+  practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 99\penalty0
+  (6):\penalty0 1915--1942, 2014.
+\newblock \doi{10.1210/jc.2014-1498}.
+
+\end{thebibliography}

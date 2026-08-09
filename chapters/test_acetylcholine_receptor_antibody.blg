@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_acetylcholine_receptor_antibody.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 6 entries,
+            2481 wiz_defined-function locations,
+            595 strings with 6653 characters,
+and the built_in function-call counts, 3817 in all, are:
+= -- 231
+> -- 406
+< -- 2
++ -- 142
+- -- 130
+* -- 418
+:= -- 699
+add.period$ -- 22
+call.type$ -- 6
+change.case$ -- 12
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 114
+empty$ -- 233
+format.name$ -- 138
+if$ -- 724
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 42
+num.names$ -- 18
+pop$ -- 38
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 64
+stack$ -- 0
+substring$ -- 174
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 42
+warning$ -- 0
+while$ -- 24
+width$ -- 0
+write$ -- 93

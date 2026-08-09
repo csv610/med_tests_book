@@ -1,0 +1,25 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Steiner et~al.(1967)Steiner, Cunningham, Spigelman, and
+  Aten]{steiner1967insulin}
+Donald~F. Steiner, Dennis Cunningham, Lillian Spigelman, and Brian Aten.
+\newblock Insulin biosynthesis: evidence for a precursor.
+\newblock \emph{Science}, 157\penalty0 (3789):\penalty0 697--700, 1967.
+\newblock \doi{10.1126/science.157.3789.697}.
+
+\bibitem[Cryer et~al.(2009)Cryer, Axelrod, Grossman, Heller, Montori, Seaquist,
+  and Service]{cryer2009evaluation}
+Philip~E. Cryer, Lloyd Axelrod, Ashley~B. Grossman, Simon~R. Heller, Victor~M.
+  Montori, Elizabeth~R. Seaquist, and F.~John Service.
+\newblock Evaluation and management of adult hypoglycemic disorders: an
+  endocrine society clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 94\penalty0
+  (3):\penalty0 709--728, 2009.
+\newblock \doi{10.1210/jc.2008-1410}.
+
+\end{thebibliography}

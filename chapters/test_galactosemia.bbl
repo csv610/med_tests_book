@@ -1,0 +1,48 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kaye and {Committee on Genetics}(2006)]{kaye2006newborn}
+Celia~I. Kaye and {Committee on Genetics}.
+\newblock Newborn screening fact sheets.
+\newblock \emph{Pediatrics}, 118\penalty0 (3):\penalty0 e934--e963, 2006.
+\newblock \doi{10.1542/peds.2006-1783}.
+
+\bibitem[Beutler et~al.(1965)Beutler, Baluda, Sturgeon, and
+  Day]{beutler1965new}
+Ernest Beutler, Maryellen~C. Baluda, Phillip Sturgeon, and Robert Day.
+\newblock A new genetic abnormality resulting in galactose-1-phosphate
+  uridyltransferase deficiency.
+\newblock \emph{The Lancet}, 1\penalty0 (7381):\penalty0 353--354, 1965.
+
+\bibitem[Fridovich-Keil and Walter(2019)]{fridovichkeil2019galactosemia}
+Judith~L. Fridovich-Keil and John~H. Walter.
+\newblock Galactosemia.
+\newblock In \emph{The Online Metabolic and Molecular Bases of Inherited
+  Disease}. McGraw-Hill, New York, 2019.
+
+\bibitem[Berry(2012)]{berry2012galactosemia}
+Gerard~T. Berry.
+\newblock Galactosemia: when is it a newborn screening emergency?
+\newblock \emph{Molecular Genetics and Metabolism}, 106\penalty0 (1):\penalty0
+  7--11, 2012.
+\newblock \doi{10.1016/j.ymgme.2012.03.007}.
+
+\bibitem[Welling et~al.(2017)Welling, Bernstein, Berry,
+  et~al.]{welling2017international}
+Laura Welling, Laurie~E. Bernstein, Gerard~T. Berry, et~al.
+\newblock International clinical guideline for the management of classical
+  galactosemia: diagnosis, treatment, and follow-up.
+\newblock \emph{Journal of Inherited Metabolic Disease}, 40\penalty0
+  (2):\penalty0 171--176, 2017.
+\newblock \doi{10.1007/s10545-016-9990-5}.
+
+\bibitem[Berry(2021)]{berry2021classic}
+Gerard~T. Berry.
+\newblock Classic galactosemia and clinical variant galactosemia.
+\newblock In \emph{GeneReviews}. University of Washington, Seattle, WA, 2021.
+
+\end{thebibliography}

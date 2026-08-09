@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cohen(2000)]{cohen2000epstein}
+Jeffrey~I. Cohen.
+\newblock Epstein-barr virus infection.
+\newblock \emph{New England Journal of Medicine}, 343\penalty0 (7):\penalty0
+  481--492, 2000.
+\newblock \doi{10.1056/nejm200008173430707}.
+
+\bibitem[Dunmire et~al.(2018)Dunmire, Verghese, and
+  Balfour]{dunmire2018primary}
+Samantha~K. Dunmire, Priya~S. Verghese, and Henry~H. Balfour.
+\newblock Primary epstein-barr virus infection.
+\newblock \emph{Journal of Clinical Virology}, 102:\penalty0 84--92, 2018.
+\newblock \doi{10.1016/j.jcv.2018.03.001}.
+
+\bibitem[Ebell(2004)]{ebell2004epstein}
+Mark~H. Ebell.
+\newblock Epstein-barr virus infectious mononucleosis.
+\newblock \emph{American Family Physician}, 70\penalty0 (7):\penalty0
+  1279--1287, 2004.
+
+\bibitem[Luzuriaga and Sullivan(2010)]{luzuriaga2010infectious}
+Katherine Luzuriaga and John~L. Sullivan.
+\newblock Infectious mononucleosis.
+\newblock \emph{New England Journal of Medicine}, 362\penalty0 (21):\penalty0
+  1993--2000, 2010.
+\newblock \doi{10.1056/nejmcp1001116}.
+
+\bibitem[Klutts et~al.(2009)Klutts, Ford, Perez, and
+  Gronowski]{klutts2009evidence}
+J.~S. Klutts, B.~A. Ford, N.~R. Perez, and A.~M. Gronowski.
+\newblock Evidence-based approach for interpretation of epstein-barr virus
+  serological patterns.
+\newblock \emph{Journal of Clinical Microbiology}, 47\penalty0 (10):\penalty0
+  3204--3210, 2009.
+\newblock \doi{10.1128/jcm.00164-09}.
+
+\end{thebibliography}

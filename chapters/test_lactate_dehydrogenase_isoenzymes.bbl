@@ -1,0 +1,58 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Panteghini and Bais(2023)]{panteghini2023serum}
+Mauro Panteghini and Renze Bais.
+\newblock Serum enzymes.
+\newblock In Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors,
+  \emph{Tietz Textbook of Clinical Chemistry and Molecular Diagnostics}, pages
+  402--448. Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Bais and Philcox(1994)]{bais1994approved}
+Renze Bais and Margaret~C. Philcox.
+\newblock Approved recommendation on {IFCC} methods for the measurement of
+  catalytic concentration of enzymes. part 8. {IFCC} method for lactate
+  dehydrogenase ({L}-lactate:{NAD$^{+}$} oxidoreductase, {EC} 1.1.1.27).
+\newblock \emph{European Journal of Clinical Chemistry and Clinical
+  Biochemistry}, 32\penalty0 (8):\penalty0 639--655, 1994.
+\newblock \doi{10.1515/cclm.1994.32.8.639}.
+
+\bibitem[Vesell and Bearn(1957)]{vesell1957localization}
+Elliot~S. Vesell and Alexander~G. Bearn.
+\newblock Localization of lactic acid dehydrogenase activity in serum
+  fractions.
+\newblock \emph{Proceedings of the Society for Experimental Biology and
+  Medicine}, 94\penalty0 (1):\penalty0 96--99, 1957.
+\newblock \doi{10.3181/00379727-94-22866}.
+
+\bibitem[Lott and Stang(1980)]{lott1980serum}
+John~A. Lott and Jay~M. Stang.
+\newblock Serum enzymes and isoenzymes in the diagnosis and differential
+  diagnosis of myocardial ischemia and necrosis.
+\newblock \emph{Clinical Chemistry}, 26\penalty0 (9):\penalty0 1241--1250,
+  1980.
+\newblock \doi{10.1093/clinchem/26.9.1241}.
+
+\bibitem[Wolf(1986)]{wolf1986interpretation}
+Paul~L. Wolf.
+\newblock Interpretation of lactate dehydrogenase isoenzymes.
+\newblock \emph{Clinics in Laboratory Medicine}, 6\penalty0 (3):\penalty0
+  541--545, 1986.
+\newblock \doi{10.1016/S0272-2712(18)30799-6}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

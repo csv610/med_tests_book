@@ -1,0 +1,61 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Midgley(1967)]{midgley1967radioimmunoassay}
+A.~Rees~Jr Midgley.
+\newblock Radioimmunoassay for human follicle-stimulating hormone.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 27\penalty0
+  (2):\penalty0 295--299, 1967.
+\newblock \doi{10.1210/jcem-27-2-295}.
+
+\bibitem[{Practice Committee of the American Society for Reproductive
+  Medicine}(2020)]{asrm2020testing}
+{Practice Committee of the American Society for Reproductive Medicine}.
+\newblock Testing and interpreting measures of ovarian reserve: a committee
+  opinion.
+\newblock \emph{Fertility and Sterility}, 114\penalty0 (6):\penalty0
+  1151--1157, 2020.
+\newblock \doi{10.1016/j.fertnstert.2020.09.134}.
+
+\bibitem[Webber et~al.(2016)Webber, Davies, Anderson, et~al.]{webber2016eshre}
+L.~Webber, M.~Davies, R.~Anderson, et~al.
+\newblock Eshre guideline: management of women with premature ovarian
+  insufficiency.
+\newblock \emph{Human Reproduction}, 31\penalty0 (5):\penalty0 926--937, 2016.
+\newblock \doi{10.1093/humrep/dew027}.
+
+\bibitem[{Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop
+  Group}(2004)]{rotterdam2004revised}
+{Rotterdam ESHRE/ASRM-Sponsored PCOS Consensus Workshop Group}.
+\newblock Revised 2003 consensus on diagnostic criteria and long-term health
+  risks related to polycystic ovary syndrome.
+\newblock \emph{Fertility and Sterility}, 81\penalty0 (1):\penalty0 19--25,
+  2004.
+\newblock \doi{10.1016/j.fertnstert.2003.10.004}.
+
+\bibitem[Bhasin et~al.(2018)Bhasin, Brito, Cunningham,
+  et~al.]{bhasin2018testosterone}
+Shalender Bhasin, Juan~P. Brito, Glenn~R. Cunningham, et~al.
+\newblock Testosterone therapy in men with hypogonadism: an endocrine society
+  clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 103\penalty0
+  (5):\penalty0 1715--1744, 2018.
+\newblock \doi{10.1210/jc.2018-00229}.
+
+\bibitem[Burger(2018)]{burger2018physiology}
+Henry~G. Burger.
+\newblock The physiology and pathophysiology of inhibin.
+\newblock \emph{Molecular and Cellular Endocrinology}, 470:\penalty0 1--11,
+  2018.
+
+\end{thebibliography}

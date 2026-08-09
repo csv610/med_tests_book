@@ -1,0 +1,50 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Lebwohl et~al.(2018)Lebwohl, Sanders, and Green]{lebwohl2018coeliac}
+Benjamin Lebwohl, David~S. Sanders, and Peter H.~R. Green.
+\newblock Coeliac disease.
+\newblock \emph{The Lancet}, 391\penalty0 (10115):\penalty0 70--81, 2018.
+\newblock \doi{10.1016/S0140-6736(17)31796-8}.
+
+\bibitem[Rubio-Tapia et~al.(2013)Rubio-Tapia, Hill, Kelly, Calderwood, and
+  Murray]{rubiotapia2013acg}
+Alberto Rubio-Tapia, Ivor~D. Hill, Ciaran~P. Kelly, Audrey~H. Calderwood, and
+  Joseph~A. Murray.
+\newblock Acg clinical guidelines: diagnosis and management of celiac disease.
+\newblock \emph{American Journal of Gastroenterology}, 108\penalty0
+  (5):\penalty0 656--676, 2013.
+\newblock \doi{10.1038/ajg.2013.79}.
+
+\bibitem[Husby et~al.(2012)Husby, Koletzko, Korponay-Szabo,
+  et~al.]{husby2012espghan}
+Steffen Husby, Sibylle Koletzko, Ilma~R. Korponay-Szabo, et~al.
+\newblock European society paediatric gastroenterology, hepatology and
+  nutrition guidelines for the diagnosis of coeliac disease.
+\newblock \emph{Journal of Pediatric Gastroenterology and Nutrition},
+  54\penalty0 (1):\penalty0 136--160, 2012.
+\newblock \doi{10.1097/MPG.0b013e31821a23d0}.
+
+\bibitem[Dieterich et~al.(1997)Dieterich, Ehnis, Bauer, Donner, Volta, Riecken,
+  and Schuppan]{dieterich1997identification}
+Walburga Dieterich, Thomas Ehnis, Michael Bauer, Peter Donner, Umberto Volta,
+  Ernst~Otto Riecken, and Detlef Schuppan.
+\newblock Identification of tissue transglutaminase as the autoantigen of
+  celiac disease.
+\newblock \emph{Nature Medicine}, 3\penalty0 (7):\penalty0 797--801, 1997.
+\newblock \doi{10.1038/nm0797-797}.
+
+\bibitem[Al-Toma et~al.(2019)Al-Toma, Volta, Auricchio,
+  et~al.]{altoma2019european}
+Abdulbaqi Al-Toma, Umberto Volta, Renata Auricchio, et~al.
+\newblock European society for the study of coeliac disease (esscd) guideline
+  for coeliac disease and other gluten-related disorders.
+\newblock \emph{United European Gastroenterology Journal}, 7\penalty0
+  (5):\penalty0 583--613, 2019.
+\newblock \doi{10.1177/2050640619844125}.
+
+\end{thebibliography}

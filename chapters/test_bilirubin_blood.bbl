@@ -1,0 +1,33 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[van~den Bergh and M{\"u}ller(1916)]{vandenbergh1916uber}
+A.~A.~Hijmans van~den Bergh and P.~M{\"u}ller.
+\newblock {\"U}ber eine direkte und eine indirekte diazoreaktion auf bilirubin.
+\newblock \emph{Biochemische Zeitschrift}, 77:\penalty0 90--103, 1916.
+
+\bibitem[Cremer et~al.(1958)Cremer, Perryman, and
+  Richards]{cremer1958influence}
+Richard~J. Cremer, P.~W. Perryman, and Duncan~H. Richards.
+\newblock Influence of light on the hyperbilirubinaemia of infants.
+\newblock \emph{The Lancet}, 271\penalty0 (7030):\penalty0 1094--1097, 1958.
+\newblock \doi{10.1016/S0140-6736(58)91849-x}.
+
+\bibitem[Bosma et~al.(1995)Bosma, Chowdhury, Bakker, Gantla, de~Boer, Oostra,
+  Lindhout, Tytgat, Jansen, Oude~Elferink, van~der Meulen, Sarkar, and
+  Roy~Chowdhury]{bosma1995genetic}
+Piter~J. Bosma, Jayanta~Roy Chowdhury, Conny Bakker, Srinivas Gantla, Arie
+  de~Boer, Ben~A. Oostra, Dick Lindhout, Guido N.~J. Tytgat, Peter L.~M.
+  Jansen, Ronald P.~J. Oude~Elferink, Andries~B. van~der Meulen, Saswati
+  Sarkar, and Namita Roy~Chowdhury.
+\newblock The genetic basis of the reduced expression of bilirubin
+  {UDP}-glucuronosyltransferase 1 in {Gilbert}'s syndrome.
+\newblock \emph{New England Journal of Medicine}, 333\penalty0 (18):\penalty0
+  1171--1175, 1995.
+\newblock \doi{10.1056/NEJM199511023331802}.
+
+\end{thebibliography}

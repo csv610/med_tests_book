@@ -1,0 +1,56 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kotton et~al.(2018)Kotton, Kumar, Caliendo, Huprikar, Chou,
+  Danziger-Isakov, Humar, et~al.]{kotton2018third}
+Camille~Nelson Kotton, Deepali Kumar, Angela~M. Caliendo, Shirish Huprikar,
+  Sunwen Chou, Lara Danziger-Isakov, Atul Humar, et~al.
+\newblock The third international consensus guidelines on the management of
+  cytomegalovirus in solid-organ transplantation.
+\newblock \emph{Transplantation}, 102\penalty0 (6):\penalty0 900--931, 2018.
+\newblock \doi{10.1097/TP.0000000000002191}.
+
+\bibitem[Boeckh and Ljungman(2009)]{boeckh2009how}
+Michael Boeckh and Per Ljungman.
+\newblock How we treat cytomegalovirus in hematopoietic cell transplant
+  recipients.
+\newblock \emph{Blood}, 113\penalty0 (23):\penalty0 5711--5719, 2009.
+\newblock \doi{10.1182/blood-2008-10-143560}.
+
+\bibitem[Rawlinson et~al.(2017)Rawlinson, Boppana, Fowler, Kimberlin,
+  Lazzarotto, Alain, Daly, Vouris, Boeckh, et~al.]{rawlinson2017congenital}
+William~D. Rawlinson, Suresh~B. Boppana, Karen~B. Fowler, David~W. Kimberlin,
+  Tiziana Lazzarotto, Sophie Alain, Kylie Daly, Soren Vouris, Michael Boeckh,
+  et~al.
+\newblock Congenital cytomegalovirus infection in pregnancy and the neonate:
+  consensus recommendations for prevention, diagnosis, and therapy.
+\newblock \emph{Lancet Infectious Diseases}, 17\penalty0 (6):\penalty0
+  e177--e188, 2017.
+\newblock \doi{10.1016/S1473-3099(17)30143-3}.
+
+\bibitem[Lazzarotto et~al.(2008)Lazzarotto, Guerra, Lanari, Gabrielli,
+  et~al.]{lazzarotto2008new}
+Tiziana Lazzarotto, Brunella Guerra, Marcello Lanari, Liliana Gabrielli, et~al.
+\newblock New advances in the diagnosis of congenital cytomegalovirus
+  infection.
+\newblock \emph{Journal of Clinical Virology}, 41\penalty0 (3):\penalty0
+  192--197, 2008.
+\newblock \doi{10.1016/j.jcv.2007.10.015}.
+
+\bibitem[Ljungman et~al.(2019)Ljungman, de~la Camara, Robin, Crocchiolo,
+  Einsele, Hill, Husain, Kr{\"u}ger, Maertens, et~al.]{ljungman2019guidelines}
+Per Ljungman, Rafael de~la Camara, Christine Robin, Roberto Crocchiolo, Hermann
+  Einsele, Jonathan~A. Hill, Shahid Husain, William Kr{\"u}ger, Johan Maertens,
+  et~al.
+\newblock Guidelines for the management of cytomegalovirus infection in
+  patients with haematological malignancies and after stem cell
+  transplantation.
+\newblock \emph{Lancet Infectious Diseases}, 19\penalty0 (8):\penalty0
+  e260--e272, 2019.
+\newblock \doi{10.1016/S1473-3099(19)30107-0}.
+
+\end{thebibliography}

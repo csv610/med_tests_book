@@ -1,0 +1,56 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Misselwitz et~al.(2013)Misselwitz, Pohl, Fr{\"u}hauf, Fried, Vavricka,
+  and Fox]{misselwitz2013lactose}
+Benjamin Misselwitz, Daniel Pohl, Heiko Fr{\"u}hauf, Michael Fried, Stephan~R.
+  Vavricka, and Mark Fox.
+\newblock Lactose malabsorption and intolerance: pathogenesis, diagnosis and
+  treatment.
+\newblock \emph{United European Gastroenterology Journal}, 1\penalty0
+  (3):\penalty0 151--159, 2013.
+\newblock \doi{10.1177/2050640613484463}.
+
+\bibitem[Gasbarrini et~al.(2009)Gasbarrini, Corazza, Gasbarrini, Montalto,
+  Di~Stefano, Basilisco, Parodi, Usai-Satta, Vernia, Anania, Astegiano,
+  Barbara, Benini, Bonazzi, Capurso, Certo, Colecchia, Cuoco, Di~Sario, Festi,
+  Lauritano, Miceli, Pallini, Perri, Portincasa, Risicato, Sorge, and
+  Tursi]{gasbarrini2009methodology}
+Antonio Gasbarrini, Gino~Roberto Corazza, Giovanni Gasbarrini, Massimo
+  Montalto, Michele Di~Stefano, Guido Basilisco, Angelo Parodi, Paolo
+  Usai-Satta, Piero Vernia, Carmelo Anania, Marco Astegiano, Giovanni Barbara,
+  Luigi Benini, Paolo Bonazzi, Gabriele Capurso, Milena Certo, Antonio
+  Colecchia, Luigi Cuoco, Antonio Di~Sario, Davide Festi, Carlo Lauritano,
+  Emanuela Miceli, Franco Pallini, Francesco Perri, Piero Portincasa, Roberto
+  Risicato, Maurizio Sorge, and Antonio Tursi.
+\newblock Methodology and indications of {H$_2$}-breath testing in
+  gastrointestinal diseases: the rome consensus conference.
+\newblock \emph{Alimentary Pharmacology and Therapeutics}, 29\penalty0 (Suppl
+  1):\penalty0 1--49, 2009.
+\newblock \doi{10.1111/j.1365-2036.2009.03951.x}.
+
+\bibitem[Hammer et~al.(2022)Hammer, Fox, Keller, Salvatore, Basilisco, Hammer,
+  Lopetuso, Benninga, Borrelli, Dumitrascu, Goetze, Mulagic, Ngan, Suomalainen,
+  Tack, Tringali, Marlicz, Pohl, Simren, Camilleri, de~Ridder, Di~Sabatino,
+  D'Anna, Eusebi, Mulders, Petris, Rath, Rossi, Simren, Sarnelli, Sauter, Sels,
+  Stanghellini, Tack, Vanuytsel, and Ziniel]{hammer2022european}
+Heinz~F. Hammer, Mark~R. Fox, Jutta Keller, Silvia Salvatore, Guido Basilisco,
+  Johann Hammer, Loris Lopetuso, Marc Benninga, Osvaldo Borrelli, Dan
+  Dumitrascu, Oliver Goetze, Hans Mulagic, Sandy Ngan, Anssi Suomalainen, Jan
+  Tack, Alessandro Tringali, Wojciech Marlicz, Daniel Pohl, Magnus Simren,
+  Michael Camilleri, Laura de~Ridder, Antonio Di~Sabatino, Emanuela D'Anna,
+  Leonardo~H. Eusebi, Jackie Mulders, Paul Petris, Daniel Rath, Renato Rossi,
+  Magnus Simren, Giovanni Sarnelli, Andrea Sauter, Christian Sels, Vincenzo
+  Stanghellini, Jan Tack, Tim Vanuytsel, and Kurt Ziniel.
+\newblock European guideline on indications, performance, and clinical impact
+  of hydrogen and methane breath tests in adult and pediatric patients:
+  {EAGEN}, {ESNM}, and {ESPGHAN} consensus.
+\newblock \emph{United European Gastroenterology Journal}, 10\penalty0
+  (1):\penalty0 15--40, 2022.
+\newblock \doi{10.1002/ueg2.12133}.
+
+\end{thebibliography}

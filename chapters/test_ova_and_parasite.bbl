@@ -1,0 +1,56 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Garcia(2016)]{garcia2016diagnostic}
+Lynne~Shore Garcia.
+\newblock \emph{Diagnostic Medical Parasitology}.
+\newblock ASM Press, 6th edition, 2016.
+
+\bibitem[for Disease~Control and Prevention(2024)]{cdc2024dpdx}
+Centers for Disease~Control and Prevention.
+\newblock Dpdx --- laboratory identification of parasites of public health
+  concern.
+\newblock CDC, 2024.
+
+\bibitem[McHardy et~al.(2014)McHardy, Wu, Shimizu-Cohen, Couturier, and
+  Humphries]{mchardy2014detection}
+Ian~H. McHardy, Max Wu, Robyn Shimizu-Cohen, Marc~Roger Couturier, and
+  Romney~M. Humphries.
+\newblock Detection of intestinal protozoa in the clinical laboratory.
+\newblock \emph{Journal of Clinical Microbiology}, 52\penalty0 (3):\penalty0
+  712--720, 2014.
+\newblock \doi{10.1128/JCM.02877-13}.
+
+\bibitem[Garcia et~al.(2018)Garcia, Arrowood, Kokoskin, Paltridge, Pillai,
+  Procop, Ryan, Shimizu, and Visvesvara]{garcia2018practical}
+Lynne~S. Garcia, Michael Arrowood, Evelyne Kokoskin, Graeme~P. Paltridge,
+  Dylan~R. Pillai, Gary~W. Procop, Norbert Ryan, Robyn~Y. Shimizu, and Govinda
+  Visvesvara.
+\newblock Practical guidance for clinical microbiology laboratories: Laboratory
+  diagnosis of parasites from the gastrointestinal tract.
+\newblock \emph{Clinical Microbiology Reviews}, 31\penalty0 (1):\penalty0
+  e00025--17, 2018.
+\newblock \doi{10.1128/CMR.00025-17}.
+
+\bibitem[Checkley et~al.(2015)Checkley, White, Jaganath, Arrowood, Chalmers,
+  Chen, Fayer, Griffiths, Guerrant, Hedstrom, Huston, Kotloff, Kang, Mead,
+  Miller, Petri, Priest, Roos, Striepen, Thompson, Ward, Van~Voorhis, Xiao,
+  Zhu, and Houpt]{checkley2015review}
+William Checkley, A.~Clinton White, Devan Jaganath, Michael~J. Arrowood,
+  Rachel~M. Chalmers, Xian-Ming Chen, Ronald Fayer, Jeffrey~K. Griffiths,
+  Richard~L. Guerrant, Lizbeth Hedstrom, Christopher~D. Huston, Karen~L.
+  Kotloff, Gagandeep Kang, Jan~R. Mead, Mark Miller, William~A. Petri,
+  Jeffrey~W. Priest, David~S. Roos, Boris Striepen, R.~C.~Andrew Thompson,
+  Honorine~D. Ward, Wesley~A. Van~Voorhis, Lihua Xiao, Guan Zhu, and Eric~R.
+  Houpt.
+\newblock A review of the global burden, novel diagnostics, therapeutics, and
+  vaccine targets for cryptosporidium.
+\newblock \emph{The Lancet Infectious Diseases}, 15\penalty0 (1):\penalty0
+  85--94, 2015.
+\newblock \doi{10.1016/S1473-3099(14)70772-8}.
+
+\end{thebibliography}

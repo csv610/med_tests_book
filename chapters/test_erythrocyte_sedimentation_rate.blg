@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_erythrocyte_sedimentation_rate.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 9 entries,
+            2481 wiz_defined-function locations,
+            614 strings with 5997 characters,
+and the built_in function-call counts, 3237 in all, are:
+= -- 281
+> -- 137
+< -- 6
++ -- 56
+- -- 38
+* -- 245
+:= -- 518
+add.period$ -- 29
+call.type$ -- 9
+change.case$ -- 18
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 175
+empty$ -- 317
+format.name$ -- 53
+if$ -- 686
+int.to.chr$ -- 1
+int.to.str$ -- 10
+missing$ -- 11
+newline$ -- 55
+num.names$ -- 29
+pop$ -- 73
+preamble$ -- 1
+purify$ -- 9
+quote$ -- 0
+skip$ -- 96
+stack$ -- 0
+substring$ -- 137
+swap$ -- 18
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 51
+warning$ -- 0
+while$ -- 28
+width$ -- 0
+write$ -- 132

@@ -1,0 +1,57 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Nelson and Bulun(2001)]{nelson2001estrogen}
+Linda~R. Nelson and Serdar~E. Bulun.
+\newblock Estrogen production and action.
+\newblock \emph{Journal of the American Academy of Dermatology}, 45\penalty0
+  (3):\penalty0 S116--S124, 2001.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Rosner et~al.(2013)Rosner, Hankinson, Sluss,
+  et~al.]{rosner2013challenges}
+William Rosner, Susan~E. Hankinson, Patrick~M. Sluss, et~al.
+\newblock Challenges to the measurement of estradiol: an endocrine society
+  position statement.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 98\penalty0
+  (4):\penalty0 1376--1387, 2013.
+\newblock \doi{10.1210/jc.2012-3780}.
+
+\bibitem[Wierman et~al.(2014)Wierman, Arlt, Basson, Davis, Miller, Murad,
+  Rosner, Santoro, et~al.]{wierman2014androgen}
+Margaret~E. Wierman, Wiebke Arlt, Rosemary Basson, Susan~R. Davis, Karen~K.
+  Miller, Mohammad~Hassan Murad, William Rosner, Nanette Santoro, et~al.
+\newblock Androgen therapy in women: an endocrine society clinical practice
+  guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 99\penalty0
+  (10):\penalty0 3489--3510, 2014.
+\newblock \doi{10.1210/jc.2014-2261}.
+
+\bibitem[Santen et~al.(2010)Santen, Allred, Ardoin,
+  et~al.]{santen2010postmenopausal}
+Richard~J. Santen, D.~Craig Allred, Susan~P. Ardoin, et~al.
+\newblock Postmenopausal hormone therapy: an endocrine society scientific
+  statement.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 95\penalty0
+  (7):\penalty0 S1--S66, 2010.
+\newblock \doi{10.1210/jc.2009-2509}.
+
+\bibitem[Bhasin et~al.(2018)Bhasin, Brito, Cunningham,
+  et~al.]{bhasin2018testosterone}
+Shalender Bhasin, Juan~P. Brito, Glenn~R. Cunningham, et~al.
+\newblock Testosterone therapy in men with hypogonadism: an endocrine society
+  clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 103\penalty0
+  (5):\penalty0 1715--1744, 2018.
+\newblock \doi{10.1210/jc.2018-00229}.
+
+\end{thebibliography}

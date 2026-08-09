@@ -1,0 +1,32 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ishizaka et~al.(1966)Ishizaka, Ishizaka, and
+  Hornbrook]{ishizaka1966physicochemical}
+Kimishige Ishizaka, Teruko Ishizaka, and Margaret~M. Hornbrook.
+\newblock Physico-chemical properties of human reaginic antibody. {IV}.
+  presence of a unique immunoglobulin as a carrier of reaginic activity.
+\newblock \emph{Journal of Immunology}, 97\penalty0 (1):\penalty0 75--85, 1966.
+
+\bibitem[Wide et~al.(1967)Wide, Bennich, and Johansson]{wide1967diagnosis}
+Leif Wide, Hans Bennich, and S.~G.~O. Johansson.
+\newblock Diagnosis of allergy by an in-vitro test for allergen antibodies.
+\newblock \emph{The Lancet}, 2\penalty0 (7526):\penalty0 1105--1107, 1967.
+\newblock \doi{10.1016/S0140-6736(67)90615-0}.
+
+\bibitem[Sampson et~al.(2014)Sampson, Aceves, Bock, James, Jones, Lang, Nadeau,
+  Nowak-Wegrzyn, Oppenheimer, Perry, Randolph, Sicherer, Simon, Vickery, and
+  Wood]{sampson2014food}
+Hugh~A. Sampson, Seema Aceves, S.~Allan Bock, John James, Stacie Jones, David
+  Lang, Kari Nadeau, Anna Nowak-Wegrzyn, John Oppenheimer, Tamara~T. Perry,
+  Christopher Randolph, Scott~H. Sicherer, Ronald~A. Simon, Brian~P. Vickery,
+  and Robert Wood.
+\newblock Food allergy: a practice parameter update-2014.
+\newblock \emph{Journal of Allergy and Clinical Immunology}, 134\penalty0
+  (5):\penalty0 1016--1025.e43, 2014.
+
+\end{thebibliography}

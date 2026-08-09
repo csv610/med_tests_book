@@ -1,0 +1,58 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[de~Baaij et~al.(2015)de~Baaij, Hoenderop, and
+  Bindels]{debaaij2015magnesium}
+Jeroen H.~F. de~Baaij, Joost G.~J. Hoenderop, and Ren{\'e} J.~M. Bindels.
+\newblock Magnesium in man: implications for health and disease.
+\newblock \emph{Physiological Reviews}, 95\penalty0 (1):\penalty0 1--46, 2015.
+\newblock \doi{10.1152/physrev.00012.2014}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Workinger et~al.(2018)Workinger, Doyle, and
+  Bortz]{workinger2018challenges}
+Jayme~L. Workinger, Robert~P. Doyle, and Jonathan Bortz.
+\newblock Challenges in the diagnosis of magnesium status.
+\newblock \emph{Nutrients}, 10\penalty0 (9):\penalty0 1202, 2018.
+\newblock \doi{10.3390/nu10091202}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Agus(1999)]{agus1999hypomagnesemia}
+Zalman~S. Agus.
+\newblock Hypomagnesemia.
+\newblock \emph{Journal of the American Society of Nephrology}, 10\penalty0
+  (7):\penalty0 1616--1622, 1999.
+\newblock \doi{10.1681/ASN.V1071616}.
+
+\bibitem[fda(2011)]{fda2011low}
+Low magnesium levels can be associated with long-term use of proton pump
+  inhibitor drugs ({PPIs}): Fda drug safety communication.
+\newblock US Food and Drug Administration, 2011.
+\newblock March 2011.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

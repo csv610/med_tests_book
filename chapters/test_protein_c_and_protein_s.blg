@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_protein_c_and_protein_s.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 10 entries,
+            2481 wiz_defined-function locations,
+            618 strings with 6097 characters,
+and the built_in function-call counts, 3748 in all, are:
+= -- 327
+> -- 171
+< -- 7
++ -- 68
+- -- 48
+* -- 289
+:= -- 606
+add.period$ -- 36
+call.type$ -- 10
+change.case$ -- 21
+chr.to.int$ -- 10
+cite$ -- 10
+duplicate$ -- 196
+empty$ -- 356
+format.name$ -- 66
+if$ -- 795
+int.to.chr$ -- 1
+int.to.str$ -- 11
+missing$ -- 13
+newline$ -- 63
+num.names$ -- 33
+pop$ -- 82
+preamble$ -- 1
+purify$ -- 10
+quote$ -- 0
+skip$ -- 106
+stack$ -- 0
+substring$ -- 151
+swap$ -- 20
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 58
+warning$ -- 0
+while$ -- 31
+width$ -- 0
+write$ -- 152

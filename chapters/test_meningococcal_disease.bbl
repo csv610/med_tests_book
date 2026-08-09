@@ -1,0 +1,56 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Stephens et~al.(2007)Stephens, Greenwood, and
+  Brandtzaeg]{stephens2007epidemic}
+David~S. Stephens, Brian Greenwood, and Petter Brandtzaeg.
+\newblock Epidemic meningitis, meningococcaemia, and neisseria meningitidis.
+\newblock \emph{The Lancet}, 369\penalty0 (9580):\penalty0 2196--2210, 2007.
+\newblock \doi{10.1016/s0140-6736(07)61016-2}.
+
+\bibitem[Borrow et~al.(2017)Borrow, Alarc{\'o}n, Carlos, Caugant, Christensen,
+  Debbag, De~Wals, Ech{\'a}niz-Aviles, Findlow, Head, Holt, Kamiya, Saha,
+  Sidorenko, Taha, Trotter, V{\'a}zquez~Moreno, von Gottberg, and
+  S{\'a}fadi]{borrow2017global}
+Ray Borrow, Pedro Alarc{\'o}n, Josefina Carlos, Dominique~A. Caugant, Hannah
+  Christensen, Roberto Debbag, Philippe De~Wals, Gabriela Ech{\'a}niz-Aviles,
+  Jamie Findlow, Chris Head, Daphne Holt, Hajime Kamiya, Samir~K. Saha, Sergey
+  Sidorenko, Muhamed-Kheir Taha, Caroline Trotter, Julio~A. V{\'a}zquez~Moreno,
+  Anne von Gottberg, and Marco A.~P. S{\'a}fadi.
+\newblock The global meningococcal initiative: global epidemiology, the impact
+  of vaccines on meningococcal disease and the importance of herd protection.
+\newblock \emph{Expert Review of Vaccines}, 16\penalty0 (4):\penalty0 313--328,
+  2017.
+\newblock \doi{10.1080/14760584.2017.1258308}.
+
+\bibitem[Brouwer et~al.(2010)Brouwer, Tunkel, and van~de
+  Beek]{brouwer2010epidemiology}
+Matthijs~C. Brouwer, Allan~R. Tunkel, and Diederik van~de Beek.
+\newblock Epidemiology, diagnosis, and antimicrobial treatment of acute
+  bacterial meningitis.
+\newblock \emph{Clinical Microbiology Reviews}, 23\penalty0 (3):\penalty0
+  467--492, 2010.
+\newblock \doi{10.1128/cmr.00070-09}.
+
+\bibitem[Cohn et~al.(2013)Cohn, MacNeil, Clark, Ortega-Sanchez, Briere,
+  Meissner, Baker, and Messonnier]{cohn2013prevention}
+A.~C. Cohn, J.~R. MacNeil, T.~A. Clark, I.~R. Ortega-Sanchez, E.~Z. Briere,
+  H.~C. Meissner, C.~J. Baker, and N.~E. Messonnier.
+\newblock Prevention and control of meningococcal disease: recommendations of
+  the advisory committee on immunization practices (acip).
+\newblock \emph{MMWR. Recommendations and Reports}, 62\penalty0
+  (RR-2):\penalty0 1--28, 2013.
+
+\bibitem[Tunkel et~al.(2004)Tunkel, Hartman, Kaplan,
+  et~al.]{tunkel2004practice}
+Allan~R. Tunkel, Barry~J. Hartman, Sheldon~L. Kaplan, et~al.
+\newblock Practice guidelines for the management of bacterial meningitis.
+\newblock \emph{Clinical Infectious Diseases}, 39\penalty0 (9):\penalty0
+  1267--1284, 2004.
+\newblock \doi{10.1086/425368}.
+
+\end{thebibliography}

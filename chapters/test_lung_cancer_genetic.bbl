@@ -1,0 +1,84 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[ncc(2024)]{nccn2024non}
+Nccn clinical practice guidelines in oncology: Non-small cell lung cancer.
+\newblock Version 5.2024, 2024.
+
+\bibitem[Lindeman et~al.(2018)Lindeman, Cagle, Aisner, Arcila, Beasley,
+  Bernicker, Colasacco, Dacic, Hirsch, Kerr, Kwiatkowski, Ladanyi, Nowak,
+  Sholl, Temple-Smolkin, Solomon, Souter, Thunnissen, Tsao, Ventura, Wynes, and
+  Yatabe]{lindeman2018updated}
+Neal~I. Lindeman, Philip~T. Cagle, Dara~L. Aisner, Maria~E. Arcila, Mary~Beth
+  Beasley, Eric~H. Bernicker, Carol Colasacco, Sanja Dacic, Fred~R. Hirsch,
+  Keith Kerr, David~J. Kwiatkowski, Marc Ladanyi, Jonathan~A. Nowak, Lynette
+  Sholl, Robyn Temple-Smolkin, Benjamin Solomon, Lesley~H. Souter, Erik
+  Thunnissen, Ming~S. Tsao, Christina~B. Ventura, Murry~W. Wynes, and Yasushi
+  Yatabe.
+\newblock Updated molecular testing guideline for the selection of lung cancer
+  patients for treatment with targeted tyrosine kinase inhibitors.
+\newblock \emph{Archives of Pathology and Laboratory Medicine}, 142\penalty0
+  (3):\penalty0 321--346, 2018.
+\newblock \doi{10.5858/arpa.2017-0388-CP}.
+
+\bibitem[Mok et~al.(2009)Mok, Wu, Thongprasert, Yang, Chu, Saijo,
+  Sunpaweravong, Han, Margono, Ichinose, Nishiwaki, Ohe, Yang, Chewaskulyong,
+  Jiang, Duffield, Watkins, Armour, and Fukuoka]{mok2009gefitinib}
+Tony~S. Mok, Yi-Long Wu, Sumitra Thongprasert, Chih-Hsin Yang, Da-Tong Chu,
+  Nagahiro Saijo, Pongpun Sunpaweravong, Baohui Han, Benjamin Margono, Yukito
+  Ichinose, Yutaka Nishiwaki, Yuichiro Ohe, Jin-Ji Yang, Busyamas
+  Chewaskulyong, Haiyi Jiang, Emma~L. Duffield, Claire~L. Watkins, Alison~A.
+  Armour, and Masahiro Fukuoka.
+\newblock Gefitinib or carboplatin-paclitaxel in pulmonary adenocarcinoma.
+\newblock \emph{New England Journal of Medicine}, 361\penalty0 (10):\penalty0
+  947--957, 2009.
+\newblock \doi{10.1056/NEJMoa0810699}.
+
+\bibitem[Soria et~al.(2018)Soria, Ohe, Vansteenkiste, Reungwetwattana,
+  Chewaskulyong, Lee, Dechaphunkul, Imamura, Nogami, Kurata, Okamoto, Zhou,
+  Cho, Cheng, Cho, Voon, Planchard, Su, Gray, Lee, Hodge, Marotti, Rukazenkov,
+  and Ramalingam]{soria2018osimertinib}
+Jean-Charles Soria, Yuichiro Ohe, Johan Vansteenkiste, Thanyanan
+  Reungwetwattana, Busyamas Chewaskulyong, Ki~Hyeong Lee, Arunee Dechaphunkul,
+  Fumio Imamura, Naoyuki Nogami, Takayasu Kurata, Isamu Okamoto, Caicun Zhou,
+  Byoung~Chul Cho, Ying Cheng, Eun~Kyung Cho, Pei~Jye Voon, David Planchard,
+  Wu-Chou Su, Jhanelle~E. Gray, Si-Min Lee, Rachel Hodge, Marcelo Marotti, Yuri
+  Rukazenkov, and Suresh~S. Ramalingam.
+\newblock Osimertinib in untreated {EGFR}-mutated advanced non-small-cell lung
+  cancer.
+\newblock \emph{New England Journal of Medicine}, 378\penalty0 (2):\penalty0
+  113--125, 2018.
+\newblock \doi{10.1056/NEJMoa1713137}.
+
+\bibitem[Peters et~al.(2017)Peters, Camidge, Shaw, Gadgeel, Ahn, Kim, Ou,
+  P{\'e}rol, Dziadziuszko, Rosell, Zeaiter, Mitry, Golding, Balbin, Noor,
+  Nokes, Barrett, Lin, Deuring, and Mok]{peters2017alectinib}
+Solange Peters, D.~Ross Camidge, Alice~T. Shaw, Shirish Gadgeel, Jin~S. Ahn,
+  Dong-Wan Kim, Sai-Hong~I. Ou, Maurice P{\'e}rol, Rafal Dziadziuszko, Rafael
+  Rosell, Ali Zeaiter, Emmanuel Mitry, Sophie Golding, Bartomeu Balbin, Zohra
+  Noor, Sabrina Nokes, J.~Carl Barrett, Yunxia Lin, Petra Deuring, and Tony
+  Mok.
+\newblock Alectinib versus crizotinib in untreated {ALK}-positive
+  non-small-cell lung cancer.
+\newblock \emph{New England Journal of Medicine}, 377\penalty0 (9):\penalty0
+  829--838, 2017.
+\newblock \doi{10.1056/NEJMoa1704795}.
+
+\bibitem[Skoulidis et~al.(2021)Skoulidis, Li, Dy, Price, Falchook, Wolf,
+  Italiano, Schuler, Borghaei, Barlesi, Kato, Okamoto, Griesinger, Kopp,
+  Azrilevich, Barlesi, Govindan, and Johnson]{skoulidis2021sotorasib}
+Ferdinandos Skoulidis, Bob~T. Li, Grace~K. Dy, Timothy~J. Price, Gerald~S.
+  Falchook, J{\"u}rgen Wolf, Antoine Italiano, Martin Schuler, Hossein
+  Borghaei, Fabrice Barlesi, Terufumi Kato, Isamu Okamoto, Frank Griesinger,
+  Hans-Georg Kopp, Alena Azrilevich, Fabrice Barlesi, Ramaswamy Govindan, and
+  Melissa~L. Johnson.
+\newblock Sotorasib for lung cancers with {KRAS} p.g12c mutation.
+\newblock \emph{New England Journal of Medicine}, 384\penalty0 (25):\penalty0
+  2371--2381, 2021.
+\newblock \doi{10.1056/NEJMoa2103695}.
+
+\end{thebibliography}

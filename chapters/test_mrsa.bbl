@@ -1,0 +1,63 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Huang et~al.(2013)Huang, Septimus, Kleinman, Moody, Hickok, Avery,
+  Lankiewicz, Gombosev, Terpstra, Hartford, Hayden, Jernigan, Weinstein,
+  Fraser, Haffenreffer, Cui, Kaganov, Lolans, Perlin, and
+  Platt]{huang2013targeted}
+Susan~S. Huang, Edward Septimus, Ken Kleinman, Julia Moody, Jason Hickok,
+  Taliser~R. Avery, Julie Lankiewicz, Adrijana Gombosev, Leah Terpstra, Fallon
+  Hartford, Mary~K. Hayden, John~A. Jernigan, Robert~A. Weinstein, Victoria~J.
+  Fraser, Katherine Haffenreffer, Eric Cui, Rebecca~E. Kaganov, Karen Lolans,
+  Jonathan~B. Perlin, and Richard Platt.
+\newblock Targeted versus universal decolonization to prevent icu infection.
+\newblock \emph{New England Journal of Medicine}, 368\penalty0 (24):\penalty0
+  2255--2265, 2013.
+\newblock \doi{10.1056/nejmoa1207290}.
+
+\bibitem[Parente et~al.(2018)Parente, Cunha, Mylonakis, and
+  Timbrook]{parente2018clinical}
+Diane~M. Parente, Cheston~B. Cunha, Eleftherios Mylonakis, and Tristan~T.
+  Timbrook.
+\newblock The clinical utility of methicillin-resistant staphylococcus aureus
+  (mrsa) nasal screening to rule out mrsa pneumonia: a diagnostic meta-analysis
+  with antimicrobial stewardship implications.
+\newblock \emph{Clinical Infectious Diseases}, 67\penalty0 (1):\penalty0 1--7,
+  2018.
+\newblock \doi{10.1093/cid/ciy024}.
+
+\bibitem[Calfee et~al.(2014)Calfee, Salgado, Milstone, Harris, Kuhar, Moody,
+  Aureden, Huang, Maragakis, and Yokoe]{calfee2014strategies}
+David~P. Calfee, Cassandra~D. Salgado, Aaron~M. Milstone, Anthony~D. Harris,
+  David~T. Kuhar, Julia Moody, Kathy Aureden, Susan~S. Huang, Lisa~L.
+  Maragakis, and Deborah~S. Yokoe.
+\newblock Strategies to prevent methicillin-resistant staphylococcus aureus
+  transmission and infection in acute care hospitals: 2014 update.
+\newblock \emph{Infection Control and Hospital Epidemiology}, 35\penalty0
+  (7):\penalty0 772--796, 2014.
+\newblock \doi{10.1086/676534}.
+
+\bibitem[Liu et~al.(2011)Liu, Bayer, Cosgrove, Daum, Fridkin, Gorwitz, Kaplan,
+  Karchmer, Levine, Murray, Rybak, Talan, and Chambers]{liu2011clinical}
+Catherine Liu, Arnold Bayer, Sara~E. Cosgrove, Robert~S. Daum, Scott~K.
+  Fridkin, Rachel~J. Gorwitz, Sheldon~L. Kaplan, Adolf~W. Karchmer, Donald~P.
+  Levine, Barbara~E. Murray, Michael~J. Rybak, David~A. Talan, and Henry~F.
+  Chambers.
+\newblock Clinical practice guidelines by the infectious diseases society of
+  america for the treatment of methicillin-resistant staphylococcus aureus
+  infections in adults and children.
+\newblock \emph{Clinical Infectious Diseases}, 52\penalty0 (3):\penalty0
+  e18--e55, 2011.
+\newblock \doi{10.1093/cid/ciq146}.
+
+\bibitem[Holland et~al.(2014)Holland, Arnold, and Fowler]{holland2014clinical}
+Thomas~L. Holland, Christopher Arnold, and Vance~G. Fowler.
+\newblock Clinical management of staphylococcus aureus bacteremia: a review.
+\newblock \emph{JAMA}, 312\penalty0 (13):\penalty0 1330--1341, 2014.
+\newblock \doi{10.1001/jama.2014.9743}.
+
+\end{thebibliography}

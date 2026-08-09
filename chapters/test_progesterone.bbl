@@ -1,0 +1,66 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Hoffman et~al.(2020)Hoffman, Schorge, Halvorson, Rouse, Schaffer, and
+  Corton]{hoffman2020williams}
+Barbara~L. Hoffman, John~O. Schorge, Lisa~M. Halvorson, Cherie~E. Rouse,
+  Joseph~I. Schaffer, and Marlene~M. Corton.
+\newblock \emph{Williams Gynecology}.
+\newblock McGraw-Hill, New York, 4th edition, 2020.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Speroff and Fritz(2011)]{speroff2011clinical}
+Leon Speroff and Marc~A. Fritz.
+\newblock \emph{Clinical Gynecologic Endocrinology and Infertility}.
+\newblock Lippincott Williams {\&} Wilkins, Philadelphia, 8th edition, 2011.
+
+\bibitem[Pisarska and Carson(1999)]{pisarska1999incidence}
+Margareta~D. Pisarska and Sandra~A. Carson.
+\newblock Incidence and risk factors for ectopic pregnancy.
+\newblock \emph{Clinical Obstetrics and Gynecology}, 42\penalty0 (1):\penalty0
+  2--8, 1999.
+\newblock \doi{10.1097/00003081-199903000-00004}.
+
+\bibitem[Daya(2009)]{daya2009luteal}
+Salim Daya.
+\newblock Luteal support: progestogens for pregnancy protection.
+\newblock \emph{Maturitas}, 65\penalty0 (Suppl 1):\penalty0 S29--S34, 2009.
+\newblock \doi{10.1016/j.maturitas.2009.09.012}.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Coomarasamy et~al.(2019)Coomarasamy, Devall, Cheed, Harb, Middleton,
+  Gallos, Williams, Eapen, Roberts, Ogwulu, Goranitis, Daniels, Ahmed,
+  Bender-Atik, Bhatia, Bottomley, Brewin, Choudhary, Crosfill, Deb, Duncan,
+  Ewer, Hinshaw, Holland, Izzat, Johns, Kriedt, Lumsden, Manda, Norman, Nunes,
+  Overton, Quenby, Rao, Ross, Shahid, Underwood, Vaithilingam, Watkins, Wykes,
+  Horne, and Jurkovic]{coomarasamy2019randomized}
+Arri Coomarasamy, Adam~J. Devall, Versha Cheed, Hoda Harb, Lee~J. Middleton,
+  Ioannis~D. Gallos, Helen Williams, Abey~K. Eapen, Tracy Roberts,
+  Chriscasimir~C. Ogwulu, Ilias Goranitis, Jane~P. Daniels, Amna Ahmed, Ruth
+  Bender-Atik, Kalsang Bhatia, Cecilia Bottomley, Jane Brewin, Meenakshi
+  Choudhary, Fiona Crosfill, Shilpa Deb, W.~Colin Duncan, Andrew Ewer, Kim
+  Hinshaw, Tom Holland, Feras Izzat, Jemma Johns, Kathiuska Kriedt, Mary-Ann
+  Lumsden, Padma Manda, Jane~E. Norman, Natalie Nunes, Caroline~E. Overton,
+  Siobhan Quenby, Sandhya Rao, Jackie Ross, Anupama Shahid, Martyn Underwood,
+  Nirmala Vaithilingam, Linda Watkins, Catherine Wykes, Andrew Horne, and Davor
+  Jurkovic.
+\newblock A randomized trial of progesterone in women with bleeding in early
+  pregnancy.
+\newblock \emph{New England Journal of Medicine}, 380\penalty0 (19):\penalty0
+  1815--1824, 2019.
+\newblock \doi{10.1056/NEJMoa1813730}.
+
+\end{thebibliography}

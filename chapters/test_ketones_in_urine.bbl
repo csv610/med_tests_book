@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[McGarry and Foster(1980)]{mcgarry1980regulation}
+J.~Denis McGarry and Daniel~W. Foster.
+\newblock Regulation of hepatic fatty acid oxidation and ketone body
+  production.
+\newblock \emph{Annual Review of Biochemistry}, 49:\penalty0 395--420, 1980.
+\newblock \doi{10.1146/annurev.bi.49.070180.002143}.
+
+\bibitem[Laffel(1999)]{laffel1999ketone}
+Lori Laffel.
+\newblock Ketone bodies: a review of physiology, pathophysiology and
+  application of monitoring to diabetes.
+\newblock \emph{Diabetes/Metabolism Research and Reviews}, 15\penalty0
+  (6):\penalty0 412--426, 1999.
+\newblock
+  \doi{10.1002/(SICI)1099-0895(199911/12)15:6<412::AID-DMRR72>3.0.CO;2-8}.
+
+\bibitem[Kitabchi et~al.(2001)Kitabchi, Umpierrez, Murphy,
+  et~al.]{kitabchi2001management}
+Abbas~E. Kitabchi, Guillermo~E. Umpierrez, Mary~Beth Murphy, et~al.
+\newblock Management of hyperglycemic crises in patients with diabetes.
+\newblock \emph{Diabetes Care}, 24\penalty0 (1):\penalty0 131--153, 2001.
+\newblock \doi{10.2337/diacare.24.1.131}.
+
+\bibitem[Kitabchi et~al.(2009)Kitabchi, Umpierrez, Miles, and
+  Fisher]{kitabchi2009hyperglycemic}
+Abbas~E. Kitabchi, Guillermo~E. Umpierrez, John~M. Miles, and Joseph~N. Fisher.
+\newblock Hyperglycemic crises in adult patients with diabetes.
+\newblock \emph{Diabetes Care}, 32\penalty0 (7):\penalty0 1335--1343, 2009.
+\newblock \doi{10.2337/dc09-9032}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\end{thebibliography}

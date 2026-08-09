@@ -1,0 +1,34 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kwan et~al.(2011)Kwan, Schachter, and Brodie]{kwan2011}
+Patrick Kwan, Steven~C. Schachter, and Martin~J. Brodie.
+\newblock Drug-resistant epilepsy.
+\newblock \emph{New England Journal of Medicine}, 365\penalty0 (10):\penalty0
+  919--926, 2011.
+\newblock \doi{10.1056/NEJMra1004418}.
+
+\bibitem[Patsalos et~al.(2008)Patsalos, Berry, Bourgeois, Cloyd, Glauser,
+  Johannessen, Leppik, Tomson, and Perucca]{patsalos2008}
+Philip~N. Patsalos, David~J. Berry, Blaise F.~D. Bourgeois, James~C. Cloyd,
+  Tracy~A. Glauser, Svein~I. Johannessen, Ilo~E. Leppik, Torbj{\"o}rn Tomson,
+  and Emilio Perucca.
+\newblock Antiepileptic drugs---best practice guidelines for therapeutic drug
+  monitoring: a position paper by the subcommission on therapeutic drug
+  monitoring, {ILAE} commission on therapeutic strategies.
+\newblock \emph{Epilepsia}, 49\penalty0 (7):\penalty0 1239--1276, 2008.
+\newblock \doi{10.1111/j.1528-1167.2008.01561.x}.
+
+\bibitem[Chung et~al.(2004)Chung, Hung, Hong, Hsih, Yang, Ho, Wu, and
+  Chen]{chung2004}
+Wen-Hung Chung, Shuen-Iu Hung, Hong-Shang Hong, Mo-Song Hsih, Li-Cheng Yang,
+  Hsiu-Chin Ho, Jer-Yuarn Wu, and Yuan-Tsong Chen.
+\newblock Medical genetics: a marker for {Stevens-Johnson} syndrome.
+\newblock \emph{Nature}, 428\penalty0 (6982):\penalty0 486, 2004.
+\newblock \doi{10.1038/428486a}.
+
+\end{thebibliography}

@@ -1,0 +1,54 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kahan(2004)]{kahan2004therapeutic}
+Barry~D. Kahan.
+\newblock Therapeutic drug monitoring of cyclosporine: 20 years of progress.
+\newblock \emph{Transplantation Proceedings}, 36\penalty0 (2 Suppl.):\penalty0
+  378S--391S, 2004.
+
+\bibitem[Holt et~al.(2002)Holt, Armstrong, Griesmacher, Morris, Napoli, and
+  Shaw]{holt2002international}
+David~W. Holt, Victor~W. Armstrong, Andrea Griesmacher, Ray~G. Morris,
+  Kimberly~L. Napoli, and Leslie~M. Shaw.
+\newblock International federation of clinical chemistry/international
+  association of therapeutic drug monitoring and clinical toxicology working
+  group on immunosuppressive drug monitoring.
+\newblock \emph{Therapeutic Drug Monitoring}, 24\penalty0 (1):\penalty0 59--67,
+  2002.
+\newblock \doi{10.1097/00007691-200202000-00011}.
+
+\bibitem[Borel et~al.(1976)Borel, Feurer, Gubler, and
+  St{\"a}helin]{borel1976biological}
+Jean-Fran{\c c}ois Borel, Conrad Feurer, Hans~Ulrich Gubler, and Heinrich
+  St{\"a}helin.
+\newblock Biological effects of cyclosporin {A}.
+\newblock \emph{Agents and Actions}, 6\penalty0 (4):\penalty0 468--475, 1976.
+
+\bibitem[Calne et~al.(1978)Calne, White, Thiru, Evans, McMaster,
+  et~al.]{calne1978cyclosporin}
+R.~Y. Calne, D.~J.~G. White, S.~Thiru, D.~B. Evans, P.~McMaster, et~al.
+\newblock Cyclosporin {A} in patients receiving renal allografts from cadaver
+  donors.
+\newblock \emph{Lancet}, 2\penalty0 (8104):\penalty0 1323--1327, 1978.
+\newblock \doi{10.1016/S0140-6736(78)91970-0}.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[Naesens et~al.(2009)Naesens, Kuypers, and
+  Sarwal]{naesens2009calcineurin}
+Maarten Naesens, Dirk R.~J. Kuypers, and Minnie Sarwal.
+\newblock Calcineurin inhibitor nephrotoxicity.
+\newblock \emph{Clinical Journal of the American Society of Nephrology},
+  4\penalty0 (2):\penalty0 481--508, 2009.
+\newblock \doi{10.2215/CJN.04800908}.
+
+\end{thebibliography}

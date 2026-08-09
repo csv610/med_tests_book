@@ -1,0 +1,39 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bast et~al.(1981)Bast, Feeney, Lazarus, Nadler, Colvin, and
+  Knapp]{bast1981reactivity}
+Robert~C. Bast, Maryellen Feeney, Herbert Lazarus, Lee~M. Nadler, Robert~B.
+  Colvin, and Robert~C. Knapp.
+\newblock Reactivity of a monoclonal antibody with human ovarian carcinoma.
+\newblock \emph{Journal of Clinical Investigation}, 68\penalty0 (5):\penalty0
+  1331--1337, 1981.
+\newblock \doi{10.1172/JCI110380}.
+
+\bibitem[Bast et~al.(1983)Bast, Klug, St~John, Jenison, Niloff, Lazarus,
+  Berkowitz, Leavitt, Griffiths, Parker, Zurawski, and
+  Knapp]{bast1983radioimmunoassay}
+Robert~C. Bast, Thomas~L. Klug, Edward St~John, Eric Jenison, Jonathan~M.
+  Niloff, Herbert Lazarus, Ross~S. Berkowitz, Timothy Leavitt, C.~Thomas
+  Griffiths, Leroy Parker, Vincent~R. Zurawski, and Robert~C. Knapp.
+\newblock A radioimmunoassay using a monoclonal antibody to monitor the course
+  of epithelial ovarian cancer.
+\newblock \emph{New England Journal of Medicine}, 309\penalty0 (15):\penalty0
+  883--887, 1983.
+\newblock \doi{10.1056/NEJM198310133091503}.
+
+\bibitem[Jacobs et~al.(2016)Jacobs, Menon, Ryan, Gentry-Maharaj, Burnell,
+  Kalsi, Cruickshank, Dawnay, Seif, Skates, et~al.]{jacobs2016ovarian}
+Ian~J. Jacobs, Usha Menon, Andy Ryan, Aleksandra Gentry-Maharaj, Matthew
+  Burnell, Jatinderpal~K. Kalsi, Derek Cruickshank, Anne Dawnay, Mark~W. Seif,
+  Steven~J. Skates, et~al.
+\newblock Ovarian cancer screening and mortality in the {UK} collaborative
+  trial of ovarian cancer screening ({UKCTOCS}): a randomised controlled trial.
+\newblock \emph{The Lancet}, 387\penalty0 (10022):\penalty0 945--956, 2016.
+\newblock \doi{10.1016/S0140-6736(15)01224-6}.
+
+\end{thebibliography}

@@ -1,0 +1,42 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[B{\"o}nning et~al.(2020)B{\"o}nning, Pasutharnchat, Hegen, Misra,
+  Sharrack, Vedeler, Leite, Tumani, and Deisenhammer]{bonning2020cerebrospinal}
+Sebastian B{\"o}nning, Nuttakarn Pasutharnchat, Harald Hegen, Usha~K. Misra,
+  Basil Sharrack, Christian~A. Vedeler, M.~Isabel Leite, Hayrettin Tumani, and
+  Florian Deisenhammer.
+\newblock Cerebrospinal fluid and serum {IgG} and albumin analysis.
+\newblock \emph{Annals of Clinical Biochemistry}, 57\penalty0 (2):\penalty0
+  159--164, 2020.
+
+\bibitem[Link and Tibbling(1977)]{link1977principles}
+Hans Link and Gunnel Tibbling.
+\newblock Principles of albumin and {IgG} analyses in neurological disorders.
+\newblock \emph{Scandinavian Journal of Clinical and Laboratory Investigation},
+  37\penalty0 (5):\penalty0 385--390, 1977.
+
+\bibitem[Freedman et~al.(2005)Freedman, Thompson, Deisenhammer,
+  et~al.]{freedman2005recommended}
+Mark~S. Freedman, Edward~J. Thompson, Florian Deisenhammer, et~al.
+\newblock Recommended standard of cerebrospinal fluid analysis in the diagnosis
+  of multiple sclerosis.
+\newblock \emph{Archives of Neurology}, 62\penalty0 (6):\penalty0 865--870,
+  2005.
+\newblock \doi{10.1001/archneur.62.6.865}.
+
+\bibitem[Thompson et~al.(2018)Thompson, Banwell, Barkhof, Carroll, Coetzee,
+  Comi, Correale, Fazekas, Filippi, Freedman, et~al.]{thompson2018diagnosis}
+Alan~J. Thompson, Brenda~L. Banwell, Frederik Barkhof, William~M. Carroll,
+  Timothy Coetzee, Giancarlo Comi, Jorge Correale, Franz Fazekas, Massimo
+  Filippi, Mark~S. Freedman, et~al.
+\newblock Diagnosis of multiple sclerosis: 2017 revisions of the {McDonald}
+  criteria.
+\newblock \emph{Lancet Neurology}, 17\penalty0 (2):\penalty0 162--173, 2018.
+\newblock \doi{10.1016/S1474-4422(17)30470-2}.
+
+\end{thebibliography}

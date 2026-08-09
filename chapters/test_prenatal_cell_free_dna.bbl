@@ -1,0 +1,60 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gil et~al.(2017)Gil, Accurti, Santacruz, Plana, and
+  Nicolaides]{gil2017analysis}
+M.~M. Gil, V.~Accurti, B.~Santacruz, M.~N. Plana, and K.~H. Nicolaides.
+\newblock Analysis of cell-free dna in maternal blood in screening for
+  aneuploidies: updated meta-analysis.
+\newblock \emph{Ultrasound in Obstetrics and Gynecology}, 50\penalty0
+  (3):\penalty0 302--314, 2017.
+\newblock \doi{10.1002/uog.17484}.
+
+\bibitem[Norton et~al.(2015)Norton, Jacobsson, Swamy, Laurent, Ranzini, Brar,
+  et~al.]{norton2015cellfree}
+M.~E. Norton, B.~Jacobsson, G.~K. Swamy, L.~C. Laurent, A.~C. Ranzini, H.~Brar,
+  et~al.
+\newblock Cell-free dna analysis for noninvasive examination of trisomy.
+\newblock \emph{New England Journal of Medicine}, 372\penalty0 (17):\penalty0
+  1589--1597, 2015.
+\newblock \doi{10.1056/nejmoa1407349}.
+
+\bibitem[{American College of Obstetricians and
+  Gynecologists}(2020)]{acog2020screening}
+{American College of Obstetricians and Gynecologists}.
+\newblock Acog practice bulletin no. 226: Screening for fetal chromosomal
+  abnormalities.
+\newblock \emph{Obstetrics and Gynecology}, 136\penalty0 (4):\penalty0
+  e48--e69, 2020.
+\newblock \doi{10.1097/aog.0000000000004084}.
+
+\bibitem[Lo et~al.(1997)Lo, Corbetta, Chamberlain, Rai, Sargent, and
+  Redman]{lo1997presence}
+Y.~M.~D. Lo, N.~Corbetta, P.~F. Chamberlain, V.~Rai, I.~L. Sargent, and
+  C.~W.~G. Redman.
+\newblock Presence of fetal dna in maternal plasma and serum.
+\newblock \emph{The Lancet}, 350\penalty0 (9076):\penalty0 485--487, 1997.
+\newblock \doi{10.1016/s0140-6736(97)02174-0}.
+
+\bibitem[Palomaki et~al.(2011)Palomaki, Kloza, Lambert-Messerlian, Haddow,
+  Neveux, Ehrich, et~al.]{palomaki2011dnasequencing}
+G.~E. Palomaki, E.~M. Kloza, G.~M. Lambert-Messerlian, J.~E. Haddow, L.~M.
+  Neveux, M.~Ehrich, et~al.
+\newblock Dna sequencing of maternal plasma to detect down syndrome: an
+  international clinical validation study.
+\newblock \emph{Genetics in Medicine}, 13\penalty0 (11):\penalty0 913--920,
+  2011.
+\newblock \doi{10.1097/gim.0b013e3182368a0e}.
+
+\bibitem[Bianchi and Chiu(2018)]{bianchi2018sequencing}
+D.~W. Bianchi and R.~W.~K. Chiu.
+\newblock Sequencing of circulating cell-free dna during pregnancy.
+\newblock \emph{New England Journal of Medicine}, 379\penalty0 (5):\penalty0
+  464--473, 2018.
+\newblock \doi{10.1056/nejmra1705345}.
+
+\end{thebibliography}

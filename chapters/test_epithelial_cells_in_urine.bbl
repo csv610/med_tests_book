@@ -1,0 +1,31 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[McPherson and Pincus(2022)]{mcpherson2022henrys}
+Richard~A. McPherson and Matthew~R. Pincus, editors.
+\newblock \emph{Henry's Clinical Diagnosis and Management by Laboratory
+  Methods}.
+\newblock Elsevier, St. Louis, MO, 24th edition, 2022.
+
+\bibitem[Strasinger and Di~Lorenzo~Schaub(2020)]{strasinger2020urinalysis}
+Susan~King Strasinger and Marjorie Di~Lorenzo~Schaub.
+\newblock \emph{Urinalysis and Body Fluids}.
+\newblock F. A. Davis, Philadelphia, 7th edition, 2020.
+
+\bibitem[Perazella(2015)]{perazella2015urine}
+Mark~A. Perazella.
+\newblock The urine sediment as a biomarker for {CKD} progression.
+\newblock \emph{Kidney International}, 88\penalty0 (2):\penalty0 240--245,
+  2015.
+
+\bibitem[{American Urological Association}(2020)]{aua2020microscopic}
+{American Urological Association}.
+\newblock Microscopic hematuria: {AUA/SUFU} guideline.
+\newblock \emph{Journal of Urology}, 204\penalty0 (4):\penalty0 778--786, 2020.
+\newblock \doi{10.1097/JU.0000000000001297}.
+
+\end{thebibliography}

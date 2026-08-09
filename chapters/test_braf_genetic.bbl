@@ -1,0 +1,42 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Davies et~al.(2002)Davies, Bignell, Cox, Stephens, Edkins, Clegg,
+  Teague, Woffendin, Garnett, Bottomley, Marais, Marshall, Wooster, Stratton,
+  Futreal, et~al.]{davies2002mutations}
+Helen Davies, Graham~R. Bignell, Charles Cox, Philip Stephens, Sarah Edkins,
+  Sheila Clegg, Jon Teague, Hayley Woffendin, Mathew~J. Garnett, William
+  Bottomley, Richard Marais, Christopher~J. Marshall, Richard Wooster,
+  Michael~R. Stratton, P.~Andrew Futreal, et~al.
+\newblock Mutations of the {BRAF} gene in human cancer.
+\newblock \emph{Nature}, 417\penalty0 (6892):\penalty0 949--954, 2002.
+\newblock \doi{10.1038/nature00766}.
+
+\bibitem[Chapman et~al.(2011)Chapman, Hauschild, Robert, Haanen, Ascierto,
+  Larkin, Dummer, Garbe, Ribas, McArthur, et~al.]{chapman2011improved}
+Paul~B. Chapman, Axel Hauschild, Caroline Robert, John~B. Haanen, Paolo
+  Ascierto, James Larkin, Reinhard Dummer, Claus Garbe, Antoni Ribas, Grant~A.
+  McArthur, et~al.
+\newblock Improved survival with vemurafenib in melanoma with {BRAF} v600e
+  mutation.
+\newblock \emph{New England Journal of Medicine}, 364\penalty0 (26):\penalty0
+  2507--2516, 2011.
+\newblock \doi{10.1056/NEJMoa1103782}.
+
+\bibitem[Kopetz et~al.(2019)Kopetz, Grothey, Yaeger, Van~Cutsem, Desai,
+  Yoshino, Wasan, Ciardiello, Loupakis, Tabernero,
+  et~al.]{kopetz2019encorafenib}
+Scott Kopetz, Axel Grothey, Rona Yaeger, Eric Van~Cutsem, Jayesh Desai,
+  Takayuki Yoshino, Harpreet Wasan, Fortunato Ciardiello, Fotios Loupakis,
+  Josep Tabernero, et~al.
+\newblock Encorafenib, binimetinib, and cetuximab in {BRAF} v600e-mutated
+  colorectal cancer.
+\newblock \emph{New England Journal of Medicine}, 381\penalty0 (17):\penalty0
+  1632--1643, 2019.
+\newblock \doi{10.1056/NEJMoa1908075}.
+
+\end{thebibliography}

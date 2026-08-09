@@ -1,0 +1,38 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[van Venrooij et~al.(2011)van Venrooij, van Beers, and
+  Pruijn]{vanvenrooij2011}
+Walther~J. van Venrooij, Joyce J. B.~C. van Beers, and Ger J.~M. Pruijn.
+\newblock Anti-{CCP} antibodies: the past, the present and the future.
+\newblock \emph{Nature Reviews Rheumatology}, 7\penalty0 (7):\penalty0
+  391--398, 2011.
+\newblock \doi{10.1038/nrrheum.2011.76}.
+
+\bibitem[Schellekens et~al.(1998)Schellekens, de~Jong, van~den Hoogen, van~de
+  Putte, and van Venrooij]{schellekens1998}
+George~A. Schellekens, Ben A.~W. de~Jong, Frank H.~J. van~den Hoogen, Levinus
+  B.~A. van~de Putte, and Walther~J. van Venrooij.
+\newblock Citrulline is an essential constituent of antigenic determinants
+  recognized by rheumatoid arthritis-specific autoantibodies.
+\newblock \emph{Journal of Clinical Investigation}, 101\penalty0 (1):\penalty0
+  273--281, 1998.
+\newblock \doi{10.1172/JCI1316}.
+
+\bibitem[Aletaha et~al.(2010)Aletaha, Neogi, Silman, Funovits, Felson, Bingham,
+  Birnbaum, Burmester, Bykerk, Cohen, et~al.]{aletaha2010}
+Daniel Aletaha, Tuhina Neogi, Alan~J. Silman, Julia Funovits, David~T. Felson,
+  Clifton~O. Bingham, Neal~S. Birnbaum, Gerd~R. Burmester, Vivian~P. Bykerk,
+  Marc~D. Cohen, et~al.
+\newblock 2010 {Rheumatoid Arthritis} classification criteria: an {American
+  College of Rheumatology}/{European League Against Rheumatism} collaborative
+  initiative.
+\newblock \emph{Arthritis and Rheumatism}, 62\penalty0 (9):\penalty0
+  2569--2581, 2010.
+\newblock \doi{10.1002/art.27584}.
+
+\end{thebibliography}

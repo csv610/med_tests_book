@@ -1,0 +1,33 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Gardner and Dukes(1955)]{gardner1955haemophilus}
+Herman~L. Gardner and C.~D. Dukes.
+\newblock Haemophilus vaginalis vaginitis: a newly defined specific infection
+  previously classified ``nonspecific'' vaginitis.
+\newblock \emph{American Journal of Obstetrics and Gynecology}, 69\penalty0
+  (5):\penalty0 962--976, 1955.
+
+\bibitem[Amsel et~al.(1983)Amsel, Totten, Spiegel, Chen, Eschenbach, and
+  Holmes]{amsel1983nonspecific}
+Richard Amsel, Patricia~A. Totten, Carol~A. Spiegel, K.~C.~S. Chen, David
+  Eschenbach, and King~K. Holmes.
+\newblock Nonspecific vaginitis. diagnostic criteria and microbial and
+  epidemiologic associations.
+\newblock \emph{American Journal of Medicine}, 74\penalty0 (1):\penalty0
+  14--22, 1983.
+\newblock \doi{10.1016/0002-9343(83)91112-9}.
+
+\bibitem[Nugent et~al.(1991)Nugent, Krohn, and Hillier]{nugent1991reliability}
+Robert~P. Nugent, Marijane~A. Krohn, and Sharon~L. Hillier.
+\newblock Reliability of diagnosing bacterial vaginosis is improved by a
+  standardized method of {Gram} stain interpretation.
+\newblock \emph{Journal of Clinical Microbiology}, 29\penalty0 (2):\penalty0
+  297--301, 1991.
+\newblock \doi{10.1128/jcm.29.2.297-301.1991}.
+
+\end{thebibliography}

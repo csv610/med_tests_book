@@ -1,0 +1,74 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{American College of Obstetricians and
+  Gynecologists}(2020)]{acog2020screening}
+{American College of Obstetricians and Gynecologists}.
+\newblock Acog practice bulletin no. 226: Screening for fetal chromosomal
+  abnormalities.
+\newblock \emph{Obstetrics and Gynecology}, 136\penalty0 (4):\penalty0
+  e48--e69, 2020.
+\newblock \doi{10.1097/aog.0000000000004084}.
+
+\bibitem[Malone et~al.(2005)Malone, Canick, Ball, Nyberg, Comstock, Bukowski,
+  Berkowitz, Gross, Dugoff, Craigo, Timor-Tritsch, Carr, Wolfe, Dukes, Bianchi,
+  Rudnicka, Hackshaw, Lambert-Messerlian, Wald, and D'Alton]{malone2005first}
+Fergal~D. Malone, Jacob~A. Canick, Robert~H. Ball, David~A. Nyberg,
+  Christine~H. Comstock, Radek Bukowski, Richard~L. Berkowitz, Susan~J. Gross,
+  Lorraine Dugoff, Sabrina~D. Craigo, Ilan~E. Timor-Tritsch, Stephen~R. Carr,
+  Honor~M. Wolfe, Kimberly Dukes, Diana~W. Bianchi, Alicja~R. Rudnicka,
+  Allan~K. Hackshaw, Geralyn Lambert-Messerlian, Nicholas~J. Wald, and Mary~E.
+  D'Alton.
+\newblock First-trimester or second-trimester screening, or both, for down's
+  syndrome.
+\newblock \emph{New England Journal of Medicine}, 353\penalty0 (19):\penalty0
+  2001--2011, 2005.
+\newblock \doi{10.1056/NEJMoa043693}.
+
+\bibitem[Wald et~al.(2003)Wald, Hackshaw, Walters, Mackinson, Rodeck, and
+  Chitty]{wald2003suruss}
+N.~J. Wald, A.~K. Hackshaw, J.~Walters, A.~M. Mackinson, C.~Rodeck, and
+  L.~Chitty.
+\newblock First and second trimester antenatal screening for down's syndrome:
+  the results of the serum, urine and ultrasound screening study (suruss).
+\newblock \emph{Journal of Medical Screening}, 10\penalty0 (2):\penalty0
+  56--104, 2003.
+\newblock \doi{10.1177/096914130301000202}.
+
+\bibitem[Brock and Sutcliffe(1972)]{brock1972alpha}
+David J.~H. Brock and R.~G. Sutcliffe.
+\newblock Alpha-fetoprotein in the antenatal diagnosis of anencephaly and spina
+  bifida.
+\newblock \emph{The Lancet}, 2\penalty0 (7770):\penalty0 197--199, 1972.
+
+\bibitem[Nicolaides et~al.(1992)Nicolaides, Azar, Byrne, Mansur, and
+  Marks]{nicolaides1992fetal}
+K.~H. Nicolaides, G.~Azar, D.~Byrne, C.~Mansur, and K.~Marks.
+\newblock Fetal nuchal translucency: ultrasound screening for chromosomal
+  defects in first trimester of pregnancy.
+\newblock \emph{BMJ}, 304\penalty0 (6831):\penalty0 867--869, 1992.
+\newblock \doi{10.1136/bmj.304.6831.867}.
+
+\bibitem[Nicolaides et~al.(2005)Nicolaides, Spencer, Avgidou, Faiola, and
+  Falcon]{nicolaides2005multicenter}
+K.~H. Nicolaides, K.~Spencer, K.~Avgidou, S.~Faiola, and O.~Falcon.
+\newblock Multicenter study of first-trimester screening for trisomy 21 in
+  75,821 pregnancies: results and estimation of the potential impact of
+  individual risk-orientated two-stage first-trimester screening.
+\newblock \emph{Ultrasound in Obstetrics and Gynecology}, 25\penalty0
+  (3):\penalty0 221--226, 2005.
+\newblock \doi{10.1002/uog.1860}.
+
+\bibitem[{American College of Obstetricians and
+  Gynecologists}(2016)]{acog2016screening}
+{American College of Obstetricians and Gynecologists}.
+\newblock Practice bulletin no. 163: Screening for fetal aneuploidy.
+\newblock \emph{Obstetrics and Gynecology}, 127\penalty0 (5):\penalty0
+  e123--e137, 2016.
+\newblock \doi{10.1097/AOG.0000000000001406}.
+
+\end{thebibliography}

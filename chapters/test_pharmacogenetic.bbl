@@ -1,0 +1,84 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Relling and Evans(2015)]{relling2015pharmacogenomics}
+Mary~V. Relling and William~E. Evans.
+\newblock Pharmacogenomics in the clinic.
+\newblock \emph{Nature}, 526\penalty0 (7573):\penalty0 343--350, 2015.
+\newblock \doi{10.1038/nature15817}.
+
+\bibitem[Relling et~al.(2020)Relling, Klein, Gammal, Whirl-Carrillo, Hoffman,
+  and Caudle]{relling2020cpic}
+Mary~V. Relling, Teri~E. Klein, Roseann~S. Gammal, Michelle Whirl-Carrillo,
+  James~M. Hoffman, and Kelly~E. Caudle.
+\newblock The clinical pharmacogenetics implementation consortium: 10 years
+  later.
+\newblock \emph{Clinical Pharmacology and Therapeutics}, 107\penalty0
+  (1):\penalty0 171--175, 2020.
+\newblock \doi{10.1002/cpt.1651}.
+
+\bibitem[Mallal et~al.(2008)Mallal, Phillips, Carosi, Molina, Workman,
+  Toma{\v{z}}i{\v{c}}, J{\"a}gel-Guedes, Rugina, Kozyrev, Cid, Hay, Nolan,
+  Hughes, Hughes, Ryan, Fitch, Thorborn, and Benbow]{mallal2008hlab5701}
+Simon Mallal, Elizabeth Phillips, Giampiero Carosi, Jean-Michel Molina, Cassy
+  Workman, Janez Toma{\v{z}}i{\v{c}}, Eva J{\"a}gel-Guedes, Sorin Rugina, Oleg
+  Kozyrev, Juan~Flores Cid, Phillip Hay, David Nolan, Sara Hughes, Arlene
+  Hughes, Susanna Ryan, Nicholas Fitch, Daren Thorborn, and Alastair Benbow.
+\newblock Hla-b*5701 screening for hypersensitivity to abacavir.
+\newblock \emph{New England Journal of Medicine}, 358\penalty0 (6):\penalty0
+  568--579, 2008.
+\newblock \doi{10.1056/NEJMoa0706135}.
+
+\bibitem[Deenen et~al.(2016)Deenen, Meulendijks, Cats, Sechterberger, Severens,
+  Boot, Smits, Rosing, Mandigers, Soesan, Beijnen, and
+  Schellens]{deenen2016upfront}
+Maarten~J. Deenen, Didier Meulendijks, Annemieke Cats, Marjolein~K.
+  Sechterberger, Johan~L. Severens, Henk Boot, Paul~H. Smits, Hilde Rosing,
+  Caroline M. P.~W. Mandigers, Marcel Soesan, Jos~H. Beijnen, and Jan H.~M.
+  Schellens.
+\newblock Upfront genotyping of dpyd*2a to individualize fluoropyrimidine
+  therapy: A safety and cost analysis.
+\newblock \emph{Journal of Clinical Oncology}, 34\penalty0 (3):\penalty0
+  227--234, 2016.
+\newblock \doi{10.1200/JCO.2015.63.1325}.
+
+\bibitem[Scott et~al.(2013)Scott, Sangkuhl, Stein, Hulot, Mega, Roden, Klein,
+  Sabatine, Johnson, and Shuldiner]{scott2013cyp2c19}
+S.~A. Scott, K.~Sangkuhl, C.~M. Stein, J.-S. Hulot, J.~L. Mega, D.~M. Roden,
+  T.~E. Klein, M.~S. Sabatine, J.~A. Johnson, and A.~R. Shuldiner.
+\newblock Clinical pharmacogenetics implementation consortium guidelines for
+  cyp2c19 genotype and clopidogrel therapy: 2013 update.
+\newblock \emph{Clinical Pharmacology and Therapeutics}, 94\penalty0
+  (3):\penalty0 317--323, 2013.
+\newblock \doi{10.1038/clpt.2013.105}.
+
+\bibitem[Relling et~al.(2019)Relling, Schwab, Whirl-Carrillo, Suarez-Kurtz,
+  Pui, Stein, Moyer, Evans, Klein, Antillon-Klussmann, Caudle, Kato, Yeoh,
+  Schmiegelow, and Yang]{relling2019thiopurine}
+Mary~V. Relling, Matthias Schwab, Michelle Whirl-Carrillo, Guilherme
+  Suarez-Kurtz, Ching-Hon Pui, Charles~M. Stein, Ann~M. Moyer, William~E.
+  Evans, Teri~E. Klein, Federico~Guillermo Antillon-Klussmann, Kelly~E. Caudle,
+  Motohiro Kato, Allen E.~J. Yeoh, Kjeld Schmiegelow, and Jun~J. Yang.
+\newblock Clinical pharmacogenetics implementation consortium guideline for
+  thiopurine dosing based on tpmt and nudt15 genotypes.
+\newblock \emph{Clinical Pharmacology and Therapeutics}, 105\penalty0
+  (5):\penalty0 1095--1105, 2019.
+\newblock \doi{10.1002/cpt.1304}.
+
+\bibitem[Crews et~al.(2014)Crews, Gaedigk, Dunnenberger, Leeder, Klein, Caudle,
+  Haidar, Shen, Callaghan, Sadhasivam, Prows, Kharasch, and
+  Skaar]{crews2014cyp2d6}
+K.~R. Crews, A.~Gaedigk, H.~M. Dunnenberger, J.~S. Leeder, T.~E. Klein, K.~E.
+  Caudle, C.~E. Haidar, D.~D. Shen, J.~T. Callaghan, S.~Sadhasivam, C.~A.
+  Prows, E.~D. Kharasch, and T.~C. Skaar.
+\newblock Clinical pharmacogenetics implementation consortium guidelines for
+  cytochrome p450 2d6 genotype and codeine therapy: 2014 update.
+\newblock \emph{Clinical Pharmacology and Therapeutics}, 95\penalty0
+  (4):\penalty0 376--382, 2014.
+\newblock \doi{10.1038/clpt.2013.254}.
+
+\end{thebibliography}

@@ -1,0 +1,40 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Roberts and Schilsky(2008)]{roberts2008diagnosis}
+Eve~A. Roberts and Michael~L. Schilsky.
+\newblock Diagnosis and treatment of wilson disease: an update.
+\newblock \emph{Hepatology}, 47\penalty0 (6):\penalty0 2089--2111, 2008.
+\newblock \doi{10.1002/hep.22261}.
+
+\bibitem[Brewer(2001)]{brewer2001wilsons}
+George~J. Brewer.
+\newblock \emph{Wilson's Disease: A Clinician's Guide to Recognition,
+  Diagnosis, and Management}.
+\newblock Kluwer Academic Publishers, Boston, 2001.
+
+\bibitem[{European Association for the Study of the Liver}(2012)]{easl2012easl}
+{European Association for the Study of the Liver}.
+\newblock Easl clinical practice guidelines: Wilson's disease.
+\newblock \emph{Journal of Hepatology}, 56\penalty0 (3):\penalty0 671--685,
+  2012.
+\newblock \doi{10.1016/j.jhep.2011.11.007}.
+
+\bibitem[Ferenci et~al.(2003)Ferenci, Caca, Loudianos,
+  et~al.]{ferenci2003diagnosis}
+Peter Ferenci, Karel Caca, Georgios Loudianos, et~al.
+\newblock Diagnosis and phenotypic classification of wilson disease.
+\newblock \emph{Liver International}, 23\penalty0 (3):\penalty0 139--142, 2003.
+\newblock \doi{10.1034/j.1600-0676.2003.00824.x}.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\end{thebibliography}

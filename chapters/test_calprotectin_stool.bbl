@@ -1,0 +1,35 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[van Rheenen et~al.(2010)van Rheenen, Van~de Vijver, and
+  Fidler]{vanrheenen2010}
+Patrick~F. van Rheenen, Els Van~de Vijver, and Vaclav Fidler.
+\newblock Faecal calprotectin for screening of patients with suspected
+  inflammatory bowel disease: diagnostic meta-analysis.
+\newblock \emph{British Medical Journal}, 341:\penalty0 c3369, 2010.
+\newblock \doi{10.1136/bmj.c3369}.
+
+\bibitem[R{\o}seth et~al.(1997)R{\o}seth, Aadland, Jahnsen, and
+  Raknerud]{roseth1997}
+Arne~G. R{\o}seth, Erling Aadland, J{\o}rgen Jahnsen, and Nils Raknerud.
+\newblock Assessment of disease activity in ulcerative colitis by faecal
+  calprotectin, a novel granulocyte marker protein.
+\newblock \emph{Digestion}, 58\penalty0 (2):\penalty0 176--180, 1997.
+\newblock \doi{10.1159/000201441}.
+
+\bibitem[D'Haens et~al.(2012)D'Haens, Ferrante, Vermeire, Baert, Noman,
+  Moortgat, Geens, Iwens, Aerden, Van~Assche, et~al.]{dhaens2012}
+Geert D'Haens, Marc Ferrante, Severine Vermeire, Filip Baert, Maja Noman,
+  Liesbeth Moortgat, Pieter Geens, Debby Iwens, Ilse Aerden, Gert Van~Assche,
+  et~al.
+\newblock Fecal calprotectin is a surrogate marker for endoscopic lesions in
+  inflammatory bowel disease.
+\newblock \emph{Inflammatory Bowel Diseases}, 18\penalty0 (12):\penalty0
+  2218--2224, 2012.
+\newblock \doi{10.1002/ibd.22917}.
+
+\end{thebibliography}

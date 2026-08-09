@@ -1,0 +1,72 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Di~Minno et~al.(2018)Di~Minno, Navone, and
+  Di~Minno]{diminno2018measurement}
+Matteo N.~D. Di~Minno, Roberta Navone, and Giovanni Di~Minno.
+\newblock Measurement of coagulation factor levels.
+\newblock In Nigel~S. Key, editor, \emph{Hemophilia and von Willebrand
+  Disease}. Elsevier, 2018.
+
+\bibitem[Davie and Ratnoff(1964)]{davie1964waterfall}
+Earl~W. Davie and Oscar~D. Ratnoff.
+\newblock Waterfall sequence for intrinsic blood clotting.
+\newblock \emph{Science}, 145\penalty0 (3638):\penalty0 1310--1312, 1964.
+\newblock \doi{10.1126/science.145.3638.1310}.
+
+\bibitem[Macfarlane(1964)]{macfarlane1964enzyme}
+R.~G. Macfarlane.
+\newblock An enzyme cascade in the blood clotting mechanism, and its function
+  as a biochemical amplifier.
+\newblock \emph{Nature}, 202\penalty0 (4938):\penalty0 498--499, 1964.
+\newblock \doi{10.1038/202498a0}.
+
+\bibitem[Kitchen et~al.(2010)Kitchen, McCraw, and
+  Echenagucia]{kitchen2010diagnosis}
+Steve Kitchen, Angela McCraw, and Maria Echenagucia.
+\newblock \emph{Diagnosis of Hemophilia and Other Bleeding Disorders: A
+  Laboratory Manual}.
+\newblock World Federation of Hemophilia, Montreal, 2nd edition, 2010.
+
+\bibitem[Tripodi et~al.(2006)Tripodi, Chantarangkul, and
+  Mannucci]{tripodi2006acquired}
+Armando Tripodi, Veena Chantarangkul, and Pier~Mannuccio Mannucci.
+\newblock Acquired coagulation disorders: clinical and laboratory aspects.
+\newblock \emph{Hematology American Society of Hematology Education Program},
+  pages 99--105, 2006.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

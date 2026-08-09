@@ -1,0 +1,55 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brodie and Dichter(1996)]{brodie1996antiepileptic}
+Martin~J. Brodie and Marc~A. Dichter.
+\newblock Antiepileptic drugs.
+\newblock \emph{New England Journal of Medicine}, 334\penalty0 (3):\penalty0
+  168--175, 1996.
+\newblock \doi{10.1056/NEJM199601183340308}.
+
+\bibitem[Anderson(2008)]{anderson2008pharmacokinetic}
+Gail~D. Anderson.
+\newblock Pharmacokinetic, pharmacodynamic, and pharmacogenetic targeted
+  therapy of antiepileptic drugs.
+\newblock \emph{Therapeutic Drug Monitoring}, 30\penalty0 (2):\penalty0
+  173--180, 2008.
+\newblock \doi{10.1097/FTD.0b013e318167d11b}.
+
+\bibitem[Burton et~al.(2006)Burton, Shaw, Schentag, and
+  Evans]{burton2006applied}
+Michael~E. Burton, Leslie~M. Shaw, Jerome~J. Schentag, and William~E. Evans.
+\newblock \emph{Applied Pharmacokinetics and Pharmacodynamics: Principles of
+  Therapeutic Drug Monitoring}.
+\newblock Lippincott Williams \& Wilkins, 4th edition, 2006.
+
+\bibitem[Sheiner and Tozer(1980)]{sheiner1980clinical}
+Lewis~B. Sheiner and Thomas~N. Tozer.
+\newblock Clinical pharmacokinetics: the use of plasma concentrations of drugs.
+\newblock In William~E. Evans, Jerome~J. Schentag, and William~J. Jusko,
+  editors, \emph{Applied Pharmacokinetics: Principles of Therapeutic Drug
+  Monitoring}. Applied Therapeutics, San Francisco, CA, 1980.
+
+\bibitem[Patsalos et~al.(2008)Patsalos, Berry, Bourgeois, Cloyd, Glauser,
+  Johannessen, Leppik, Tomson, and Perucca]{patsalos2008}
+Philip~N. Patsalos, David~J. Berry, Blaise F.~D. Bourgeois, James~C. Cloyd,
+  Tracy~A. Glauser, Svein~I. Johannessen, Ilo~E. Leppik, Torbj{\"o}rn Tomson,
+  and Emilio Perucca.
+\newblock Antiepileptic drugs---best practice guidelines for therapeutic drug
+  monitoring: a position paper by the subcommission on therapeutic drug
+  monitoring, {ILAE} commission on therapeutic strategies.
+\newblock \emph{Epilepsia}, 49\penalty0 (7):\penalty0 1239--1276, 2008.
+\newblock \doi{10.1111/j.1528-1167.2008.01561.x}.
+
+\bibitem[Patsalos and Berry(2013)]{patsalos2013saliva}
+Philip~N. Patsalos and Dave~J. Berry.
+\newblock Therapeutic drug monitoring of antiepileptic drugs by use of saliva.
+\newblock \emph{Therapeutic Drug Monitoring}, 35\penalty0 (1):\penalty0 4--29,
+  2013.
+\newblock \doi{10.1097/FTD.0b013e31827c11e7}.
+
+\end{thebibliography}

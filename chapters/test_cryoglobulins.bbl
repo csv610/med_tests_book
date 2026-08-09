@@ -1,0 +1,72 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Brouet et~al.(1974)Brouet, Clauvel, Danon, Klein, and
+  Seligmann]{brouet1974biologic}
+Jean-Claude Brouet, Jean-Paul Clauvel, Fran{\c c}oise Danon, Marcel Klein, and
+  Maxime Seligmann.
+\newblock Biologic and clinical significance of cryoglobulins: a report of 86
+  cases.
+\newblock \emph{American Journal of Medicine}, 57\penalty0 (5):\penalty0
+  775--788, 1974.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Lerner and Watson(1947)]{lerner1947studies}
+Aaron~B. Lerner and Cecil~J. Watson.
+\newblock Studies of cryoglobulins: {I}. unusual purpura associated with the
+  presence of a high concentration of cryoglobulin (cold precipitable serum
+  globulin).
+\newblock \emph{American Journal of the Medical Sciences}, 214\penalty0
+  (4):\penalty0 410--415, 1947.
+
+\bibitem[Agnello et~al.(1992)Agnello, Chung, and Kaplan]{agnello1992role}
+Vincent Agnello, Raymond~T. Chung, and Lee~M. Kaplan.
+\newblock A role for hepatitis {C} virus infection in type {II}
+  cryoglobulinemia.
+\newblock \emph{New England Journal of Medicine}, 327\penalty0 (21):\penalty0
+  1490--1495, 1992.
+\newblock \doi{10.1056/NEJM199211193272104}.
+
+\bibitem[Ferri et~al.(2004)Ferri, Sebastiani, Giuggioli, Cazzato, Longombardo,
+  Antonelli, Zignego, Monti, et~al.]{ferri2004mixed}
+Clodoveo Ferri, Marco Sebastiani, Dilia Giuggioli, Maria Cazzato, Giampiero
+  Longombardo, Alessandro Antonelli, Anna~Linda Zignego, Monica Monti, et~al.
+\newblock Mixed cryoglobulinemia: demographic, clinical, and serologic features
+  and survival in 231 patients.
+\newblock \emph{Seminars in Arthritis and Rheumatism}, 33\penalty0
+  (6):\penalty0 355--374, 2004.
+
+\bibitem[Gragnani et~al.(2016)Gragnani, Visentini, Fognani, Urraro, De~Santis,
+  Petraccia, et~al.]{gragnani2016prospective}
+Laura Gragnani, Marcella Visentini, Elisa Fognani, Teresa Urraro, Anna
+  De~Santis, Luisa Petraccia, et~al.
+\newblock Prospective study of guideline-tailored therapy with direct-acting
+  antivirals for hepatitis {C} virus-associated mixed cryoglobulinemia.
+\newblock \emph{Hepatology}, 64\penalty0 (5):\penalty0 1473--1482, 2016.
+
+\bibitem[Terrier et~al.(2012)Terrier, Krastinova, Marie, Launay, Lacraz,
+  Belenotti, de~Saint-Martin, et~al.]{terrier2012management}
+Benjamin Terrier, Evguenia Krastinova, Isabelle Marie, David Launay, Adeline
+  Lacraz, Pauline Belenotti, Luc de~Saint-Martin, et~al.
+\newblock Management of noninfectious mixed cryoglobulinemia vasculitis: data
+  from 242 cases included in the {CryoVas} survey.
+\newblock \emph{Blood}, 119\penalty0 (25):\penalty0 5996--6004, 2012.
+\newblock \doi{10.1182/blood-2011-09-379024}.
+
+\end{thebibliography}

@@ -1,0 +1,71 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Joly et~al.(2017)Joly, Coppo, and Veyradier]{joly2017thrombotic}
+B{\'e}n{\'e}dicte~S. Joly, Paul Coppo, and Agn{\`e}s Veyradier.
+\newblock Thrombotic thrombocytopenic purpura.
+\newblock \emph{Blood}, 129\penalty0 (21):\penalty0 2836--2846, 2017.
+
+\bibitem[Moake et~al.(1982)Moake, Rudy, Troll, Weinstein, Colannino, Azocar,
+  Seder, Hong, and Deykin]{moake1982unusually}
+Joel~L. Moake, Clara~K. Rudy, John~H. Troll, Mark~J. Weinstein, Nancy~M.
+  Colannino, Janet Azocar, Robert~H. Seder, Se~L. Hong, and Daniel Deykin.
+\newblock Unusually large plasma factor {VIII}:von {Willebrand} factor
+  multimers in chronic relapsing thrombotic thrombocytopenic purpura.
+\newblock \emph{New England Journal of Medicine}, 307\penalty0 (23):\penalty0
+  1432--1435, 1982.
+
+\bibitem[Furlan et~al.(1997)Furlan, Robles, Solenthaler, Wassmer, Sandoz, and
+  L{\"a}mmle]{furlan1997deficient}
+M{\'a}r{\'a}s Furlan, Rodolfo Robles, Markus Solenthaler, Muriel Wassmer, Paula
+  Sandoz, and Bernhard L{\"a}mmle.
+\newblock Deficient activity of von {Willebrand} factor-cleaving protease in
+  chronic relapsing thrombotic thrombocytopenic purpura.
+\newblock \emph{Blood}, 89\penalty0 (9):\penalty0 3097--3103, 1997.
+
+\bibitem[Tsai and Lian(1998)]{tsai1998antibodies}
+Han-Mou Tsai and Eric Chun-Yet Lian.
+\newblock Antibodies to von {Willebrand} factor-cleaving protease in acute
+  thrombotic thrombocytopenic purpura.
+\newblock \emph{New England Journal of Medicine}, 339\penalty0 (22):\penalty0
+  1585--1594, 1998.
+
+\bibitem[Levy et~al.(2001)Levy, Nichols, Lian, Foroud, McClintick, McGee, Yang,
+  Siemieniak, Stark, Gruppo, Sarode, Shurin, Chandrasekaran, Stabler, Sabio,
+  Bouhassira, Upshaw, Ginsburg, and Tsai]{levy2001mutations}
+Gallia~G. Levy, William~C. Nichols, Eric~C. Lian, Tatiana Foroud, Jeanette~N.
+  McClintick, Beth~M. McGee, Angela~Y. Yang, David~R. Siemieniak, Kenneth~R.
+  Stark, Ralph Gruppo, Ravindra Sarode, Susan~B. Shurin, Visalam
+  Chandrasekaran, Sally~P. Stabler, Hernan Sabio, Eric~E. Bouhassira,
+  Jefferson~D. Upshaw, David Ginsburg, and Han-Mou Tsai.
+\newblock Mutations in a member of the {ADAMTS} gene family cause thrombotic
+  thrombocytopenic purpura.
+\newblock \emph{Nature}, 413\penalty0 (6855):\penalty0 488--494, 2001.
+\newblock \doi{10.1038/35097008}.
+
+\bibitem[Kokame et~al.(2005)Kokame, Nobe, Kokubo, Okayama, and
+  Miyata]{kokame2005frets}
+Koichi Kokame, Yuko Nobe, Yoshihiro Kokubo, Akira Okayama, and Toshiyuki
+  Miyata.
+\newblock {FRETS-VWF73}, a first fluorogenic substrate for {ADAMTS13} assay.
+\newblock \emph{British Journal of Haematology}, 129\penalty0 (1):\penalty0
+  93--100, 2005.
+
+\bibitem[Scully et~al.(2019)Scully, Cataland, Peyvandi, Coppo, Kn{\"o}bl,
+  Kremer~Hovinga, Metjian, de~la Rubia, Pavenski, Callewaert, Biswas,
+  De~Winter, and Zeldin]{scully2019caplacizumab}
+Marie Scully, Spero~R. Cataland, Flora Peyvandi, Paul Coppo, Paul Kn{\"o}bl,
+  Johanna~A. Kremer~Hovinga, Ara Metjian, Javier de~la Rubia, Katerina
+  Pavenski, Filip Callewaert, Debjit Biswas, Hilde De~Winter, and Robert~K.
+  Zeldin.
+\newblock Caplacizumab treatment for acquired thrombotic thrombocytopenic
+  purpura.
+\newblock \emph{New England Journal of Medicine}, 380\penalty0 (4):\penalty0
+  335--346, 2019.
+\newblock \doi{10.1056/NEJMoa1806311}.
+
+\end{thebibliography}

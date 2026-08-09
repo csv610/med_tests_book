@@ -1,0 +1,77 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Grossman et~al.(2018)Grossman, Curry, Owens, Bibbins-Domingo, Caughey,
+  Davidson, Doubeni, Ebell, Epling, Kemper, Krist, Kubik, Landefeld, Mangione,
+  Silverstein, Simon, Siu, Tseng, and Wong]{uspstf2018prostate}
+D.~C. Grossman, S.~J. Curry, D.~K. Owens, K.~Bibbins-Domingo, A.~B. Caughey,
+  K.~W. Davidson, C.~A. Doubeni, M.~Ebell, J.~W. Epling, A.~R. Kemper, A.~H.
+  Krist, M.~Kubik, S.~Landefeld, C.~M. Mangione, M.~Silverstein, M.~A. Simon,
+  A.~L. Siu, C.-W. Tseng, and J.~B. Wong.
+\newblock Screening for prostate cancer: Us preventive services task force
+  recommendation statement.
+\newblock \emph{JAMA}, 319\penalty0 (18):\penalty0 1901--1913, 2018.
+\newblock \doi{10.1001/jama.2018.3710}.
+
+\bibitem[Kasivisvanathan et~al.(2018)Kasivisvanathan, Rannikko, Borghi,
+  Panebianco, Mynderse, Vaarala, Briganti, Bud{\"a}us, Hellawell, Hindley,
+  Roobol, Eggener, Ghei, Villers, Bladou, Villeirs, Virdi, Boxler, Robert,
+  Singh, Venderink, Hadaschik, Ruffion, Hu, Margolis, Crouzet, Klotz, Taneja,
+  Pinto, Gill, Allen, Giganti, Freeman, Morris, Punwani, Williams, Brew-Graves,
+  Deeks, Takwoingi, Emberton, and Moore]{kasivisvanathan2018mri}
+Veeru Kasivisvanathan, Antti~S. Rannikko, Marcelo Borghi, Valeria Panebianco,
+  Lance~A. Mynderse, Markku~H. Vaarala, Alberto Briganti, Lars Bud{\"a}us,
+  Giles Hellawell, Richard~G. Hindley, Monique~J. Roobol, Scott Eggener,
+  Maneesh Ghei, Arnauld Villers, Franck Bladou, Geert~M. Villeirs, Jaspal
+  Virdi, Silvan Boxler, Gr{\'e}goire Robert, Paras~B. Singh, Wulphert
+  Venderink, Boris~A. Hadaschik, Alain Ruffion, Jim~C. Hu, Daniel Margolis,
+  S{\'e}bastien Crouzet, Laurence Klotz, Samir~S. Taneja, Peter Pinto, Inderbir
+  Gill, Clare Allen, Francesco Giganti, Alex Freeman, Stephen Morris, Shonit
+  Punwani, Norman~R. Williams, Chris Brew-Graves, Jonathan Deeks, Yemisi
+  Takwoingi, Mark Emberton, and Caroline~M. Moore.
+\newblock Mri-targeted or standard biopsy for prostate-cancer diagnosis.
+\newblock \emph{New England Journal of Medicine}, 378\penalty0 (19):\penalty0
+  1767--1777, 2018.
+\newblock \doi{10.1056/NEJMoa1801993}.
+
+\bibitem[Catalona et~al.(1998)Catalona, Partin, Slawin, Brawer, Flanigan,
+  Patel, Richie, deKernion, Walsh, Scardino, Lange, Subong, Parson, Gasior,
+  Loveland, and Southwick]{catalona1998percentage}
+William~J. Catalona, Alan~W. Partin, Kevin~M. Slawin, Michael~K. Brawer,
+  Robert~C. Flanigan, Anup Patel, Jerome~P. Richie, Jean~B. deKernion,
+  Patrick~C. Walsh, Peter~T. Scardino, Paul~H. Lange, Eric N.~P. Subong,
+  Robert~E. Parson, Gail~H. Gasior, Kathleen~G. Loveland, and Paula~C.
+  Southwick.
+\newblock Use of the percentage of free prostate-specific antigen to enhance
+  differentiation of prostate cancer from benign prostatic disease.
+\newblock \emph{JAMA}, 279\penalty0 (19):\penalty0 1542--1547, 1998.
+\newblock \doi{10.1001/jama.279.19.1542}.
+
+\bibitem[Thompson et~al.(2004)Thompson, Pauler, Goodman, Tangen, Lucia, Parnes,
+  Minasian, Ford, Lippman, Crawford, Crowley, and
+  Coltman]{thompson2004prevalence}
+Ian~M. Thompson, Donna~K. Pauler, Phyllis~J. Goodman, Catherine~M. Tangen,
+  M.~Scott Lucia, Howard~L. Parnes, Lori~M. Minasian, Leslie~G. Ford, Scott~M.
+  Lippman, E.~David Crawford, John~J. Crowley, and Charles~A. Coltman.
+\newblock Prevalence of prostate cancer among men with a prostate-specific
+  antigen level $\le$4.0 ng per milliliter.
+\newblock \emph{New England Journal of Medicine}, 350\penalty0 (22):\penalty0
+  2239--2246, 2004.
+\newblock \doi{10.1056/NEJMoa031918}.
+
+\bibitem[Heidenreich et~al.(2014)Heidenreich, Bastian, Bellmunt, Bolla, Joniau,
+  van~der Kwast, Mason, Matveev, Wiegel, Zattoni, and
+  Mottet]{heidenreich2014eau}
+Axel Heidenreich, Patrick~J. Bastian, Joaquim Bellmunt, Michel Bolla, Steven
+  Joniau, Theodor van~der Kwast, Malcolm Mason, Vsevolod Matveev, Thomas
+  Wiegel, F.~Zattoni, and Nicolas Mottet.
+\newblock Eau guidelines on prostate cancer. part 1: screening, diagnosis, and
+  local treatment with curative intent -- update 2013.
+\newblock \emph{European Urology}, 65\penalty0 (1):\penalty0 124--137, 2014.
+\newblock \doi{10.1016/j.eururo.2013.09.046}.
+
+\end{thebibliography}

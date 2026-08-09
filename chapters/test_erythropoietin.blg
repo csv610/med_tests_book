@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_erythropoietin.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 8 entries,
+            2481 wiz_defined-function locations,
+            610 strings with 6035 characters,
+and the built_in function-call counts, 3187 in all, are:
+= -- 261
+> -- 179
+< -- 2
++ -- 68
+- -- 52
+* -- 264
+:= -- 524
+add.period$ -- 27
+call.type$ -- 8
+change.case$ -- 17
+chr.to.int$ -- 8
+cite$ -- 8
+duplicate$ -- 158
+empty$ -- 291
+format.name$ -- 62
+if$ -- 667
+int.to.chr$ -- 1
+int.to.str$ -- 9
+missing$ -- 10
+newline$ -- 50
+num.names$ -- 25
+pop$ -- 68
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 79
+stack$ -- 0
+substring$ -- 134
+swap$ -- 16
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 47
+warning$ -- 0
+while$ -- 24
+width$ -- 0
+write$ -- 119

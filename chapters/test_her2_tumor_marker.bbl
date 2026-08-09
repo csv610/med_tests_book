@@ -1,0 +1,51 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wolff et~al.(2018)Wolff, Hammond, Allison, et~al.]{wolff2018human}
+Antonio~C. Wolff, M.~Elizabeth~H. Hammond, Kimberly~H. Allison, et~al.
+\newblock Human epidermal growth factor receptor 2 testing in breast cancer:
+  American society of clinical oncology/college of american pathologists
+  clinical practice guideline focused update.
+\newblock \emph{Journal of Clinical Oncology}, 36\penalty0 (20):\penalty0
+  2105--2122, 2018.
+\newblock \doi{10.1200/JCO.2018.77.8738}.
+
+\bibitem[Slamon et~al.(2001)Slamon, Leyland-Jones, Shak, et~al.]{slamon2001use}
+Dennis~J. Slamon, Brian Leyland-Jones, Steven Shak, et~al.
+\newblock Use of chemotherapy plus a monoclonal antibody against her2 for
+  metastatic breast cancer that overexpresses her2.
+\newblock \emph{New England Journal of Medicine}, 344\penalty0 (11):\penalty0
+  783--792, 2001.
+\newblock \doi{10.1056/NEJM200103153441101}.
+
+\bibitem[Bang et~al.(2010)Bang, Van~Cutsem, Feyereislova,
+  et~al.]{bang2010trastuzumab}
+Yung-Jue Bang, Eric Van~Cutsem, Alexia Feyereislova, et~al.
+\newblock Trastuzumab in combination with chemotherapy versus chemotherapy
+  alone for treatment of her2-positive advanced gastric or gastro-oesophageal
+  junction cancer (toga): a phase 3, open-label, randomised controlled trial.
+\newblock \emph{The Lancet}, 376\penalty0 (9742):\penalty0 687--697, 2010.
+\newblock \doi{10.1016/S0140-6736(10)61121-X}.
+
+\bibitem[Modi et~al.(2022)Modi, Jacot, Yamashita, et~al.]{modi2022trastuzumab}
+Shanu Modi, William Jacot, Toshinari Yamashita, et~al.
+\newblock Trastuzumab deruxtecan in previously treated her2-low advanced breast
+  cancer.
+\newblock \emph{New England Journal of Medicine}, 387\penalty0 (1):\penalty0
+  9--20, 2022.
+\newblock \doi{10.1056/NEJMoa2203690}.
+
+\bibitem[von Minckwitz et~al.(2019)von Minckwitz, Huang, Mano,
+  et~al.]{vonminckwitz2019trastuzumab}
+Gunter von Minckwitz, Chiun-Sheng Huang, Max~S. Mano, et~al.
+\newblock Trastuzumab emtansine for residual invasive her2-positive breast
+  cancer.
+\newblock \emph{New England Journal of Medicine}, 380\penalty0 (7):\penalty0
+  617--628, 2019.
+\newblock \doi{10.1056/NEJMoa1814017}.
+
+\end{thebibliography}

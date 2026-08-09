@@ -1,0 +1,59 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pappas et~al.(2016)Pappas, Kauffman, Andes,
+  et~al.]{pappas2016clinical}
+Peter~G. Pappas, Carol~A. Kauffman, David~R. Andes, et~al.
+\newblock Clinical practice guideline for the management of candidiasis: 2016
+  update by the infectious diseases society of america.
+\newblock \emph{Clinical Infectious Diseases}, 62\penalty0 (4):\penalty0
+  e1--e50, 2016.
+\newblock \doi{10.1093/cid/civ933}.
+
+\bibitem[Patterson et~al.(2016)Patterson, Thompson, Denning,
+  et~al.]{patterson2016practice}
+Thomas~F. Patterson, George R.~III Thompson, David~W. Denning, et~al.
+\newblock Practice guidelines for the diagnosis and management of
+  aspergillosis: 2016 update by the infectious diseases society of america.
+\newblock \emph{Clinical Infectious Diseases}, 63\penalty0 (4):\penalty0
+  e1--e60, 2016.
+\newblock \doi{10.1093/cid/ciw326}.
+
+\bibitem[Cornely et~al.(2019)Cornely, Alastruey-Izquierdo, Arenz,
+  et~al.]{cornely2019global}
+Oliver~A. Cornely, Ana Alastruey-Izquierdo, Dorothee Arenz, et~al.
+\newblock Global guideline for the diagnosis and management of mucormycosis: an
+  initiative of the european confederation of medical mycology in cooperation
+  with the mycoses study group education and research consortium.
+\newblock \emph{Lancet Infectious Diseases}, 19\penalty0 (12):\penalty0
+  e405--e421, 2019.
+\newblock \doi{10.1016/S1473-3099(19)30312-3}.
+
+\bibitem[Walsh et~al.(2008)Walsh, Anaissie, Denning,
+  et~al.]{walsh2008treatment}
+Thomas~J. Walsh, Elias~J. Anaissie, David~W. Denning, et~al.
+\newblock Treatment of aspergillosis: clinical practice guidelines of the
+  infectious diseases society of america.
+\newblock \emph{Clinical Infectious Diseases}, 46\penalty0 (3):\penalty0
+  327--360, 2008.
+\newblock \doi{10.1086/525258}.
+
+\bibitem[{Clinical and Laboratory Standards
+  Institute}(2017{\natexlab{a}})]{clsi2017m27}
+{Clinical and Laboratory Standards Institute}.
+\newblock Reference method for broth dilution antifungal susceptibility testing
+  of yeasts.
+\newblock CLSI standard M27, 2017{\natexlab{a}}.
+
+\bibitem[{Clinical and Laboratory Standards
+  Institute}(2017{\natexlab{b}})]{clsi2017m38}
+{Clinical and Laboratory Standards Institute}.
+\newblock Reference method for broth dilution antifungal susceptibility testing
+  of filamentous fungi.
+\newblock CLSI standard M38, 2017{\natexlab{b}}.
+
+\end{thebibliography}

@@ -1,0 +1,54 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Cunha et~al.(2016)Cunha, Burillo, and Bouza]{cunha2016legionnaires}
+Burke~A. Cunha, Almudena Burillo, and Emilio Bouza.
+\newblock Legionnaires' disease.
+\newblock \emph{The Lancet}, 387\penalty0 (10016):\penalty0 376--385, 2016.
+\newblock \doi{10.1016/S0140-6736(15)60078-2}.
+
+\bibitem[Shimada et~al.(2009)Shimada, Noguchi, Jackson, Miyashita, Hayashino,
+  Kamiya, Yamazaki, Matsumura, and Fukuhara]{shimada2009systematic}
+Toshihiko Shimada, Yoshinori Noguchi, Jeffrey~L. Jackson, Jun Miyashita,
+  Yasuaki Hayashino, Toru Kamiya, Shin Yamazaki, Tadashi Matsumura, and
+  Shunichi Fukuhara.
+\newblock Systematic review and metaanalysis: urinary antigen tests for
+  legionellosis.
+\newblock \emph{Chest}, 136\penalty0 (6):\penalty0 1576--1585, 2009.
+\newblock \doi{10.1378/chest.08-2602}.
+
+\bibitem[Fields et~al.(2002)Fields, Benson, and Besser]{fields2002legionella}
+Barry~S. Fields, Robert~F. Benson, and Richard~E. Besser.
+\newblock {Legionella} and legionnaires' disease: 25 years of investigation.
+\newblock \emph{Clinical Microbiology Reviews}, 15\penalty0 (3):\penalty0
+  506--526, 2002.
+\newblock \doi{10.1128/CMR.15.3.506-526.2002}.
+
+\bibitem[Phin et~al.(2014)Phin, Parry-Ford, Harrison, Stagg, Zhang, Kumar,
+  Lortholary, Zumla, and Abubakar]{phin2014epidemiology}
+Nick Phin, Frances Parry-Ford, Timothy Harrison, Helen~R. Stagg, Ning Zhang,
+  Kiren Kumar, Olivier Lortholary, Alimuddin Zumla, and Ibrahim Abubakar.
+\newblock Epidemiology and clinical management of legionnaires' disease.
+\newblock \emph{The Lancet Infectious Diseases}, 14\penalty0 (10):\penalty0
+  1011--1021, 2014.
+\newblock \doi{10.1016/S1473-3099(14)70713-3}.
+
+\bibitem[Metlay et~al.(2019)Metlay, Waterer, Long, Anzueto, Brozek, Crothers,
+  Cooley, Dean, Fine, Flanders, Griffin, Metersky, Musher, Restrepo, and
+  Whitney]{metlay2019diagnosis}
+Joshua~P. Metlay, Grant~W. Waterer, Ann~C. Long, Antonio Anzueto, Jan Brozek,
+  Kristina Crothers, Laura~A. Cooley, Nathan~C. Dean, Michael~J. Fine, Scott~A.
+  Flanders, Marie~R. Griffin, Mark~L. Metersky, Daniel~M. Musher, Marcos~I.
+  Restrepo, and Cynthia~G. Whitney.
+\newblock Diagnosis and treatment of adults with community-acquired pneumonia:
+  an official clinical practice guideline of the american thoracic society and
+  infectious diseases society of america.
+\newblock \emph{American Journal of Respiratory and Critical Care Medicine},
+  200\penalty0 (7):\penalty0 e45--e67, 2019.
+\newblock \doi{10.1164/rccm.201908-1581ST}.
+
+\end{thebibliography}

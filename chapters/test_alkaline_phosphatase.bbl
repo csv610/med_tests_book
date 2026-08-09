@@ -1,0 +1,68 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Schiele et~al.(1988)Schiele, Henny, Hitz, Petitclerc, Gueguen, and
+  Siest]{schiele1988total}
+F.~Schiele, J.~Henny, J.~Hitz, C.~Petitclerc, R.~Gueguen, and G.~Siest.
+\newblock Total, intestinal and placental alkaline phosphatases: reference
+  values.
+\newblock \emph{Annales de Biologie Clinique}, 46\penalty0 (2):\penalty0
+  101--105, 1988.
+
+\bibitem[Kwo et~al.(2017)Kwo, Cohen, and Lim]{kwo2017acg}
+Paul~Y. Kwo, Stanley~M. Cohen, and Joseph~K. Lim.
+\newblock {ACG} clinical guideline: evaluation of abnormal liver chemistries.
+\newblock \emph{American Journal of Gastroenterology}, 112\penalty0
+  (1):\penalty0 18--35, 2017.
+
+\bibitem[Robison(1923)]{robison1923possible}
+Robert Robison.
+\newblock The possible significance of hexosephosphoric esters in ossification.
+\newblock \emph{Biochemical Journal}, 17\penalty0 (2):\penalty0 286--293, 1923.
+\newblock \doi{10.1042/bj0170286}.
+
+\bibitem[Bessey et~al.(1946)Bessey, Lowry, and Brock]{bessey1946method}
+Otto~A. Bessey, Oliver~H. Lowry, and Mary~Jane Brock.
+\newblock A method for the rapid determination of alkaline phosphatase with
+  five cubic millimeters of serum.
+\newblock \emph{Journal of Biological Chemistry}, 164:\penalty0 321--329, 1946.
+
+\bibitem[{IFCC Working Group on Catalytic Enzyme
+  Concentrations}(2011)]{ifcc2011ifcc}
+{IFCC Working Group on Catalytic Enzyme Concentrations}.
+\newblock {IFCC} primary reference procedures for the measurement of catalytic
+  activity concentrations of enzymes at 37 degrees {C}.
+\newblock \emph{Clinical Chemistry and Laboratory Medicine}, 49\penalty0
+  (9):\penalty0 1439--1446, 2011.
+
+\bibitem[Lindor et~al.(2019)Lindor, Bowlus, Boyer, Levy, and
+  Mayo]{lindor2019primary}
+Keith~D. Lindor, Christopher~L. Bowlus, James Boyer, Cynthia Levy, and
+  Marlyn~J. Mayo.
+\newblock Primary biliary cholangitis: 2018 practice guidance from the american
+  association for the study of liver diseases.
+\newblock \emph{Hepatology}, 69\penalty0 (1):\penalty0 394--419, 2019.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Whyte(2016)]{whyte2016hypophosphatasia}
+Michael~P. Whyte.
+\newblock Hypophosphatasia -- aetiology, nosology, pathogenesis, diagnosis and
+  treatment.
+\newblock \emph{Nature Reviews Endocrinology}, 12\penalty0 (4):\penalty0
+  233--246, 2016.
+
+\bibitem[Ralston et~al.(2008)Ralston, Langston, and
+  Reid]{ralston2008pathogenesis}
+Stuart~H. Ralston, Anne~L. Langston, and Ian~R. Reid.
+\newblock Pathogenesis and management of {Paget}'s disease of bone.
+\newblock \emph{Lancet}, 372\penalty0 (9633):\penalty0 155--163, 2008.
+
+\end{thebibliography}

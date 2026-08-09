@@ -1,0 +1,29 @@
+\begin{thebibliography}{3}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bilezikian(2018)]{bilezikian2018}
+John~P. Bilezikian.
+\newblock Primary hyperparathyroidism.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 103\penalty0
+  (11):\penalty0 3993--4004, 2018.
+\newblock \doi{10.1210/jc.2018-01225}.
+
+\bibitem[Cooper and Gittoes(2008)]{cooper2008}
+Mark~S. Cooper and Neil J.~L. Gittoes.
+\newblock Diagnosis and management of hypocalcaemia.
+\newblock \emph{British Medical Journal}, 336\penalty0 (7656):\penalty0
+  1298--1302, 2008.
+\newblock \doi{10.1136/bmj.39582.589433.BE}.
+
+\bibitem[Stewart(2005)]{stewart2005}
+Andrew~F. Stewart.
+\newblock Clinical practice: hypercalcemia associated with cancer.
+\newblock \emph{New England Journal of Medicine}, 352\penalty0 (4):\penalty0
+  373--379, 2005.
+\newblock \doi{10.1056/NEJMcp042806}.
+
+\end{thebibliography}

@@ -1,0 +1,66 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Inker et~al.(2021)Inker, Eneanya, Coresh, Tighiouart, Wang, Sang,
+  Crews, Doria, Estrella, Froissart, et~al.]{inker2021newequations}
+Lesley~A. Inker, Nwamaka~D. Eneanya, Josef Coresh, Hocine Tighiouart, Dali
+  Wang, Yingying Sang, Deidra~C. Crews, Alessandro Doria, Michelle~M. Estrella,
+  Marc Froissart, et~al.
+\newblock New creatinine- and cystatin {C}-based equations to estimate {GFR}
+  without race.
+\newblock \emph{New England Journal of Medicine}, 385\penalty0 (19):\penalty0
+  1737--1749, 2021.
+\newblock \doi{10.1056/NEJMoa2102953}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Levey et~al.(2009)Levey, Stevens, Schmid, Zhang, Castro, Feldman,
+  Kusek, Eggers, Van~Lente, Greene, and Coresh]{levey2009newequation}
+Andrew~S. Levey, Lesley~A. Stevens, Christopher~H. Schmid, Yaping~L. Zhang,
+  Alejandro~F. Castro, Harold~I. Feldman, John~W. Kusek, Paul Eggers, Frederick
+  Van~Lente, Tom Greene, and Josef Coresh.
+\newblock A new equation to estimate glomerular filtration rate.
+\newblock \emph{Annals of Internal Medicine}, 150\penalty0 (9):\penalty0
+  604--612, 2009.
+\newblock \doi{10.7326/0003-4819-150-9-200905050-00006}.
+
+\bibitem[{Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work
+  Group}(2013)]{kdigo2013kdigo}
+{Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group}.
+\newblock {KDIGO} 2012 clinical practice guideline for the evaluation and
+  management of chronic kidney disease.
+\newblock \emph{Kidney International Supplements}, 3\penalty0 (1):\penalty0
+  1--150, 2013.
+
+\bibitem[Bellomo et~al.(2012)Bellomo, Kellum, and Ronco]{bellomo2012acute}
+Rinaldo Bellomo, John~A. Kellum, and Claudio Ronco.
+\newblock Acute kidney injury.
+\newblock \emph{Lancet}, 380\penalty0 (9843):\penalty0 756--766, 2012.
+\newblock \doi{10.1016/S0140-6736(11)61454-2}.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

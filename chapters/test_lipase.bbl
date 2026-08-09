@@ -1,0 +1,66 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Guidelines(2013)]{iap2013evidence}
+Working Group {IAP/APA} Acute~Pancreatitis Guidelines.
+\newblock {IAP/APA} evidence-based guidelines for the management of acute
+  pancreatitis.
+\newblock \emph{Pancreatology}, 13\penalty0 (4 Suppl 2):\penalty0 e1--e15,
+  2013.
+\newblock \doi{10.1016/j.pan.2013.07.063}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Yadav et~al.(2002)Yadav, Agarwal, and Pitchumoni]{yadav2002critical}
+Dhiraj Yadav, N.~Agarwal, and C.~S. Pitchumoni.
+\newblock A critical evaluation of laboratory tests in acute pancreatitis.
+\newblock \emph{The American Journal of Gastroenterology}, 97\penalty0
+  (6):\penalty0 1309--1318, 2002.
+\newblock \doi{10.1111/j.1572-0241.2002.05766.x}.
+
+\bibitem[Tenner et~al.(2013)Tenner, Baillie, DeWitt, and
+  Vege]{tenner2013american}
+Scott Tenner, John Baillie, John DeWitt, and Sanjay~Swaroop Vege.
+\newblock American college of gastroenterology guideline: management of acute
+  pancreatitis.
+\newblock \emph{American Journal of Gastroenterology}, 108\penalty0
+  (9):\penalty0 1400--1415, 2013.
+
+\bibitem[Vissers et~al.(1999)Vissers, Abu-Laban, and
+  McHugh]{vissers1999amylase}
+Robert~J. Vissers, Riyad~B. Abu-Laban, and Damian~F. McHugh.
+\newblock Amylase and lipase in the emergency department evaluation of acute
+  pancreatitis.
+\newblock \emph{The Journal of Emergency Medicine}, 17\penalty0 (6):\penalty0
+  1027--1037, 1999.
+\newblock \doi{10.1016/S0736-4679(99)00136-5}.
+
+\bibitem[Banks et~al.(2013)Banks, Bollen, Dervenis, Gooszen, Johnson, Sarr,
+  Tsiotos, and Vege]{banks2013classification}
+Peter~A. Banks, Thomas~L. Bollen, Christos Dervenis, Hein~G. Gooszen, Colin~D.
+  Johnson, Michael~G. Sarr, Gregory~G. Tsiotos, and Sanjay~Swaroop Vege.
+\newblock Classification of acute pancreatitis---2012: revision of the atlanta
+  classification and definitions by international consensus.
+\newblock \emph{Gut}, 62\penalty0 (1):\penalty0 102--111, 2013.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\end{thebibliography}

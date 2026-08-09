@@ -1,0 +1,69 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Forbes et~al.(2018)Forbes, Hall, Miller, Novak, Rowlinson, Salfinger,
+  Somoskovi, Warshauer, and Wilson]{forbes2018practical}
+Betty~A. Forbes, Geraldine~S. Hall, Michael~B. Miller, Susan~M. Novak,
+  Marie-Claire Rowlinson, Max Salfinger, Akos Somoskovi, David~M. Warshauer,
+  and Michael~L. Wilson.
+\newblock Practical guidance for clinical microbiology laboratories:
+  mycobacteria.
+\newblock \emph{Clinical Microbiology Reviews}, 31\penalty0 (2):\penalty0
+  e00038--17, 2018.
+\newblock \doi{10.1128/CMR.00038-17}.
+
+\bibitem[{World Health Organization}(2021)]{who2021who}
+{World Health Organization}.
+\newblock \emph{WHO Consolidated Guidelines on Tuberculosis. Module 3:
+  Diagnosis -- Rapid Diagnostics for Tuberculosis Detection}.
+\newblock World Health Organization, Geneva, 2021.
+
+\bibitem[Lewinsohn et~al.(2017)Lewinsohn, Leonard, LoBue, Cohn, Daley, Desmond,
+  Keane, Lewinsohn, Loeffler, Mazurek, O'Brien, Pai, Rieder, Salamipour,
+  Schluger, Sterling, Warshauer, and Woods]{lewinsohn2017official}
+David~M. Lewinsohn, Michael~K. Leonard, Philip~A. LoBue, David~L. Cohn,
+  Charles~L. Daley, Edward Desmond, Joseph Keane, Deborah~A. Lewinsohn, Ann~M.
+  Loeffler, Gerald~H. Mazurek, Richard~J. O'Brien, Madhukar Pai, Luca Rieder,
+  Mona Salamipour, Neil~W. Schluger, Timothy~R. Sterling, David~M. Warshauer,
+  and Gail~L. Woods.
+\newblock Official american thoracic society/infectious diseases society of
+  america/centers for disease control and prevention clinical practice
+  guidelines: diagnosis of tuberculosis in adults and children.
+\newblock \emph{Clinical Infectious Diseases}, 64\penalty0 (2):\penalty0
+  e1--e33, 2017.
+\newblock \doi{10.1093/cid/ciw694}.
+
+\bibitem[Griffith et~al.(2007)Griffith, Aksamit, Brown-Elliott, Catanzaro,
+  Daley, Gordin, Holland, Horsburgh, Huitt, Iademarco, Iseman, Olivier, Ruoss,
+  von Reyn, Wallace, and Winthrop]{griffith2007official}
+David~E. Griffith, Timothy Aksamit, Barbara~A. Brown-Elliott, Antonino
+  Catanzaro, Charles Daley, Fred Gordin, Steven~M. Holland, Robert Horsburgh,
+  Gwen Huitt, Michael~F. Iademarco, Michael Iseman, Kenneth Olivier, Stephen
+  Ruoss, C.~Fordham von Reyn, Richard~J. Wallace, and Kevin Winthrop.
+\newblock An official {ATS}/{IDSA} statement: diagnosis, treatment, and
+  prevention of nontuberculous mycobacterial diseases.
+\newblock \emph{American Journal of Respiratory and Critical Care Medicine},
+  175\penalty0 (4):\penalty0 367--416, 2007.
+\newblock \doi{10.1164/rccm.200604-571ST}.
+
+\bibitem[Daley et~al.(2020)Daley, Iaccarino, Lange, Cambau, Wallace, Andrejak,
+  B{\"o}ttger, Brozek, Griffith, Guglielmetti, Huitt, Knight, Leitman, Marras,
+  Olivier, Santin, Stout, Tortoli, van Ingen, Wagner, and
+  Winthrop]{daley2020treatment}
+Charles~L. Daley, Jonathan~M. Iaccarino, Christoph Lange, Emmanuelle Cambau,
+  Richard~J. Wallace, Claire Andrejak, Erik~C. B{\"o}ttger, Jan Brozek,
+  David~E. Griffith, Lorenzo Guglielmetti, Gwen~A. Huitt, Shandra~L. Knight,
+  Philip Leitman, Theodore~K. Marras, Kenneth~N. Olivier, Miguel Santin,
+  Jason~E. Stout, Enrico Tortoli, Jakko van Ingen, Dirk Wagner, and Kevin~L.
+  Winthrop.
+\newblock Treatment of nontuberculous mycobacterial pulmonary disease: an
+  official {ATS}/{ERS}/{ESCMID}/{IDSA} clinical practice guideline.
+\newblock \emph{Clinical Infectious Diseases}, 71\penalty0 (4):\penalty0
+  e1--e36, 2020.
+\newblock \doi{10.1093/cid/ciaa241}.
+
+\end{thebibliography}

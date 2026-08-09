@@ -1,0 +1,43 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Branson et~al.(2014)Branson, Owen, Wesolowski,
+  et~al.]{branson2014laboratory}
+Bernard~M. Branson, S.~Michele Owen, Laura~G. Wesolowski, et~al.
+\newblock Laboratory testing for the diagnosis of hiv infection: updated
+  recommendations, 2014.
+
+\bibitem[Alexander(2016)]{alexander2016human}
+Thomas~S. Alexander.
+\newblock Human immunodeficiency virus diagnostic testing: 30 years of
+  evolution.
+\newblock \emph{Clinical and Vaccine Immunology}, 23\penalty0 (4):\penalty0
+  249--253, 2016.
+\newblock \doi{10.1128/CVI.00053-16}.
+
+\bibitem[{Centers for Disease Control and Prevention}(2006)]{cdc2006revised}
+{Centers for Disease Control and Prevention}.
+\newblock Revised recommendations for hiv testing of adults, adolescents, and
+  pregnant women in health-care settings.
+\newblock \emph{MMWR Recommendations and Reports}, 55\penalty0
+  (RR-14):\penalty0 1--17, 2006.
+
+\bibitem[Daar et~al.(2001)Daar, Little, Pitt, et~al.]{daar2001diagnosis}
+Eric~S. Daar, Susan Little, Jacqueline Pitt, et~al.
+\newblock Diagnosis of primary hiv-1 infection.
+\newblock \emph{Annals of Internal Medicine}, 134\penalty0 (1):\penalty0
+  25--29, 2001.
+\newblock \doi{10.7326/0003-4819-134-1-200101020-00010}.
+
+\bibitem[{Panel on Antiretroviral Guidelines for Adults and
+  Adolescents}(2023)]{dhhs2023guidelines}
+{Panel on Antiretroviral Guidelines for Adults and Adolescents}.
+\newblock Guidelines for the use of antiretroviral agents in adults and
+  adolescents with hiv.
+\newblock Updated periodically, 2023.
+
+\end{thebibliography}

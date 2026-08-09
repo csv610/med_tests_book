@@ -1,0 +1,64 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Brugnara et~al.(2015)Brugnara, Oski, and
+  Platt]{brugnara2015erythropoietin}
+Carlo Brugnara, Frank~A. Oski, and Orah~S. Platt.
+\newblock Erythropoietin and its clinical use.
+\newblock In \emph{Nathan and Oski's Hematology and Oncology of Infancy and
+  Childhood}. Elsevier, 8th edition, 2015.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Kralovics et~al.(2005)Kralovics, Passamonti, Buser,
+  et~al.]{kralovics2005gain}
+Robert Kralovics, Francesco Passamonti, Andreas~S. Buser, et~al.
+\newblock A gain-of-function mutation of {JAK2} in myeloproliferative
+  disorders.
+\newblock \emph{New England Journal of Medicine}, 352\penalty0 (17):\penalty0
+  1779--1790, 2005.
+\newblock \doi{10.1056/NEJMoa051113}.
+
+\bibitem[Miyake et~al.(1977)Miyake, Kung, and
+  Goldwasser]{miyake1977purification}
+Tsuneo Miyake, C.~K.-H. Kung, and Eugene Goldwasser.
+\newblock Purification of human erythropoietin.
+\newblock \emph{Journal of Biological Chemistry}, 252\penalty0 (15):\penalty0
+  5558--5564, 1977.
+
+\bibitem[Lin et~al.(1985)Lin, Suggs, Lin, et~al.]{lin1985cloning}
+Fu-Kuen Lin, Sidney Suggs, Chi-Hwei Lin, et~al.
+\newblock Cloning and expression of the human erythropoietin gene.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 82\penalty0 (22):\penalty0 7580--7584, 1985.
+\newblock \doi{10.1073/pnas.82.22.7580}.
+
+\bibitem[{KDOQI}(2007)]{kdoqi2007kdoqi}
+{KDOQI}.
+\newblock {KDOQI} clinical practice guideline and clinical practice
+  recommendations for anemia in chronic kidney disease: 2007 update of
+  hemoglobin target.
+\newblock \emph{American Journal of Kidney Diseases}, 50\penalty0 (3):\penalty0
+  471--530, 2007.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\end{thebibliography}

@@ -1,0 +1,23 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Jones(2010)]{jones2010evidence}
+Alan~Wayne Jones.
+\newblock Evidence-based survey of the elimination rates of ethanol from blood
+  with applications in forensic casework.
+\newblock \emph{Forensic Science International}, 200\penalty0 (1-3):\penalty0
+  1--20, 2010.
+\newblock \doi{10.1016/j.forsciint.2010.02.021}.
+
+\bibitem[Bogen(1927)]{bogen1927human}
+Emil Bogen.
+\newblock Drunkenness: a quantitative study of acute alcoholic intoxication.
+\newblock \emph{Journal of the American Medical Association}, 89\penalty0
+  (18):\penalty0 1508--1511, 1927.
+\newblock \doi{10.1001/jama.1927.02690180040011}.
+
+\end{thebibliography}

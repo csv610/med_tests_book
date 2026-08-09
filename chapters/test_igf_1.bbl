@@ -1,0 +1,69 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Le~Roith(1997)]{leroith1997seminars}
+Derek Le~Roith.
+\newblock Insulin-like growth factors.
+\newblock \emph{New England Journal of Medicine}, 336\penalty0 (9):\penalty0
+  633--640, 1997.
+\newblock \doi{10.1056/NEJM199702273360907}.
+
+\bibitem[Clemmons(2011)]{clemmons2011consensus}
+David~R. Clemmons.
+\newblock Consensus statement on the standardization and evaluation of growth
+  hormone and insulin-like growth factor assays.
+\newblock \emph{Clinical Chemistry}, 57\penalty0 (4):\penalty0 555--559, 2011.
+\newblock \doi{10.1373/clinchem.2010.150631}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Salmon and Daughaday(1957)]{salmon1957hormonally}
+William D.~Jr. Salmon and William~H. Daughaday.
+\newblock A hormonally controlled serum factor which stimulates sulfate
+  incorporation by cartilage in vitro.
+\newblock \emph{Journal of Laboratory and Clinical Medicine}, 49\penalty0
+  (6):\penalty0 825--836, 1957.
+
+\bibitem[Katznelson et~al.(2014)Katznelson, Laws, Melmed,
+  et~al.]{katznelson2014acromegaly}
+Laurence Katznelson, Edward R.~Jr. Laws, Shlomo Melmed, et~al.
+\newblock Acromegaly: an endocrine society clinical practice guideline.
+\newblock \emph{The Journal of Clinical Endocrinology and Metabolism},
+  99\penalty0 (11):\penalty0 3933--3951, 2014.
+\newblock \doi{10.1210/jc.2014-2700}.
+
+\bibitem[Grimberg et~al.(2016)Grimberg, DiVall, Polizzotto,
+  et~al.]{grimberg2016guidelines}
+Adda Grimberg, Sara~A. DiVall, Carla Polizzotto, et~al.
+\newblock Guidelines for growth hormone and insulin-like growth factor-i
+  treatment in children and adolescents: growth hormone deficiency, idiopathic
+  short stature, and primary insulin-like growth factor-i deficiency.
+\newblock \emph{Hormone Research in Paediatrics}, 86\penalty0 (6):\penalty0
+  361--397, 2016.
+\newblock \doi{10.1159/000452150}.
+
+\bibitem[Melmed(2006)]{melmed2006acromegaly}
+Shlomo Melmed.
+\newblock Acromegaly.
+\newblock \emph{New England Journal of Medicine}, 355\penalty0 (25):\penalty0
+  2558--2573, 2006.
+\newblock \doi{10.1056/NEJMra062453}.
+
+\bibitem[Molitch et~al.(2011)Molitch, Clemmons, Malozowski,
+  et~al.]{molitch2011evaluation}
+Mark~E. Molitch, David~R. Clemmons, Saul Malozowski, et~al.
+\newblock Evaluation and treatment of adult growth hormone deficiency: an
+  endocrine society clinical practice guideline.
+\newblock \emph{The Journal of Clinical Endocrinology and Metabolism},
+  96\penalty0 (6):\penalty0 1587--1609, 2011.
+\newblock \doi{10.1210/jc.2011-0179}.
+
+\end{thebibliography}

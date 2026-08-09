@@ -1,0 +1,60 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Lippi and Plebani(2014)]{lippi2014red}
+Giuseppe Lippi and Mario Plebani.
+\newblock Red blood cell distribution width (rdw) and human pathology. one size
+  fits all.
+\newblock \emph{Clinical Chemistry and Laboratory Medicine}, 52\penalty0
+  (9):\penalty0 1247--1249, 2014.
+\newblock \doi{10.1515/cclm-2014-0585}.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Bessman et~al.(1983)Bessman, Gilmer, and Gardner]{bessman1983improved}
+J.~David Bessman, P.~Ridgway Gilmer, and Frank~H. Gardner.
+\newblock Improved classification of anemias by mcv and rdw.
+\newblock \emph{American Journal of Clinical Pathology}, 80\penalty0
+  (3):\penalty0 322--326, 1983.
+\newblock \doi{10.1093/ajcp/80.3.322}.
+
+\bibitem[Danese et~al.(2015)Danese, Lippi, and Montagnana]{danese2015red}
+Elisa Danese, Giuseppe Lippi, and Martina Montagnana.
+\newblock Red blood cell distribution width and cardiovascular diseases.
+\newblock \emph{Journal of Thoracic Disease}, 7\penalty0 (10):\penalty0
+  E402--E411, 2015.
+\newblock \doi{10.3978/j.issn.2072-1439.2015.10.04}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Kaushansky et~al.(2021)Kaushansky, Lichtman, Prchal, Levi, Burns, and
+  Arber]{kaushansky2021williams}
+Kenneth Kaushansky, Marshall~A. Lichtman, Josef~T. Prchal, Marcel~M. Levi,
+  Linda~J. Burns, and Daniel~A. Arber.
+\newblock \emph{Williams Hematology}.
+\newblock McGraw-Hill, New York, 10th edition, 2021.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\end{thebibliography}

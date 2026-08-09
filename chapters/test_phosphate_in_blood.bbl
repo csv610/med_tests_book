@@ -1,0 +1,60 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Berndt and Kumar(2007)]{berndt2007phosphatonins}
+T.~Berndt and R.~Kumar.
+\newblock Phosphatonins and the regulation of phosphate homeostasis.
+\newblock \emph{Annual Review of Physiology}, 69:\penalty0 341--359, 2007.
+\newblock \doi{10.1146/annurev.physiol.69.040705.141729}.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Shaman and Kowalski(2016)]{shaman2016hyperphosphatemia}
+A.~M. Shaman and S.~R. Kowalski.
+\newblock Hyperphosphatemia management in patients with chronic kidney disease.
+\newblock \emph{Saudi Pharmaceutical Journal}, 24\penalty0 (4):\penalty0
+  494--505, 2016.
+\newblock \doi{10.1016/j.jsps.2015.01.009}.
+
+\bibitem[Amanzadeh and Reilly(2006)]{amanzadeh2006hypophosphatemia}
+J.~Amanzadeh and R.~F. Reilly.
+\newblock Hypophosphatemia: an evidence-based approach to its clinical
+  consequences and management.
+\newblock \emph{Nature Clinical Practice Nephrology}, 2\penalty0 (3):\penalty0
+  136--148, 2006.
+\newblock \doi{10.1038/ncpneph0124}.
+
+\bibitem[Kestenbaum(2007)]{kestenbaum2007phosphate}
+B.~Kestenbaum.
+\newblock Phosphate metabolism in the setting of chronic kidney disease:
+  significance and recommendations for treatment.
+\newblock \emph{Seminars in Dialysis}, 20\penalty0 (4):\penalty0 286--294,
+  2007.
+\newblock \doi{10.1111/j.1525-139x.2007.00303.x}.
+
+\end{thebibliography}

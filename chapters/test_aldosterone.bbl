@@ -1,0 +1,76 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Monticone et~al.(2017)Monticone, Burrello, Tizzani, Bertello, Viola,
+  Buffolo, Gabetti, Mengozzi, Williams, Rabbia, Veglio, and
+  Mulatero]{monticone2017prevalence}
+Silvia Monticone, Jacopo Burrello, Dario Tizzani, Cristiana Bertello, Antonello
+  Viola, Fabrizio Buffolo, Luca Gabetti, Giulio Mengozzi, Tracy~Ann Williams,
+  Franco Rabbia, Franco Veglio, and Paolo Mulatero.
+\newblock Prevalence and clinical manifestations of primary aldosteronism
+  encountered in primary care practice.
+\newblock \emph{Journal of the American College of Cardiology}, 69\penalty0
+  (14):\penalty0 1811--1820, 2017.
+
+\bibitem[Conn(1955)]{conn1955primary}
+Jerome~W. Conn.
+\newblock Primary aldosteronism, a new clinical syndrome.
+\newblock \emph{Journal of Laboratory and Clinical Medicine}, 45\penalty0
+  (1):\penalty0 3--17, 1955.
+
+\bibitem[Mayes et~al.(1970)Mayes, Furuyama, Kem, and
+  Nugent]{mayes1970radioimmunoassay}
+Darrel Mayes, Shozo Furuyama, David~C. Kem, and Charles~A. Nugent.
+\newblock A radioimmunoassay for plasma aldosterone.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 30\penalty0
+  (5):\penalty0 682--685, 1970.
+\newblock \doi{10.1210/jcem-30-5-682}.
+
+\bibitem[Hiramatsu et~al.(1981)Hiramatsu, Yamada, Yukimura, Komiya, Ichikawa,
+  Ishihara, Nagata, and Izumiyama]{hiramatsu1981screening}
+Kohzy Hiramatsu, Takashi Yamada, Yaichiro Yukimura, Ichiro Komiya, Kazuo
+  Ichikawa, Masaki Ishihara, Hideo Nagata, and Tohru Izumiyama.
+\newblock A screening test to identify aldosterone-producing adenoma by
+  measuring plasma renin activity: results in hypertensive patients.
+\newblock \emph{Archives of Internal Medicine}, 141\penalty0 (12):\penalty0
+  1589--1593, 1981.
+
+\bibitem[Funder et~al.(2016)Funder, Carey, Mantero, Murad, Reincke, Shibata,
+  Stowasser, and Young]{funder2016management}
+John~W. Funder, Robert~M. Carey, Franco Mantero, M.~Hassan Murad, Martin
+  Reincke, Hirotaka Shibata, Michael Stowasser, and William~F. Young.
+\newblock The management of primary aldosteronism: case detection, diagnosis,
+  and treatment: an endocrine society clinical practice guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 101\penalty0
+  (5):\penalty0 1889--1916, 2016.
+
+\bibitem[Young(2007)]{young2007primary}
+William~F. Young.
+\newblock Primary aldosteronism: renaissance of a syndrome.
+\newblock \emph{Clinical Endocrinology}, 66\penalty0 (5):\penalty0 607--618,
+  2007.
+
+\bibitem[Mulatero et~al.(2004)Mulatero, Stowasser, Loh, Fardella, Gordon,
+  Mosso, Gomez-Sanchez, Veglio, and Young]{mulatero2004increased}
+Paolo Mulatero, Michael Stowasser, Keh-Chuan Loh, Carlos~E. Fardella,
+  Richard~D. Gordon, Lorena Mosso, Celso~E. Gomez-Sanchez, Franco Veglio, and
+  William~F. Young.
+\newblock Increased diagnosis of primary aldosteronism, including surgically
+  correctable forms, in centers from five continents.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 89\penalty0
+  (3):\penalty0 1045--1050, 2004.
+
+\bibitem[Rossi et~al.(2014)Rossi, Auchus, Brown, Lenders, Naruse, Plouin,
+  Satoh, and Young]{rossi2014expert}
+Gian~Paolo Rossi, Richard~J. Auchus, Michael Brown, Jacques W.~M. Lenders,
+  Mitsuhide Naruse, Pierre-Fran{\c{c}}ois Plouin, Fumitoshi Satoh, and
+  William~F. Young.
+\newblock An expert consensus statement on use of adrenal vein sampling for the
+  subtyping of primary aldosteronism.
+\newblock \emph{Hypertension}, 63\penalty0 (1):\penalty0 151--160, 2014.
+
+\end{thebibliography}

@@ -1,0 +1,50 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[van~der Poll and Opal(2009)]{vanderpoll2009pathogenesis}
+T.~van~der Poll and S.~M. Opal.
+\newblock Pathogenesis, treatment, and prevention of pneumococcal pneumonia.
+\newblock \emph{The Lancet}, 374\penalty0 (9700):\penalty0 1543--1556, 2009.
+\newblock \doi{10.1016/s0140-6736(09)61114-4}.
+
+\bibitem[Sinclair et~al.(2013)Sinclair, Xie, Teltscher, and
+  Dendukuri]{sinclair2013systematic}
+A.~Sinclair, X.~Xie, M.~Teltscher, and N.~Dendukuri.
+\newblock Systematic review and meta-analysis of a urine-based pneumococcal
+  antigen test for diagnosis of community-acquired pneumonia.
+\newblock \emph{Journal of Clinical Microbiology}, 51\penalty0 (7):\penalty0
+  2303--2310, 2013.
+\newblock \doi{10.1128/jcm.00137-13}.
+
+\bibitem[Werno and Murdoch(2008)]{werno2008medical}
+A.~M. Werno and D.~R. Murdoch.
+\newblock Medical microbiology: laboratory diagnosis of invasive pneumococcal
+  disease.
+\newblock \emph{Clinical Infectious Diseases}, 46\penalty0 (6):\penalty0
+  926--932, 2008.
+\newblock \doi{10.1086/528798}.
+
+\bibitem[Clinical and Institute(2023)]{clsi2023performance}
+Clinical and Laboratory~Standards Institute.
+\newblock Performance standards for antimicrobial susceptibility testing, 2023.
+\newblock CLSI supplement M100.
+
+\bibitem[Metlay et~al.(2019)Metlay, Waterer, Long, Anzueto, Brozek, Crothers,
+  Cooley, Dean, Fine, Flanders, Griffin, Metersky, Musher, Restrepo, and
+  Whitney]{metlay2019diagnosis}
+Joshua~P. Metlay, Grant~W. Waterer, Ann~C. Long, Antonio Anzueto, Jan Brozek,
+  Kristina Crothers, Laura~A. Cooley, Nathan~C. Dean, Michael~J. Fine, Scott~A.
+  Flanders, Marie~R. Griffin, Mark~L. Metersky, Daniel~M. Musher, Marcos~I.
+  Restrepo, and Cynthia~G. Whitney.
+\newblock Diagnosis and treatment of adults with community-acquired pneumonia:
+  an official clinical practice guideline of the american thoracic society and
+  infectious diseases society of america.
+\newblock \emph{American Journal of Respiratory and Critical Care Medicine},
+  200\penalty0 (7):\penalty0 e45--e67, 2019.
+\newblock \doi{10.1164/rccm.201908-1581ST}.
+
+\end{thebibliography}

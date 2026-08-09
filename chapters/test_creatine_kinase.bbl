@@ -1,0 +1,64 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Panteghini(2006)]{panteghini2006recommendations}
+Mauro Panteghini.
+\newblock Recommendations for the use of cardiac troponin and {CK-MB} mass in
+  acute coronary syndromes.
+\newblock \emph{Clinical Chemistry and Laboratory Medicine}, 44\penalty0
+  (5):\penalty0 550--556, 2006.
+\newblock \doi{10.1515/CCLM.2006.109}.
+
+\bibitem[Rifai et~al.(2023)Rifai, Horvath, and Wittwer]{tietz2023textbook}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 7th edition, 2023.
+
+\bibitem[Morrow et~al.(2007)Morrow, Cannon, Jesse, Newby, Ravkilde, Storrow,
+  Wu, and Christenson]{morrow2007national}
+David~A. Morrow, Christopher~P. Cannon, Robert~L. Jesse, L.~Kristin Newby, Jan
+  Ravkilde, Alan~B. Storrow, Alan H.~B. Wu, and Robert~H. Christenson.
+\newblock National academy of clinical biochemistry laboratory medicine
+  practice guidelines: clinical characteristics and utilization of biochemical
+  markers in acute coronary syndromes.
+\newblock \emph{Circulation}, 115\penalty0 (13):\penalty0 e356--e375, 2007.
+\newblock \doi{10.1161/CIRCULATIONAHA.107.182881}.
+
+\bibitem[Bosch et~al.(2009)Bosch, Poch, and Grau]{bosch2009rhabdomyolysis}
+Xavier Bosch, Esteban Poch, and Josep~M. Grau.
+\newblock Rhabdomyolysis and acute kidney injury.
+\newblock \emph{New England Journal of Medicine}, 361\penalty0 (1):\penalty0
+  62--72, 2009.
+\newblock \doi{10.1056/NEJMra0801327}.
+
+\bibitem[Thompson et~al.(2003)Thompson, Clarkson, and
+  Karas]{thompson2003statin}
+Paul~D. Thompson, Priscilla Clarkson, and Richard~H. Karas.
+\newblock Statin-associated myopathy.
+\newblock \emph{JAMA}, 289\penalty0 (13):\penalty0 1681--1690, 2003.
+\newblock \doi{10.1001/jama.289.13.1681}.
+
+\bibitem[Dalakas(2015)]{dalakas2015inflammatory}
+Marinos~C. Dalakas.
+\newblock Inflammatory muscle diseases.
+\newblock \emph{New England Journal of Medicine}, 372\penalty0 (18):\penalty0
+  1734--1747, 2015.
+\newblock \doi{10.1056/NEJMra1402225}.
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Zimmerman and Shen(2013)]{zimmerman2013rhabdomyolysis}
+Jack~L. Zimmerman and Michael~C. Shen.
+\newblock Rhabdomyolysis.
+\newblock \emph{Chest}, 144\penalty0 (3):\penalty0 1058--1065, 2013.
+\newblock \doi{10.1378/chest.12-2017}.
+
+\end{thebibliography}

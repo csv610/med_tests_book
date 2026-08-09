@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tests_chapters/test_cyclosporine.aux
+The style file: unsrtnat.bst
+Database file #1: references.bib
+You've used 6 entries,
+            2481 wiz_defined-function locations,
+            596 strings with 5810 characters,
+and the built_in function-call counts, 2617 in all, are:
+= -- 214
+> -- 155
+< -- 1
++ -- 58
+- -- 46
+* -- 236
+:= -- 434
+add.period$ -- 21
+call.type$ -- 6
+change.case$ -- 12
+chr.to.int$ -- 6
+cite$ -- 6
+duplicate$ -- 116
+empty$ -- 227
+format.name$ -- 52
+if$ -- 535
+int.to.chr$ -- 1
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 41
+num.names$ -- 19
+pop$ -- 42
+preamble$ -- 1
+purify$ -- 6
+quote$ -- 0
+skip$ -- 61
+stack$ -- 0
+substring$ -- 143
+swap$ -- 12
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 39
+warning$ -- 0
+while$ -- 22
+width$ -- 0
+write$ -- 92

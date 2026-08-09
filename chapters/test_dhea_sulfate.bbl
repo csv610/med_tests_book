@@ -1,0 +1,65 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Auchus and Arlt(2018)]{auchus2018androgen}
+Richard~J. Auchus and Wiebke Arlt.
+\newblock Androgen biosynthesis: emerging pathophysiological concepts.
+\newblock \emph{Molecular and Cellular Endocrinology}, 465:\penalty0 38--48,
+  2018.
+
+\bibitem[Rege et~al.(2018)Rege, Merke, Bhatt, et~al.]{rege2018dhea}
+Juilee Rege, Deborah~P. Merke, D.~K. Bhatt, et~al.
+\newblock Dhea sulfotransferase: a diagnostic marker for adrenal androgen
+  excess.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 103\penalty0
+  (12):\penalty0 4509--4519, 2018.
+
+\bibitem[Baulieu et~al.(1965)Baulieu, Corpechot, Dray, Emiliozzi, Lebeau,
+  Mauvais-Jarvis, and Robel]{baulieu1965adrenalsecreted}
+Etienne-{\'E}mile Baulieu, Claude Corpechot, Fernand Dray, Roger Emiliozzi,
+  Marie-Claire Lebeau, Pierre Mauvais-Jarvis, and Paul Robel.
+\newblock An adrenal-secreted ``androgen'': dehydroisoandrosterone sulfate.
+\newblock \emph{Recent Progress in Hormone Research}, 21:\penalty0 411--500,
+  1965.
+
+\bibitem[Arlt et~al.(2011)Arlt, Biehl, Taylor, Hahner, Lib{\'e}, Hughes,
+  Schneider, Smith, Stiekema, Krone, et~al.]{arlt2011urine}
+Wiebke Arlt, Michael Biehl, Angela~E. Taylor, Stefanie Hahner, Rossella
+  Lib{\'e}, Beverly~A. Hughes, Petra Schneider, David~J. Smith, Han Stiekema,
+  Nils Krone, et~al.
+\newblock Urine steroid metabolomics as a biomarker tool for detecting
+  malignancy in adrenal tumors.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 96\penalty0
+  (12):\penalty0 3775--3784, 2011.
+\newblock \doi{10.1210/jc.2011-1565}.
+
+\bibitem[Teede et~al.(2018)Teede, Misso, Costello, Dokras, Laven, Moran,
+  Piltonen, Norman, et~al.]{teede2018recommendations}
+Helena~J. Teede, Marie~L. Misso, Michael~F. Costello, Anuja Dokras, Joop Laven,
+  Lisa Moran, Terhi Piltonen, Robert~J. Norman, et~al.
+\newblock Recommendations from the international evidence-based guideline for
+  the assessment and management of polycystic ovary syndrome.
+\newblock \emph{Human Reproduction}, 33\penalty0 (9):\penalty0 1602--1618,
+  2018.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[Wierman et~al.(2014)Wierman, Arlt, Basson, Davis, Miller, Murad,
+  Rosner, Santoro, et~al.]{wierman2014androgen}
+Margaret~E. Wierman, Wiebke Arlt, Rosemary Basson, Susan~R. Davis, Karen~K.
+  Miller, Mohammad~Hassan Murad, William Rosner, Nanette Santoro, et~al.
+\newblock Androgen therapy in women: an endocrine society clinical practice
+  guideline.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 99\penalty0
+  (10):\penalty0 3489--3510, 2014.
+\newblock \doi{10.1210/jc.2014-2261}.
+
+\end{thebibliography}

@@ -1,0 +1,55 @@
+\begin{thebibliography}{7}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bailey and Gregory(1999)]{bailey1999folate}
+Lynn~B. Bailey and Jesse F.~III Gregory.
+\newblock Folate metabolism and requirements.
+\newblock \emph{Journal of Nutrition}, 129\penalty0 (4):\penalty0 779--782,
+  1999.
+\newblock \doi{10.1093/jn/129.4.779}.
+
+\bibitem[Wills(1931)]{wills1931treatment}
+Lucy Wills.
+\newblock Treatment of ``pernicious anaemia of pregnancy'' and ``tropical
+  anaemia'' with special reference to yeast extract as a curative agent.
+\newblock \emph{BMJ}, 1\penalty0 (3676):\penalty0 1059--1064, 1931.
+\newblock \doi{10.1136/bmj.1.3676.1059}.
+
+\bibitem[Herbert(1962)]{herbert1962experimental}
+Victor Herbert.
+\newblock Experimental nutritional folate deficiency in man.
+\newblock \emph{Transactions of the Association of American Physicians},
+  75:\penalty0 307--320, 1962.
+
+\bibitem[{MRC Vitamin Study Research Group}(1991)]{mrc1991prevention}
+{MRC Vitamin Study Research Group}.
+\newblock Prevention of neural tube defects: results of the medical research
+  council vitamin study.
+\newblock \emph{Lancet}, 338\penalty0 (8760):\penalty0 131--137, 1991.
+
+\bibitem[De~Benoist(2008)]{debenois2008conclusions}
+Bruno De~Benoist.
+\newblock Conclusions of a {WHO} technical consultation on folate and vitamin
+  b12 deficiencies.
+\newblock \emph{Food and Nutrition Bulletin}, 29\penalty0 (2 Suppl):\penalty0
+  S238--S244, 2008.
+
+\bibitem[Berry et~al.(1999)Berry, Li, Erickson, et~al.]{berry1999prevention}
+Robert~J. Berry, Zhu Li, J.~David Erickson, et~al.
+\newblock Prevention of neural-tube defects with folic acid in china.
+\newblock \emph{New England Journal of Medicine}, 341\penalty0 (20):\penalty0
+  1485--1490, 1999.
+\newblock \doi{10.1056/NEJM199911113412001}.
+
+\bibitem[Green et~al.(2017)Green, Allen, Bj{\"o}rke-Monsen,
+  et~al.]{green2017vitamin}
+Ralph Green, Lindsay~H. Allen, Anne-Lise Bj{\"o}rke-Monsen, et~al.
+\newblock Vitamin b12 deficiency.
+\newblock \emph{Nature Reviews Disease Primers}, 3:\penalty0 17040, 2017.
+\newblock \doi{10.1038/nrdp.2017.40}.
+
+\end{thebibliography}

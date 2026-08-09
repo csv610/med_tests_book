@@ -1,0 +1,79 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Speiser et~al.(2018)Speiser, Arlt, Auchus, Baskin, Conway, Merke,
+  Meyer-Bahlburg, Miller, Murad, Oberfield, and White]{speiser2018congenital}
+Phyllis~W. Speiser, Wiebke Arlt, Richard~J. Auchus, Laurence~S. Baskin,
+  Gerard~S. Conway, Deborah~P. Merke, Heino F.~L. Meyer-Bahlburg, Walter~L.
+  Miller, M.~Hassan Murad, Sharon~E. Oberfield, and Perrin~C. White.
+\newblock Congenital adrenal hyperplasia due to steroid 21-hydroxylase
+  deficiency: an endocrine society clinical practice guideline.
+\newblock \emph{The Journal of Clinical Endocrinology \& Metabolism},
+  103\penalty0 (11):\penalty0 4043--4088, 2018.
+\newblock \doi{10.1210/jc.2018-01865}.
+
+\bibitem[Rifai et~al.(2018)Rifai, Horvath, and Wittwer]{rifai2018tietz}
+Nader Rifai, Andrea~Rita Horvath, and Carl~T. Wittwer, editors.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, St. Louis, MO, 6th edition, 2018.
+
+\bibitem[White and Speiser(2000)]{whitespeiser2000congenital}
+Perrin~C. White and Phyllis~W. Speiser.
+\newblock Congenital adrenal hyperplasia due to 21-hydroxylase deficiency.
+\newblock \emph{Endocrine Reviews}, 21\penalty0 (3):\penalty0 245--291, 2000.
+\newblock \doi{10.1210/edrv.21.3.0398}.
+
+\bibitem[Bongiovanni and Root(1963)]{bongiovanni1963adrenogenital}
+Alfred~M. Bongiovanni and Allen~W. Root.
+\newblock The adrenogenital syndrome.
+\newblock \emph{New England Journal of Medicine}, 268:\penalty0 1283--1289,
+  1963.
+\newblock \doi{10.1056/NEJM196306062682308}.
+
+\bibitem[Abraham et~al.(1971)Abraham, Swerdloff, Tulchinsky, Hopper, and
+  Odell]{abraham1971radioimmunoassay}
+Guy~E. Abraham, Ronald~S. Swerdloff, Dan Tulchinsky, Karen Hopper, and
+  William~D. Odell.
+\newblock Radioimmunoassay of plasma 17-hydroxyprogesterone.
+\newblock \emph{The Journal of Clinical Endocrinology \& Metabolism},
+  33\penalty0 (1):\penalty0 42--46, 1971.
+\newblock \doi{10.1210/jcem-33-1-42}.
+
+\bibitem[White et~al.(1984)White, New, and Dupont]{white1984hlalinked}
+Perrin~C. White, Maria~I. New, and Bo~Dupont.
+\newblock Hla-linked congenital adrenal hyperplasia results from a defective
+  gene encoding a cytochrome p-450 specific for steroid 21-hydroxylation.
+\newblock \emph{Proceedings of the National Academy of Sciences of the United
+  States of America}, 81\penalty0 (23):\penalty0 7505--7509, 1984.
+\newblock \doi{10.1073/pnas.81.23.7505}.
+
+\bibitem[New et~al.(2017)New, Lekarev, Parsa, Yuen, O'Malley, Yau, Markowitz,
+  Ferraz~de Camargo~Pinto, Khattab, Najera, Lin-Su, Speiser, Cohen, and
+  Wilson]{new2017nonclassic}
+Maria~I. New, Oksana Lekarev, Ashita Parsa, Tony~T. Yuen, Margarett O'Malley,
+  Mabel Yau, Daniel Markowitz, Carolina Ferraz~de Camargo~Pinto, Ahmed Khattab,
+  Cindy Najera, Karen Lin-Su, Phyllis~W. Speiser, Robert Cohen, and Richard~C.
+  Wilson.
+\newblock Nonclassic congenital adrenal hyperplasia.
+\newblock \emph{Endocrine Reviews}, 38\penalty0 (4):\penalty0 317--348, 2017.
+\newblock \doi{10.1210/er.2017-00003}.
+
+\bibitem[Merke and Bornstein(2005)]{merke2005congenital}
+Deborah~P. Merke and Stefan~R. Bornstein.
+\newblock Congenital adrenal hyperplasia.
+\newblock \emph{The Lancet}, 365\penalty0 (9477):\penalty0 2125--2136, 2005.
+\newblock \doi{10.1016/S0140-6736(05)66736-0}.
+
+\bibitem[El-Maouche et~al.(2017)El-Maouche, Arlt, and
+  Merke]{elmaouche2017congenital}
+Diala El-Maouche, Wiebke Arlt, and Deborah~P. Merke.
+\newblock Congenital adrenal hyperplasia.
+\newblock \emph{The Lancet}, 390\penalty0 (10108):\penalty0 2194--2210, 2017.
+\newblock \doi{10.1016/S0140-6736(17)31431-9}.
+
+\end{thebibliography}

@@ -1,0 +1,24 @@
+\begin{thebibliography}{2}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Sacks et~al.(2011)Sacks, Arnold, Bakris, Bruns, Horvath, Kirkman,
+  Lernmark, Metzger, and Nathan]{sacks2011guidelines}
+David~B. Sacks, Mark Arnold, George~L. Bakris, David~E. Bruns, Andrea~R.
+  Horvath, M.~Sue Kirkman, {\AA}ke Lernmark, Boyd~E. Metzger, and David~M.
+  Nathan.
+\newblock Guidelines and recommendations for laboratory analysis in the
+  diagnosis and management of diabetes mellitus.
+\newblock \emph{Clinical Chemistry}, 57\penalty0 (6):\penalty0 e1--e47, 2011.
+\newblock \doi{10.1373/clinchem.2010.161596}.
+
+\bibitem[Banting and Best(1922)]{banting1922internal}
+F.~G. Banting and C.~H. Best.
+\newblock The internal secretion of the pancreas.
+\newblock \emph{Journal of Laboratory and Clinical Medicine}, 7\penalty0
+  (5):\penalty0 251--266, 1922.
+
+\end{thebibliography}

@@ -1,0 +1,63 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Wallach(2022)]{wallach2022interpretation}
+Jacques Wallach.
+\newblock \emph{Interpretation of Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 10th edition, 2022.
+
+\bibitem[Burtis et~al.(2012)Burtis, Ashwood, and Bruns]{tietz2012textbook}
+Carl~A. Burtis, Edward~R. Ashwood, and David~E. Bruns.
+\newblock \emph{Tietz Textbook of Clinical Chemistry and Molecular
+  Diagnostics}.
+\newblock Elsevier, 5th edition, 2012.
+
+\bibitem[Papadakis et~al.(2023)Papadakis, McPhee, Rabow, and
+  McQuaid]{tierney2023current}
+Maxine~A. Papadakis, Stephen~J. McPhee, Michael~W. Rabow, and Kenneth~R.
+  McQuaid, editors.
+\newblock \emph{Current Medical Diagnosis and Treatment}.
+\newblock McGraw-Hill, New York, 62nd edition, 2023.
+
+\bibitem[Fischbach and Dunning(2023)]{fischbach2023manual}
+Frances~Talaska Fischbach and Marshall~Barnett Dunning.
+\newblock \emph{A Manual of Laboratory and Diagnostic Tests}.
+\newblock Wolters Kluwer, Philadelphia, 11th edition, 2023.
+
+\bibitem[Sterns(2015)]{sterns2015disorders}
+Richard~H. Sterns.
+\newblock Disorders of plasma sodium: causes, consequences, and correction.
+\newblock \emph{New England Journal of Medicine}, 372\penalty0 (1):\penalty0
+  55--65, 2015.
+\newblock \doi{10.1056/NEJMra1404489}.
+
+\bibitem[Verbalis et~al.(2013)Verbalis, Goldsmith, Greenberg, Korzelius,
+  Schrier, Sterns, and Thompson]{verbalis2013diagnosis}
+Joseph~G. Verbalis, Steven~R. Goldsmith, Arthur Greenberg, Cynthia Korzelius,
+  Robert~W. Schrier, Richard~H. Sterns, and Christopher~J. Thompson.
+\newblock Diagnosis, evaluation, and treatment of hyponatremia: Expert panel
+  recommendations.
+\newblock \emph{American Journal of Medicine}, 126\penalty0 (10 Suppl
+  1):\penalty0 S1--S42, 2013.
+\newblock \doi{10.1016/j.amjmed.2013.07.006}.
+
+\bibitem[Adrogu{\'e} and Madias(2000)]{adrogue2000hypernatremia}
+Horacio~J. Adrogu{\'e} and Nicolaos~E. Madias.
+\newblock Hypernatremia.
+\newblock \emph{New England Journal of Medicine}, 342\penalty0 (20):\penalty0
+  1493--1499, 2000.
+\newblock \doi{10.1056/NEJM200005183422006}.
+
+\bibitem[Kraut and Kurtz(2008)]{kraut2008toxic}
+Jeffrey~A. Kraut and Ira Kurtz.
+\newblock Toxic alcohol ingestions: clinical features, diagnosis, and
+  management.
+\newblock \emph{Clinical Journal of the American Society of Nephrology},
+  3\penalty0 (1):\penalty0 208--225, 2008.
+\newblock \doi{10.2215/CJN.03220807}.
+
+\end{thebibliography}
