@@ -4,9 +4,9 @@ A reference work covering the ordering, performance, and interpretation of labor
 
 ## Overview
 
-Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **235 individual medical tests**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
+Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **234 individual medical tests**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
 
-Each test is presented in a standardized 10-section format:
+Each test is presented in a standardized 15-section format:
 
 | Section | Description |
 |---|---|
@@ -27,9 +27,9 @@ Each entry closes with peer-reviewed references.
 
 ```
 ├── medical_tests.tex                 # Master file (book class, packages, frontmatter)
-├── tests_chapters/
+├── chapters/
 │   ├── chapter01_introduction.tex    # Foundational concepts and how to use the book
-│   ├── test_*.tex                    # 235 alphabetized test chapters
+│   ├── test_*.tex                    # 234 alphabetized test chapters
 │   └── appendix_*.tex                # 6 reference appendices
 └── .gitignore                        # Excludes LaTeX build artifacts
 ```
@@ -69,8 +69,8 @@ The compiled output is written to `medical_tests.pdf`.
 
 ## Adding a New Test
 
-1. Create `tests_chapters/test_<name>.tex` following the standardized section format used by existing chapters.
-2. Add a corresponding `\include{tests_chapters/test_<name>}` line in the alphabetical position within `medical_tests.tex`.
+1. Create `chapters/test_<name>.tex` following the standardized section format used by existing chapters.
+2. Add a corresponding `\include{chapters/test_<name>}` line in the alphabetical position within `medical_tests.tex`.
 3. Rebuild the document as described above.
 
 ## Disclaimer
