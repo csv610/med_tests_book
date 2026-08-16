@@ -1,10 +1,10 @@
 # Common Medical Tests: A Comprehensive Reference
 
-A reference work covering the ordering, performance, and interpretation of laboratory medicine, diagnostic imaging, and clinical procedures — organized alphabetically by test name and typeset entirely in LaTeX.
+A reference work covering the ordering, performance, and interpretation of medical laboratory and diagnostic tests — organized alphabetically by test name and typeset entirely in LaTeX.
 
 ## Overview
 
-Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **234 individual medical tests**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
+Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **314 included test chapters**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
 
 Each test is presented in a standardized 15-section format:
 
@@ -20,6 +20,7 @@ Each test is presented in a standardized 15-section format:
 | What Preparation Is Needed | Fasting, medications, and patient prep |
 | Contraindications and Precautions | Safety and interpretive caveats |
 | Understanding Results | Below / above normal interpretation, normal ranges, follow-up tests |
+| Regulatory Status and Authorization Date | Assay-specific FDA, CDSCO, EU IVDR, and MHRA status; no single date where the test category has multiple assays or is laboratory-developed |
 
 Each entry closes with peer-reviewed references.
 
@@ -29,7 +30,7 @@ Each entry closes with peer-reviewed references.
 ├── medical_tests.tex                 # Master file (book class, packages, frontmatter)
 ├── chapters/
 │   ├── chapter01_introduction.tex    # Foundational concepts and how to use the book
-│   ├── test_*.tex                    # 234 alphabetized test chapters
+│   ├── test_*.tex                    # 314 included alphabetized test chapters
 │   └── appendix_*.tex                # 6 reference appendices
 └── .gitignore                        # Excludes LaTeX build artifacts
 ```
