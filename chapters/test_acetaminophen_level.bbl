@@ -1,15 +1,9 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{5}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
-
-\bibitem[Rumack and Matthew(1975)]{rumack1975acetaminophen}
-Barry~H. Rumack and Henry Matthew.
-\newblock Acetaminophen poisoning and toxicity.
-\newblock \emph{Pediatrics}, 55\penalty0 (6):\penalty0 871--876, 1975.
-\newblock \doi{10.1542/peds.55.6.871}.
 
 \bibitem[Prescott(2000)]{prescott2000paracetamol}
 Laurie~F. Prescott.
@@ -25,6 +19,12 @@ D.~G.~D. Davidson and W.~N. Eastham.
   1966.
 \newblock \doi{10.1136/bmj.2.5512.497}.
 
+\bibitem[Rumack and Matthew(1975)]{rumack1975acetaminophen}
+Barry~H. Rumack and Henry Matthew.
+\newblock Acetaminophen poisoning and toxicity.
+\newblock \emph{Pediatrics}, 55\penalty0 (6):\penalty0 871--876, 1975.
+\newblock \doi{10.1542/peds.55.6.871}.
+
 \bibitem[Prescott et~al.(1979)Prescott, Illingworth, Critchley, Stewart, Adam,
   and Proudfoot]{prescott1979intravenous}
 L.~F. Prescott, R.~N. Illingworth, J.~A. J.~H. Critchley, M.~J. Stewart, R.~D.
@@ -34,26 +34,6 @@ L.~F. Prescott, R.~N. Illingworth, J.~A. J.~H. Critchley, M.~J. Stewart, R.~D.
 \newblock \emph{British Medical Journal}, 2\penalty0 (6198):\penalty0
   1097--1100, 1979.
 \newblock \doi{10.1136/bmj.2.6198.1097}.
-
-\bibitem[Heard(2008)]{heard2008acetylcysteine}
-Kennon~J. Heard.
-\newblock Acetylcysteine for acetaminophen poisoning.
-\newblock \emph{New England Journal of Medicine}, 359\penalty0 (3):\penalty0
-  285--292, 2008.
-\newblock \doi{10.1056/NEJMct0708278}.
-
-\bibitem[Dart et~al.(2006)Dart, Erdman, Olson, Christianson, Manoguerra, Chyka,
-  Caravati, Wax, Keyes, Woolf, Richard, Scharman, Troutman, Cobaugh, and
-  {American Association of Poison Control Centers}]{dart2006acetaminophen}
-Richard~C. Dart, Andrew~R. Erdman, Kent~R. Olson, Gwenn Christianson,
-  Anthony~S. Manoguerra, Peter~A. Chyka, E.~Martin Caravati, Paul~M. Wax,
-  Daniel~C. Keyes, Alan~D. Woolf, Andrea Richard, Elizabeth~J. Scharman,
-  William~G. Troutman, Daniel~J. Cobaugh, and {American Association of Poison
-  Control Centers}.
-\newblock Acetaminophen poisoning: an evidence-based consensus guideline for
-  out-of-hospital management.
-\newblock \emph{Clinical Toxicology}, 44\penalty0 (1):\penalty0 1--18, 2006.
-\newblock \doi{10.1080/15563650500394571}.
 
 \bibitem[Larson et~al.(2005)Larson, Polson, Fontana, Davern, Lalani, Hynan,
   Reisch, Schi{\o}dt, Ostapowicz, Shakil, and Lee]{larson2005acetaminophen}

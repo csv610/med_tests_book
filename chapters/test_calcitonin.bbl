@@ -5,16 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Barbet et~al.(2005)Barbet, Campion, Kraeber-Bod{\'e}r{\'e}, Chatal,
-  and the {GTE Study Group}]{barbet2005}
-Jacques Barbet, Lo{\"i}c Campion, Fran{\c{c}}oise Kraeber-Bod{\'e}r{\'e},
-  Jean-Fran{\c{c}}ois Chatal, and the {GTE Study Group}.
-\newblock Prognostic impact of serum calcitonin and carcinoembryonic antigen
-  doubling-times in patients with medullary thyroid carcinoma.
-\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 90\penalty0
-  (11):\penalty0 6077--6084, 2005.
-\newblock \doi{10.1210/jc.2005-0424}.
-
 \bibitem[Copp et~al.(1962)Copp, Cameron, Cheney, Davidson, and Henze]{copp1962}
 D.~Harold Copp, Elspeth~C. Cameron, Barbara~A. Cheney, Alexander G.~F.
   Davidson, and Karl~G. Henze.
@@ -32,5 +22,15 @@ Samuel~A. Wells, Sylvia~L. Asa, Henning Dralle, Rossella Elisei, Douglas~B.
   of medullary thyroid carcinoma.
 \newblock \emph{Thyroid}, 25\penalty0 (6):\penalty0 567--610, 2015.
 \newblock \doi{10.1089/thy.2014.0335}.
+
+\bibitem[Barbet et~al.(2005)Barbet, Campion, Kraeber-Bod{\'e}r{\'e}, Chatal,
+  and the {GTE Study Group}]{barbet2005}
+Jacques Barbet, Lo{\"i}c Campion, Fran{\c{c}}oise Kraeber-Bod{\'e}r{\'e},
+  Jean-Fran{\c{c}}ois Chatal, and the {GTE Study Group}.
+\newblock Prognostic impact of serum calcitonin and carcinoembryonic antigen
+  doubling-times in patients with medullary thyroid carcinoma.
+\newblock \emph{Journal of Clinical Endocrinology and Metabolism}, 90\penalty0
+  (11):\penalty0 6077--6084, 2005.
+\newblock \doi{10.1210/jc.2005-0424}.
 
 \end{thebibliography}

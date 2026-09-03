@@ -1,11 +1,11 @@
 This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: tests_chapters/test_red_blood_cell_indices.aux
+The top-level auxiliary file: chapters/test_red_blood_cell_indices.aux
 The style file: unsrtnat.bst
 Database file #1: references.bib
 You've used 8 entries,
             2481 wiz_defined-function locations,
-            601 strings with 5841 characters,
+            601 strings with 5829 characters,
 and the built_in function-call counts, 2823 in all, are:
 = -- 225
 > -- 153

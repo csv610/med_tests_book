@@ -1,15 +1,11 @@
 This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: tests_chapters/test_alcohol_use_screening.aux
+The top-level auxiliary file: chapters/test_alcohol_use_screening.aux
 The style file: unsrtnat.bst
 Database file #1: references.bib
-Repeated entry---line 5479 of file references.bib
- : @article{uspstf2018screening
- :                             ,
-I'm skipping whatever remains of this entry
 You've used 4 entries,
             2481 wiz_defined-function locations,
-            583 strings with 5458 characters,
+            583 strings with 5444 characters,
 and the built_in function-call counts, 1732 in all, are:
 = -- 149
 > -- 80
@@ -48,4 +44,3 @@ warning$ -- 0
 while$ -- 16
 width$ -- 0
 write$ -- 61
-(There was 1 error message)

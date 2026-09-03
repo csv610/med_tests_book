@@ -5,13 +5,6 @@
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[Pepys and Hirschfield(2003)]{pepys2003creactive}
-Mark~B. Pepys and Gideon~M. Hirschfield.
-\newblock C-reactive protein: a critical update.
-\newblock \emph{Journal of Clinical Investigation}, 111\penalty0 (12):\penalty0
-  1805--1812, 2003.
-\newblock \doi{10.1172/JCI18921}.
-
 \bibitem[Tillett and Francis(1930)]{tillett1930serological}
 William~S. Tillett and Thomas Francis.
 \newblock Serological reactions in pneumonia with a non-protein somatic
@@ -32,5 +25,12 @@ Paul~M. Ridker, Eleanor Danielson, Francisco A.~H. Fonseca, Jacques Genest,
 \newblock \emph{New England Journal of Medicine}, 359\penalty0 (21):\penalty0
   2195--2207, 2008.
 \newblock \doi{10.1056/NEJMoa0807646}.
+
+\bibitem[Pepys and Hirschfield(2003)]{pepys2003creactive}
+Mark~B. Pepys and Gideon~M. Hirschfield.
+\newblock C-reactive protein: a critical update.
+\newblock \emph{Journal of Clinical Investigation}, 111\penalty0 (12):\penalty0
+  1805--1812, 2003.
+\newblock \doi{10.1172/JCI18921}.
 
 \end{thebibliography}

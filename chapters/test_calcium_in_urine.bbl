@@ -12,6 +12,13 @@ Charles Y.~C. Pak.
   F415--F423, 1979.
 \newblock \doi{10.1152/ajprenal.1979.237.6.F415}.
 
+\bibitem[Worcester and Coe(2010)]{worcester2010}
+Elaine~M. Worcester and Fredric~L. Coe.
+\newblock Calcium kidney stones.
+\newblock \emph{New England Journal of Medicine}, 363\penalty0 (10):\penalty0
+  954--963, 2010.
+\newblock \doi{10.1056/NEJMcp1001011}.
+
 \bibitem[Pearle et~al.(2014)Pearle, Goldfarb, Assimos, Curhan, Denu-Ciocca,
   Matlaga, Monga, Penniston, Preminger, Turk, et~al.]{pearle2014}
 Margaret~S. Pearle, David~S. Goldfarb, Dean~G. Assimos, Gary Curhan, Cynthia~J.
@@ -20,12 +27,5 @@ Margaret~S. Pearle, David~S. Goldfarb, Dean~G. Assimos, Gary Curhan, Cynthia~J.
 \newblock Medical management of kidney stones: {AUA} guideline.
 \newblock \emph{Journal of Urology}, 192\penalty0 (2):\penalty0 316--324, 2014.
 \newblock \doi{10.1016/j.juro.2014.05.006}.
-
-\bibitem[Worcester and Coe(2010)]{worcester2010}
-Elaine~M. Worcester and Fredric~L. Coe.
-\newblock Calcium kidney stones.
-\newblock \emph{New England Journal of Medicine}, 363\penalty0 (10):\penalty0
-  954--963, 2010.
-\newblock \doi{10.1056/NEJMcp1001011}.
 
 \end{thebibliography}

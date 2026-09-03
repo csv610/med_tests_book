@@ -1,11 +1,11 @@
 This is BibTeX, Version 0.99e (TeX Live 2026/Homebrew)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: tests_chapters/test_lyme_disease_antibody.aux
+The top-level auxiliary file: chapters/test_lyme_disease_antibody.aux
 The style file: unsrtnat.bst
 Database file #1: references.bib
 You've used 3 entries,
             2481 wiz_defined-function locations,
-            570 strings with 5996 characters,
+            570 strings with 5984 characters,
 and the built_in function-call counts, 2119 in all, are:
 = -- 91
 > -- 288
