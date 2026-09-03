@@ -4,7 +4,7 @@ A reference work covering the ordering, performance, and interpretation of medic
 
 ## Overview
 
-Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **320 included test chapters**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
+Modern clinical practice relies on diagnostic testing. *Common Medical Tests: A Comprehensive Reference* bridges the gap between test ordering and result interpretation. It covers **326 included test chapters**, from routine chemistry panels and complete blood counts to genetic assays, therapeutic drug monitoring, microbiology cultures, and point-of-care testing.
 
 Each test is presented in a standardized 15-section format:
 
@@ -30,7 +30,7 @@ Each entry closes with peer-reviewed references.
 ├── medical_tests.tex                 # Master file (book class, packages, frontmatter)
 ├── chapters/
 │   ├── chapter01_introduction.tex    # Foundational concepts and how to use the book
-│   ├── test_*.tex                    # 320 included alphabetized test chapters
+│   ├── test_*.tex                    # 326 included alphabetized test chapters
 │   └── appendix_*.tex                # 6 reference appendices
 └── .gitignore                        # Excludes LaTeX build artifacts
 ```
